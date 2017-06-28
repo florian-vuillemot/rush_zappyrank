@@ -4,7 +4,6 @@
     <list default="true" id="76296d8c-1a17-47d9-9c31-14114c21cd4c" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api_zappy/app/views/user/code.html.erb" afterPath="$PROJECT_DIR$/api_zappy/app/views/user/code.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api_zappy/app/views/user/menu.html.erb" afterPath="$PROJECT_DIR$/api_zappy/app/views/user/menu.html.erb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api_zappy/app/views/user/ranking.html.erb" afterPath="$PROJECT_DIR$/api_zappy/app/views/user/ranking.html.erb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api_zappy/app/views/user/upload.html.erb" afterPath="$PROJECT_DIR$/api_zappy/app/views/user/upload.html.erb" />
     </list>
@@ -24,11 +23,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="code.html.erb" pinned="false" current-in-tab="true">
+      <file leaf-file-name="code.html.erb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/api_zappy/app/views/user/code.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="11" column="42" lean-forward="false" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
+            <state relative-caret-position="105">
+              <caret line="12" column="83" lean-forward="false" selection-start-line="12" selection-start-column="83" selection-end-line="12" selection-end-column="83" />
               <folding />
             </state>
           </provider>
@@ -54,11 +53,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ranking.html.erb" pinned="false" current-in-tab="false">
+      <file leaf-file-name="ranking.html.erb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/api_zappy/app/views/user/ranking.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="11" column="42" lean-forward="false" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
+            <state relative-caret-position="69">
+              <caret line="12" column="83" lean-forward="false" selection-start-line="12" selection-start-column="83" selection-end-line="12" selection-end-column="83" />
               <folding />
             </state>
           </provider>
@@ -68,28 +67,18 @@
         <entry file="file://$PROJECT_DIR$/api_zappy/app/views/user/upload.html.erb">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="216">
-              <caret line="12" column="19" lean-forward="false" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
-              <folding>
-                <marker date="1498661354543" expanded="true" signature="4:789" ph="..." />
-                <marker date="1498661354543" expanded="true" signature="33:782" ph="..." />
-                <marker date="1498661354543" expanded="false" signature="72:98" ph="..." />
-                <marker date="1498661354543" expanded="true" signature="99:773" ph="..." />
-                <marker date="1498661354543" expanded="true" signature="131:448" ph="..." />
-                <marker date="1498661354543" expanded="true" signature="251:435" ph="..." />
-                <marker date="1498661354543" expanded="true" signature="266:421" ph="..." />
-                <marker date="1498661354543" expanded="true" signature="342:416" ph="..." />
-                <marker date="1498661354543" expanded="true" signature="345:408" ph="..." />
-                <marker date="1498661354543" expanded="true" signature="480:762" ph="..." />
-                <marker date="1498661354543" expanded="true" signature="523:749" ph="..." />
-                <marker date="1498661354543" expanded="false" signature="803:904" ph="..." />
-                <marker date="1498661354543" expanded="true" signature="905:1587" ph="..." />
-                <marker date="1498661354543" expanded="false" signature="921:937" ph="..." />
-                <marker date="1498661354543" expanded="true" signature="938:1580" ph="..." />
-                <marker date="1498661354543" expanded="true" signature="1191:1571" ph="..." />
-                <marker date="1498661354543" expanded="true" signature="1234:1491" ph="..." />
-                <marker date="1498661354543" expanded="true" signature="1260:1345" ph="..." />
-                <marker date="1498661354543" expanded="true" signature="1385:1478" ph="..." />
-              </folding>
+              <caret line="12" column="83" lean-forward="false" selection-start-line="12" selection-start-column="83" selection-end-line="12" selection-end-column="83" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="routes.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/api_zappy/config/routes.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -109,11 +98,11 @@
         <option value="$PROJECT_DIR$/api_zappy/app/views/user/menu.html" />
         <option value="$PROJECT_DIR$/api_zappy/app/views/layouts/application.html.erb" />
         <option value="$PROJECT_DIR$/api_zappy/app/views/user/ranking.html" />
-        <option value="$PROJECT_DIR$/api_zappy/app/views/user/code.html.erb" />
         <option value="$PROJECT_DIR$/api_zappy/app/views/user/menu.html.erb" />
-        <option value="$PROJECT_DIR$/api_zappy/app/views/user/ranking.html.erb" />
-        <option value="$PROJECT_DIR$/api_zappy/app/views/user/upload.html.erb" />
         <option value="$PROJECT_DIR$/api_zappy/app/views/user/upload.html" />
+        <option value="$PROJECT_DIR$/api_zappy/app/views/user/upload.html.erb" />
+        <option value="$PROJECT_DIR$/api_zappy/app/views/user/code.html.erb" />
+        <option value="$PROJECT_DIR$/api_zappy/app/views/user/ranking.html.erb" />
       </list>
     </option>
   </component>
@@ -158,6 +147,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="api_zappy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rush_zappyrank" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rush_zappyrank" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="api_zappy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -342,18 +349,18 @@
       <option name="presentableId" value="Default" />
       <updated>1498643891383</updated>
       <workItem from="1498643892883" duration="2402000" />
-      <workItem from="1498657344403" duration="2326000" />
+      <workItem from="1498657344403" duration="5664000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4728000" />
+    <option name="totallyTimeSpent" value="8066000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-1056" width="1855" height="1056" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24959569" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24959569" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -489,14 +496,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/api_zappy/app/views/user/menu.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="10" lean-forward="false" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/api_zappy/app/views/user/index.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -505,10 +504,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/api_zappy/app/views/user/ranking.html.erb">
+    <entry file="file://$PROJECT_DIR$/api_zappy/app/views/user/menu.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="10" lean-forward="false" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api_zappy/config.ru">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api_zappy/config/routes.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
-          <caret line="11" column="42" lean-forward="false" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api_zappy/app/views/user/code.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="12" column="83" lean-forward="false" selection-start-line="12" selection-start-column="83" selection-end-line="12" selection-end-column="83" />
           <folding />
         </state>
       </provider>
@@ -516,35 +539,15 @@
     <entry file="file://$PROJECT_DIR$/api_zappy/app/views/user/upload.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
-          <caret line="12" column="19" lean-forward="false" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
-          <folding>
-            <marker date="1498661354543" expanded="true" signature="4:789" ph="..." />
-            <marker date="1498661354543" expanded="true" signature="33:782" ph="..." />
-            <marker date="1498661354543" expanded="false" signature="72:98" ph="..." />
-            <marker date="1498661354543" expanded="true" signature="99:773" ph="..." />
-            <marker date="1498661354543" expanded="true" signature="131:448" ph="..." />
-            <marker date="1498661354543" expanded="true" signature="251:435" ph="..." />
-            <marker date="1498661354543" expanded="true" signature="266:421" ph="..." />
-            <marker date="1498661354543" expanded="true" signature="342:416" ph="..." />
-            <marker date="1498661354543" expanded="true" signature="345:408" ph="..." />
-            <marker date="1498661354543" expanded="true" signature="480:762" ph="..." />
-            <marker date="1498661354543" expanded="true" signature="523:749" ph="..." />
-            <marker date="1498661354543" expanded="false" signature="803:904" ph="..." />
-            <marker date="1498661354543" expanded="true" signature="905:1587" ph="..." />
-            <marker date="1498661354543" expanded="false" signature="921:937" ph="..." />
-            <marker date="1498661354543" expanded="true" signature="938:1580" ph="..." />
-            <marker date="1498661354543" expanded="true" signature="1191:1571" ph="..." />
-            <marker date="1498661354543" expanded="true" signature="1234:1491" ph="..." />
-            <marker date="1498661354543" expanded="true" signature="1260:1345" ph="..." />
-            <marker date="1498661354543" expanded="true" signature="1385:1478" ph="..." />
-          </folding>
+          <caret line="12" column="83" lean-forward="false" selection-start-line="12" selection-start-column="83" selection-end-line="12" selection-end-column="83" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/api_zappy/app/views/user/code.html.erb">
+    <entry file="file://$PROJECT_DIR$/api_zappy/app/views/user/ranking.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="42" lean-forward="false" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
+        <state relative-caret-position="69">
+          <caret line="12" column="83" lean-forward="false" selection-start-line="12" selection-start-column="83" selection-end-line="12" selection-end-column="83" />
           <folding />
         </state>
       </provider>

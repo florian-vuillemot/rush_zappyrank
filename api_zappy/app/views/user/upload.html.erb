@@ -4,15 +4,14 @@
       <div class="nav-wrapper">
         <a href="menu.html.erb" class="brand-logo center">ZappyRank</a>
         <ul class="right hide-on-med-and-down">
-          <li><a class="dropdown-button " href="../index.html" data-activates="dropdown1"><i
-          class="fa fa-power-off fa-2x" aria-hidden="true"></i></i></a></li>
+          <li><a href="../index.html">Logout</a></li>
         </ul>
       </div>
       <div class="nav-content">
         <ul class="tabs tabs-transparent">
-          <li class="tab"><a onclick="">Classement</a></li>
-          <li class="tab"><a href="code.html.erb">Live Code</a></li>
-          <li class="tab"><a class="active" href="upload.html.erb">Upload</a></li>
+          <li class="tab"><a onclick="redirectLeaderboard()">Leaderboard</a></li>
+          <!--<li class="tab"><a onclick="redirectLivecode()">Live Code</a></li>-->
+          <li class="tab"><a onclick="redirectUpload()">Upload</a></li>
         </ul>
       </div>
     </nav>
@@ -39,3 +38,14 @@
     </form>
   </div>
 </div>
+<script>
+  function redirectLeaderboard(){
+      window.location = "https://www.epirank.eu:3000/ranking";
+  }
+  function redirectLivecode(){
+      window.location = "https://www.epirank.eu:3000/code";
+  }
+  function redirectUpload(){
+      window.location = "https://www.epirank.eu:3000/upload";
+  }
+</script>
