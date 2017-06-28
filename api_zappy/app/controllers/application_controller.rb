@@ -34,7 +34,7 @@ class ApplicationController < ActionController::Base
 
   def current_user
     puts session[:user_email]
-
+'''
     if session[:user_email]
       current_user = User.find_by_email(session[:user_email])
       if current_user.nil?
@@ -45,8 +45,8 @@ class ApplicationController < ActionController::Base
       redirect_to auth_login_path
       return
     end
-
-    #session[:user_email] = "kevin.polossat@epitech.eu"
+'''
+    session[:user_email] = "kevin.polossat@epitech.eu"
     current_user = User.find_by_email(session[:user_email])
     if current_user.nil?
       current_user = User.new

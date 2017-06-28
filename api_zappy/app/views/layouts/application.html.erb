@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>ApiZappy</title>
+    <title>ZappyRank</title>
     <%= csrf_meta_tags %>
 
     <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
@@ -24,7 +24,7 @@
     <% end %>
   </div>
 
-  <ul style="text-decoration: none">
+  <!--<ul style="text-decoration: none">
     <li>
       <% if @user_log %>
         <%= link_to 'Mes log', @user_log, download: '' %>
@@ -35,7 +35,7 @@
           <%= link_to 'Log serveur', @server_log, download: '' %>
       <% end %>
     </li>
-  </ul>
+  </ul>-->
 
   <%= yield %>
   </body>
