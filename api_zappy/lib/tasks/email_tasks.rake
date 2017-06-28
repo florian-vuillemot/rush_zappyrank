@@ -100,7 +100,7 @@ def update_score(ias, files_res)
         puts "Score + " + score.to_s
         puts "Ancien score " + user.score.to_s
         user.score += score
-        user.server_log = 'pools/' + fres[0] + '/' + fres[0]
+        user.server_log = 'pools/' + fres[0] + '/' + fres[0] + '.log'
         user.log = 'pools/' + fres[0] + '/log-' + user.email + '.txt'
         puts "user log et server log: " + user.server_log + "   " + user.log
         user.save
