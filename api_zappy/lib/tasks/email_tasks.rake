@@ -100,6 +100,9 @@ def update_score(ias, files_res)
         puts "Score + " + score.to_s
         puts "Ancien score " + user.score.to_s
         user.score += score
+        user.server_log = 'pools/' + fres[0] + '/' + fres[0]
+        user.log = 'pools/' + fres[0] + '/log-' + user.email + '.txt'
+        puts "user log et server log: " + user.server_log + "   " + user.log
         user.save
       end
 
@@ -109,7 +112,7 @@ def update_score(ias, files_res)
   end
 end
 
-def update_ranking(ias)
+def update_ranking
   users = User.order(score: :desc)
   ranking = 1
 
@@ -132,5 +135,5 @@ task make_ranking: :environment do
   exec_ia(Array.new(ia), Array.new(file_res))
   contents = get_contents_files(file_res) # Content of files ex of docker [name_file, [name_user, [lvl]], ...]
   update_score(Array.new(ia), contents)
-  update_ranking(Array.new(ia))
+  update_ranking()
 end
