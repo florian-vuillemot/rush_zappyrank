@@ -31,14 +31,14 @@
   </tr>
   </thead>
   <tbody>
-  <tr class="white-text">
     <% @ranking.each do |r| %>
-        <td><%= r.ranking %></td>
-        <td><%= r.email %></td>
-        <td><%= r.promo %></td>
-        <td><%= r.city %></td>
-        <td><%= r.score %></td>
+    <tr class="white-text">
+      <td><%= r.ranking %></td>
+      <td><%= r.email %></td>
+      <td><%= r.promo %></td>
+      <td><%= r.city %></td>
+      <td><%= r.score %></td>
+    </tr>
     <% end %>
-  </tr>
   </tbody>
 </table>
