@@ -12,6 +12,7 @@ Rails.application.routes.draw do
   match "/upload", to: "user#upload", via: :post
   match "/ranking", to: "user#ranking", via: :get
   match "/upload", to: "user#upload_get", via: :get
+  match "/upload_code", to: "user#upload_code", via: :post
   match "/code", to: "user#live_code", via: :get
   match "/menu", to: "user#menu", via: :get
 
