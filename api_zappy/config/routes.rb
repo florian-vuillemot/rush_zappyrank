@@ -16,5 +16,5 @@ Rails.application.routes.draw do
   match "/code", to: "user#live_code", via: :get
   match "/menu", to: "user#menu", via: :get
 
-  root "user#menu"
+  root "user#ranking"
 end
