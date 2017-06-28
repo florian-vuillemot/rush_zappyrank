@@ -7,7 +7,7 @@ class UserController < ApplicationController
   end
 
   def index
-    @ranking = User.order(ranking: :desc).limit(50)
+    @ranking = User.order(ranking: :desc)
     get_logs
     render 'index'
   end
@@ -37,6 +37,20 @@ class UserController < ApplicationController
   def upload_get
     get_logs
     render 'upload'
+  end
+
+  def upload_code
+    code = params[:code]
+    unless code.nil?
+      puts code
+      FileUtils.rm_rf(Dir.glob('delivery/' + session[:user_email] + '/*'))
+      File.open(Rails.root.join('delivery', session[:user_email], "zappy_ai"), 'w') do |file|
+        file.write(code.force_encoding(Encoding::UTF_8))
+      end
+      redirect_to '/menu', :flash => { success: "IA correctement upload" }
+    else
+      redirect_to '/upload', :flash => { error: "Erreur, aucun code reçu" }
+    end
   end
 
   def live_code
