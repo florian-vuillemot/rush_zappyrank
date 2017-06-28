@@ -32,7 +32,13 @@
   <tbody>
     <% @ranking.each do |r| %>
     <tr class="white-text">
-      <td><%= r.ranking %></td>
+      <td>
+        <% if r.ranking == -1 %>
+          Non classée
+        <% else %>
+          <%= r.ranking %>
+        <% end %>
+      </td>
       <td><%= r.email %></td>
       <td><%= r.promo %></td>
       <td><%= r.city %></td>
