@@ -30,7 +30,7 @@ class UserController < ApplicationController
 
   def ranking
     get_logs
-    @ranking = User.order(ranking: :desc)
+    @ranking = User.order(ranking: :asc)
     render 'ranking'
   end
 
