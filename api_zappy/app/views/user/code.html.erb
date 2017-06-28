@@ -1,0 +1,47 @@
+<div>
+  <div class="navbar-fixed">
+    <nav class="nav-extended">
+      <div class="nav-wrapper">
+        <a href="menu.html" class="brand-logo center">ZappyRank</a>
+        <ul class="right hide-on-med-and-down">
+          <li><a class="dropdown-button " href="../index.html" data-activates="dropdown1"><i
+          class="fa fa-power-off fa-2x" aria-hidden="true"></i></i></a></li>
+        </ul>
+      </div>
+      <div class="nav-content">
+        <ul class="tabs tabs-transparent">
+          <li class="tab"><a href="classement.html">Classement</a></li>
+          <li class="tab"><a class="active" href="liveCode.html">Live Code</a></li>
+          <li class="tab"><a href="upload.html">Upload</a></li>
+        </ul>
+      </div>
+    </nav>
+  </div>
+</div>
+<div style="margin-top: 50px">
+  <div id="editor"></div>
+
+  <script src="../ace-builds-master/src/ace.js" type="text/javascript" charset="utf-8"></script>
+  <script>
+      var editor = ace.edit("editor");
+      editor.setTheme("ace/theme/monokai");
+      editor.getSession().setMode("ace/mode/c_cpp");
+  </script>
+  <div id="parameters">
+    <script>
+        $(document).ready(function () {
+            $('select').material_select();
+        });
+    </script>
+    <div class="input-field col s12">
+      <select class="col l12 m12 s12" name="promo" style="display: inline-block">
+        <option value="" disabled selected>Choix du langage</option>
+        <option value="Javascript">Javascript</option>
+        <option value="C/C++">C/C++</option>
+        <option value="Scala">Scala</option>
+      </select>
+    </div>
+    <a class="btn waves-effect waves-light">Submit</a>
+  </div>
+</div>
+</div>

@@ -1,0 +1,26 @@
+<!--
+<h1>User#index</h1>
+<% @ranking.each do |r| %>
+  <li><%= r.email %> <%= r.ranking %></li>
+<% end %>
+
+
+<form action="/upload" method="post" enctype="multipart/form-data">
+<input type="file" name="user">
+<div class="text-center">                                                                      |
+  <button type="submit" class="btn btn-default">Attribuer des épices à l'utilisateur</button>  |
+</div>
+</form>
+-->
+<div class="container">
+  <p class="white-text center">ZappyRank est un site réservé aux membres d'Epitech.</p>
+  <p class="white-text center">Il est donc nécessaire de vous créer un compte ou de vous connecter si vous avez déjà un compte.</p>
+  <form role="form">
+    <input placeholder="Email Epitech"><br>
+    <input placeholder="Password"><br>
+    <a class="btn waves-effect waves-light" href="html/menu.html">Connexion</a>
+  </form>
+  <br>
+  <a class="btn waves-effect waves-light" href="html/inscription.html" >Inscription</a>
+  <a class="btn waves-effect waves-light" href="html/recuperation.html">Mot de passe oublié</a>
+</div>

@@ -1,0 +1,44 @@
+class/table:334:in `iHaveMyFriends'class/table:278:in `callFriend'class/table:102:in `gets': Connection reset by peer @ io_fillbuf - fd:7  (Errno::ECONNRESET)
+	from class/table:102:in `putsToClient'
+: 	from class/table:212:in `choiceDirectionMinerals'
+undefined method `split' for nil:NilClass	from class/table:129:in `block in evaluate'
+ (NoMethodError	from class/table:127:in `each'
+)
+	from class/table:127:in `evaluate'
+	from class/table:129:in `block in evaluate'
+: 	from ./ai:25:in `<main>'
+	from class/table:127:in `each'
+undefined method `split' for nil:NilClass	from class/table:127:in `evaluate'
+ (	from ./ai:25:in `<main>'
+NoMethodError)
+	from class/table:129:in `block in evaluate'
+	from class/table:127:in `each'
+	from class/table:127:in `evaluate'
+	from ./ai:25:in `<main>'
+level 2
+level 3
+level 4
+level 2
+level 3
+level 4
+level 2
+level 3
+level 2
+level 3
+class/table:102:in `gets': class/table:270:in `incant'Connection reset by peer @ io_fillbuf - fd:7  (Errno::ECONNRESET)
+	from class/table:102:in `putsToClient'
+	from class/food:62:in `choiceDirectiontoFood'
+	from class/table:129:in `block in evaluate'
+	from class/table:127:in `each'
+	from class/table:127:in `evaluate'
+	from ./ai:25:in `<main>'
+: undefined method `tr' for nil:NilClass (NoMethodError)
+	from class/table:129:in `block in evaluate'
+	from class/table:127:in `each'
+	from class/table:127:in `evaluate'
+	from ./ai:25:in `<main>'
+level 2
+./ai:14:in `connect': Connection refused - connect(2) for 127.0.0.1:4242 (Errno::ECONNREFUSED)
+	from ./ai:14:in `<main>'
+./ai:14:in `connect': Connection refused - connect(2) for 127.0.0.1:4242 (Errno::ECONNREFUSED)
+	from ./ai:14:in `<main>'

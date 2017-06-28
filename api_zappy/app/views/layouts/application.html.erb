@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>ApiZappy</title>
+    <%= csrf_meta_tags %>
+
+    <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+    <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+
+    <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
+    <!-- Compiled and minified CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.2/css/materialize.min.css">
+    <!-- Compiled and minified JavaScript -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.2/js/materialize.min.js"></script>
+
+    <!-- ACE -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/ace/1.2.7/ace.js"></script>
+  </head>
+
+  <body>
+  <div>
+    <% flash.each do |key, value| %>
+        <%= content_tag :div, value, class: "flash #{key} text-center" %>
+    <% end %>
+  </div>
+
+  <ul style="text-decoration: none">
+    <li>
+      <% if @user_log %>
+        <%= link_to 'Mes log', @user_log, download: '' %>
+      <% end %>
+    </li>
+    <li>
+      <% if @server_log %>
+          <%= link_to 'Log serveur', @server_log, download: '' %>
+      <% end %>
+    </li>
+  </ul>
+
+  <%= yield %>
+  </body>
+</html>
