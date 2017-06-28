@@ -7,6 +7,7 @@ class ApplicationController < ActionController::Base
 
   def get_user_data(user_name, user)
     url = 'https://intra.epitech.eu/auth-ded102aa843dc494f2e69873c00fc05194d95a64/user/' + user_name +'/?format=json'
+    '''
     uri = URI(url)
 
     res = Net::HTTP.get(uri)
@@ -26,6 +27,9 @@ class ApplicationController < ActionController::Base
     else
       user.promo = promo
     end
+'''
+    user.promo = "NC"
+    user.city = "NC"
   end
 
   def current_user
