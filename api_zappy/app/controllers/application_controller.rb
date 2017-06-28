@@ -1,4 +1,4 @@
-require 'net/http'
+require 'open-uri'
 require 'json'
 
 class ApplicationController < ActionController::Base
@@ -11,9 +11,11 @@ class ApplicationController < ActionController::Base
     uri = URI(url)
 
     res = Net::HTTP.get(uri)
-
-    data = JSON.parse(res.body)
+    '''
+    content = open(url).read
+    data = JSON.parse(content)
     puts data
+
     city = data["location"].split("/")[1]
     promo = data["promo"]
 
@@ -27,9 +29,9 @@ class ApplicationController < ActionController::Base
     else
       user.promo = promo
     end
-'''
-    user.promo = "NC"
-    user.city = "NC"
+
+#    user.promo = "NC"
+#    user.city = "NC"
   end
 
   def current_user
