@@ -1,3 +1,6 @@
+require 'net/http'
+require 'json'
+
 class AuthController < ApplicationController
   include AuthHelper
 
