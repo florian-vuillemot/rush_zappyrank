@@ -15,7 +15,11 @@
  */
 
 body{
-    background:#EE6E73;
+    background-color:#2F3130;
+}
+
+nav{
+    background-color: #2DAAE2;
 }
 
 #editor {
