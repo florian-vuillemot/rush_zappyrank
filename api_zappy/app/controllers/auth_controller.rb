@@ -12,12 +12,22 @@ class AuthController < ApplicationController
     res = Net::HTTP.get(uri)
     '''
     content = open(url).read
+
+    if content.nil?
+      return false
+    end
     data = JSON.parse(content)
+    if data.nil?
+      return false
+    end
     puts data
 
     city = data["location"].split("/")[1]
     promo = data["promo"]
 
+    if city.nil? or promo.nil?
+      return false
+    end
     if city.nil?
       user.city = "Ghost"
     else
@@ -29,6 +39,7 @@ class AuthController < ApplicationController
       user.promo = promo
     end
 
+    return true
 #    user.promo = "NC"
 #    user.city = "NC"
   end
@@ -46,7 +57,10 @@ class AuthController < ApplicationController
       @user.admin = 0
       @user.ranking = -1
       @user.score = 0
-      get_user_data(@user.email, @user)
+      if get_user_data(@user.email, @user) === false
+        render "auth/error"
+        return
+      end
       @user.save
     end
     redirect_to root_path
@@ -59,5 +73,8 @@ class AuthController < ApplicationController
     session[:azure_token] = nil
     session[:user_email] = nil
     redirect_to auth_login_path
+  end
+
+  def error
   end
 end

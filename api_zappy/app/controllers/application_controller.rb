@@ -6,18 +6,29 @@ class ApplicationController < ActionController::Base
   helper_method :user_logged_in, :current_user
 
   def get_user_data(user_name, user)
-      url = 'https://intra.epitech.eu/auth-ded102aa843dc494f2e69873c00fc05194d95a64/user/' + user_name +'/?format=json'
+    url = 'https://intra.epitech.eu/auth-ded102aa843dc494f2e69873c00fc05194d95a64/user/' + user_name +'/?format=json'
     '''
     uri = URI(url)
 
     res = Net::HTTP.get(uri)
     '''
     content = open(url).read
+    if content.nil?
+      return false
+    end
+
     data = JSON.parse(content)
+    if data.nil?
+      return false
+    end
     puts data
 
     city = data["location"].split("/")[1]
     promo = data["promo"]
+
+    if city.nil? or promo.nil?
+      return false
+    end
 
     if city.nil?
       user.city = "Ghost"
@@ -30,12 +41,13 @@ class ApplicationController < ActionController::Base
       user.promo = promo
     end
 
+    return true
 #    user.promo = "NC"
 #    user.city = "NC"
   end
 
   def current_user
-    session[:user_email] = "florian.vuillemot@epitech.eu"
+    #session[:user_email] = "florian.vuillemot@epitech.eu"
     puts session[:user_email]
 
     if session[:user_email]
@@ -56,7 +68,10 @@ class ApplicationController < ActionController::Base
       current_user.admin = 0
       current_user.ranking = -1
       current_user.score = 0
-      get_user_data(current_user.email, current_user)
+      if get_user_data(current_user.email, current_user) === false
+        render "auth/error"
+        return
+      end
       current_user.save
     end
 

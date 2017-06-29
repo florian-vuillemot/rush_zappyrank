@@ -82,17 +82,7 @@ def get_score(lvls)
   puts "Score final: " + score.to_s
   score
 end
-  '''
-  score =
-  i = 1
-  lvls.each do |lvl|
-    score += lvl.to_i * i
-    i += 1
-  end
-  puts "Score final: " + score.to_s
-  score
-end
-'''
+
 
 def update_score(ias, files_res)
   cursor_files = 0

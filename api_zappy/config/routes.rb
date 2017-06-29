@@ -8,6 +8,7 @@ Rails.application.routes.draw do
 
   match "/auth/login", to: "auth#login", via: :get
   match "/auth/logout", to: "auth#logout", via: :get
+  match "/auth/error", to: "auth#error", via: :get
   
   match "/upload", to: "user#upload", via: :post
   match "/ranking", to: "user#ranking", via: :get
