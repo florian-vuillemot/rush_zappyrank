@@ -20,7 +20,7 @@
   <body>
   <div>
     <% flash.each do |key, value| %>
-        <%= content_tag :div, value, class: "flash #{key} text-center" %>
+        <script>Materialize.toast("<%= value %>", 5000);</script>
     <% end %>
   </div>
 
