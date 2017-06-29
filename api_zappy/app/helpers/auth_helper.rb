@@ -13,10 +13,10 @@ module AuthHelper
   if ENV['RAILS_ENV'] == "production"
     REDIRECT_URI = 'https://hub.evolt.io/authorize' #ENV['REDIRECT_URI']
   else
-    REDIRECT_URI = 'http://localhost:3000/authorize'
+    REDIRECT_URI = 'http://localhost/authorize'
   end
 
-  REDIRECT_URI = 'https://www.zappyrank.eu:3000/authorize'
+  REDIRECT_URI = 'https://www.zappyrank.eu/authorize'
 
   # Generates the login URL for the app.
   def get_login_url

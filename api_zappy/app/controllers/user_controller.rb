@@ -1,9 +1,9 @@
 class UserController < ApplicationController
 
   def get_logs
-    user= User.find_by_email(session[:user_email])
-    @user_log = user.log
-    @server_log = user.server_log
+    @user = User.find_by_email(session[:user_email])
+    @user_log = @user.log
+    @server_log = @user.server_log
   end
 
   def index

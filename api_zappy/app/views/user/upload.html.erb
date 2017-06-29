@@ -4,14 +4,21 @@
       <div class="nav-wrapper">
         <a href="menu.html.erb" class="brand-logo center">ZappyRank</a>
         <ul class="right hide-on-med-and-down">
-          <li><a href="https://www.zappyrank.eu:3000/auth/logout">Logout</a></li>
+          <li><a href="https://www.zappyrank.eu/auth/logout">Logout</a></li>
+	  <% if @user_log %>
+          <li><%= link_to 'Mes log', @user_log, download: '' %></li>
+	  <% end %>
+	  <% if @user_log %>
+          <li><%= link_to 'Log serveur', @server_log, download: '' %></li>
+	  <% end %>
+          <li><a href="https://www.zappyrank.eu/auth/logout">Logout</a></li>
         </ul>
       </div>
       <div class="nav-content">
         <ul class="tabs tabs-transparent">
           <li class="tab"><a onclick="redirectLeaderboard()">Leaderboard</a></li>
           <!--<li class="tab"><a onclick="redirectLivecode()">Live Code</a></li>-->
-          <li class="tab"><a onclick="redirectUpload()">Upload</a></li>
+          <li class="tab"><a class="active"onclick="redirectUpload()">Upload</a></li>
         </ul>
       </div>
     </nav>
@@ -23,7 +30,7 @@
     align-items: center;
     justify-content: center;">
   <div style="margin-top: 60px">
-    <p class="white-text center"> Upload ton IA et compare là aux autres.<br> Gravi le classement en l'améliorant toujours plus !</p>
+    <p class="white-text center"> Upload ton IA et compare là aux autres.<br> Gravi le classement en l'améliorant toujours plus !<br><br>Fichier(s) accepté(s):<br>Zip : le fichier sera décompresser puis un make sera lancé<br>Langage de script : n'oubliez pas d'ajouter le shebang</p>
     <form class="row container center col col s12 m4 l8" action="/upload" method="post" enctype="multipart/form-data">
       <div class="file-field input-field">
         <div class="btn">
@@ -40,12 +47,12 @@
 </div>
 <script>
   function redirectLeaderboard(){
-      window.location = "https://www.zappyrank.eu:3000/ranking";
+      window.location = "https://www.zappyrank.eu/ranking";
   }
   function redirectLivecode(){
-      window.location = "https://www.zappyrank.eu:3000/code";
+      window.location = "https://www.zappyrank.eu/code";
   }
   function redirectUpload(){
-      window.location = "https://www.zappyrank.eu:3000/upload";
+      window.location = "https://www.zappyrank.eu/upload";
   }
 </script>

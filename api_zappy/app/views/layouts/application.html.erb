@@ -23,20 +23,6 @@
         <script>Materialize.toast("<%= value %>", 5000);</script>
     <% end %>
   </div>
-
-  <ul style="text-decoration: none">
-    <li>
-      <% if @user_log %>
-        <%= link_to 'Mes log', @user_log, download: '' %>
-      <% end %>
-    </li>
-    <li>
-      <% if @server_log %>
-          <%= link_to 'Log serveur', @server_log, download: '' %>
-      <% end %>
-    </li>
-  </ul>
-
   <%= yield %>
   </body>
 </html>

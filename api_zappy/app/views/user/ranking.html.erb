@@ -4,12 +4,19 @@
       <div class="nav-wrapper">
         <a href="menu.html.erb" class="brand-logo center">ZappyRank</a>
         <ul class="right hide-on-med-and-down">
-          <li><a href="https://www.zappyrank.eu:3000/auth/logout">Logout</a></li>
+          <li><a href="https://www.zappyrank.eu/auth/logout">Logout</a></li>
+	  <% if @user_log %>
+          <li><%= link_to 'Mes log', @user_log, download: '' %></li>
+	  <% end %>
+	  <% if @user_log %>
+          <li><%= link_to 'Log serveur', @server_log, download: '' %></li>
+	  <% end %>
+          <li><a href="https://www.zappyrank.eu/auth/logout">Logout</a></li>
         </ul>
       </div>
       <div class="nav-content">
         <ul class="tabs tabs-transparent">
-          <li class="tab"><a onclick="redirectLeaderboard()">Leaderboard</a></li>
+          <li class="tab"><a class="active" onclick="redirectLeaderboard()">Leaderboard</a></li>
           <!--<li class="tab"><a onclick="redirectLivecode()">Live Code</a></li>-->
           <li class="tab"><a onclick="redirectUpload()">Upload</a></li>
         </ul>
@@ -32,7 +39,7 @@
     <% @ranking.each do |r| %>
     <tr class="white-text">
       <td>
-        <% if r.ranking == -1 %>
+        <% if r.ranking == -1 && r.email == @user.email %>
           Hors classement
         <% else %>
           <%= r.ranking %>
@@ -48,12 +55,12 @@
 </table>
 <script>
   function redirectLeaderboard(){
-      window.location = "https://www.zappyrank.eu:3000/ranking";
+      window.location = "https://www.zappyrank.eu/ranking";
   }
   function redirectLivecode(){
-      window.location = "https://www.zappyrank.eu:3000/code";
+      window.location = "https://www.zappyrank.eu/code";
   }
   function redirectUpload(){
-      window.location = "https://www.zappyrank.eu:3000/upload";
+      window.location = "https://www.zappyrank.eu/upload";
   }
 </script>
