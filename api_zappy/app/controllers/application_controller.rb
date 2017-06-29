@@ -6,7 +6,7 @@ class ApplicationController < ActionController::Base
   helper_method :user_logged_in, :current_user
 
   def get_user_data(user_name, user)
-    url = 'https://intra.epitech.eu/auth-ded102aa843dc494f2e69873c00fc05194d95a64/user/' + user_name +'/?format=json'
+      url = 'https://intra.epitech.eu/auth-ded102aa843dc494f2e69873c00fc05194d95a64/user/' + user_name +'/?format=json'
     '''
     uri = URI(url)
 
