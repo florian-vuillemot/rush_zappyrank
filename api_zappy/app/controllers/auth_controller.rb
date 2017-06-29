@@ -22,10 +22,14 @@ class AuthController < ApplicationController
     end
     puts data
 
-    city = data["location"].split("/")[1]
-    promo = data["promo"]
+    begin
+      city = data["location"].split("/")[1]
+      promo = data["promo"]
+    rescue => e
+      return false
+    end
 
-    if city.nil? or promo.nil?
+    if city.nil? or promo.nil? or city.length === 0 or promo.length === 0
       return false
     end
     if city.nil?
@@ -58,7 +62,7 @@ class AuthController < ApplicationController
       @user.ranking = -1
       @user.score = 0
       if get_user_data(@user.email, @user) === false
-        render "auth/error"
+        render 'auth/error'
         return
       end
       @user.save

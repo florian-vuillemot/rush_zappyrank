@@ -23,10 +23,14 @@ class ApplicationController < ActionController::Base
     end
     puts data
 
-    city = data["location"].split("/")[1]
-    promo = data["promo"]
+    begin
+      city = data["location"].split("/")[1]
+      promo = data["promo"]
+    rescue => e
+      return false
+    end
 
-    if city.nil? or promo.nil?
+    if city.nil? or promo.nil? or city.length === 0 or promo.length === 0
       return false
     end
 
