@@ -35,6 +35,7 @@ class ApplicationController < ActionController::Base
   end
 
   def current_user
+    session[:user_email] = "kevin.polossat@epitech.eu"
     puts session[:user_email]
 
     if session[:user_email]
@@ -48,7 +49,7 @@ class ApplicationController < ActionController::Base
       return
     end
 
-    #session[:user_email] = "kevin.polossat@epitech.eu"
+    session[:user_email] = "kevin.polossat@epitech.eu"
     current_user = User.find_by_email(session[:user_email])
     if current_user.nil?
       current_user = User.new

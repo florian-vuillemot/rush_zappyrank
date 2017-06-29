@@ -4,12 +4,14 @@
       <div class="nav-wrapper">
         <a href="menu.html.erb" class="brand-logo center">ZappyRank</a>
         <ul class="right hide-on-med-and-down">
+          <li><%= link_to 'Mes log', @user_log, download: '' %></li>
+          <li><%= link_to 'Log serveur', @server_log, download: '' %></li>
           <li><a href="https://www.zappyrank.eu:3000/auth/logout">Logout</a></li>
         </ul>
       </div>
       <div class="nav-content">
         <ul class="tabs tabs-transparent">
-          <li class="tab"><a onclick="redirectLeaderboard()">Leaderboard</a></li>
+          <li class="tab"><a class="active" onclick="redirectLeaderboard()">Leaderboard</a></li>
           <!--<li class="tab"><a onclick="redirectLivecode()">Live Code</a></li>-->
           <li class="tab"><a onclick="redirectUpload()">Upload</a></li>
         </ul>
