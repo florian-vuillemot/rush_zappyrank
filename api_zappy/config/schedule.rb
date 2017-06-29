@@ -19,7 +19,7 @@
 
 # Learn more: http://github.com/javan/whenever
 
-set :environment, "development"
+set :environment, "production"
 
 set :bundle_command, "/usr/local/bin/bundle exec"
 

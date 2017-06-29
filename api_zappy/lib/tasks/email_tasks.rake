@@ -37,8 +37,10 @@ def exec_ia(ia, file_res)
     cmd = "./start.sh " + file_res.last + " "
     file_res.pop
     i.each do |user|
-      user_dir = user.email
-      cmd += user_dir + " "
+      unless user.nil?
+        user_dir = user.email
+        cmd += user_dir + " "
+      end
     end
     puts cmd
     system(cmd)
@@ -75,7 +77,12 @@ def get_contents_files(files)
 end
 
 def get_score(lvls)
-  score = 0
+  score = math.exp(lvls.max) / 100 + 6.6e-34
+  puts "Score final: " + score.to_s
+  score
+end
+  '''
+  score =
   i = 1
   lvls.each do |lvl|
     score += lvl.to_i * i
@@ -84,6 +91,7 @@ def get_score(lvls)
   puts "Score final: " + score.to_s
   score
 end
+'''
 
 def update_score(ias, files_res)
   cursor_files = 0
