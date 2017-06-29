@@ -77,7 +77,8 @@ def get_contents_files(files)
 end
 
 def get_score(lvls)
-  score = math.exp(lvls.max) / 100 + 6.6e-34
+  #  score = Math.exp(lvls.max.to_i) / 10.0 + 6.6e-34
+  score = [0,0,1,5,10,17,23,30,50][lvls.max.to_i]
   puts "Score final: " + score.to_s
   score
 end
