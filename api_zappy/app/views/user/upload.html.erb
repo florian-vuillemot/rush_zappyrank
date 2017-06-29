@@ -4,6 +4,8 @@
       <div class="nav-wrapper">
         <a href="menu.html.erb" class="brand-logo center">ZappyRank</a>
         <ul class="right hide-on-med-and-down">
+          <li><%= link_to 'Mes log', @user_log, download: '' %></li>
+          <li><%= link_to 'Log serveur', @server_log, download: '' %></li>
           <li><a href="https://www.zappyrank.eu:3000/auth/logout">Logout</a></li>
         </ul>
       </div>

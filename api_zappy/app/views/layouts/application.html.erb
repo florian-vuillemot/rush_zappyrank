@@ -20,7 +20,7 @@
   <body>
   <div>
     <% flash.each do |key, value| %>
-        <script>Materialize.toast("<%= value %>", 5000, 'center green');</script>
+        <script>Materialize.toast("<%= value %>", 5000);</script>
     <% end %>
   </div>
   <%= yield %>
