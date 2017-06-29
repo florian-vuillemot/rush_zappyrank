@@ -34,7 +34,7 @@
     <% @ranking.each do |r| %>
     <tr class="white-text">
       <td>
-        <% if r.ranking == -1 %>
+        <% if r.ranking == -1 && r.email == @user.email%>
           Hors classement
         <% else %>
           <%= r.ranking %>
