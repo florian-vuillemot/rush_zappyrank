@@ -26,11 +26,11 @@ class ApplicationController < ActionController::Base
     begin
       city = data["location"].split("/")[1]
       promo = data["promo"]
-    rescue => e
+    rescue
       return false
     end
 
-    if city.nil? or promo.nil? or city.length === 0 or promo.length === 0
+    if city.nil? or promo.nil?
       return false
     end
 
@@ -51,7 +51,7 @@ class ApplicationController < ActionController::Base
   end
 
   def current_user
-    #session[:user_email] = "florian.vuillemot@epitech.eu"
+    #session[:user_email] = "kevin.polossat@epitech.eu"
     puts session[:user_email]
 
     if session[:user_email]

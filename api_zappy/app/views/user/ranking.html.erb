@@ -37,10 +37,11 @@
   </thead>
   <tbody>
     <% @ranking.each do |r| %>
+    <% if r.ranking != -1 || r.email == @user.email %>
     <tr class="white-text">
       <td>
-        <% if r.ranking == -1 && r.email == @user.email %>
-          Hors classement
+        <% if r.ranking == -1 %>
+        Hors classement
         <% else %>
           <%= r.ranking %>
         <% end %>
@@ -50,6 +51,7 @@
       <td><%= r.city %></td>
       <td><%= r.score %></td>
     </tr>
+    <% end %>
     <% end %>
   </tbody>
 </table>

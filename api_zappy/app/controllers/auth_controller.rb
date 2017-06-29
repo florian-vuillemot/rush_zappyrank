@@ -11,12 +11,22 @@ class AuthController < ApplicationController
 
     res = Net::HTTP.get(uri)
     '''
-    content = open(url).read
-
+    content = nil
+    data = nil
+    begin
+      content = open(url).read
+    rescue
+      return false
+    end
+    
     if content.nil?
       return false
     end
-    data = JSON.parse(content)
+    begin
+      data = JSON.parse(content)
+    rescue
+      return false
+    end
     if data.nil?
       return false
     end
@@ -25,11 +35,11 @@ class AuthController < ApplicationController
     begin
       city = data["location"].split("/")[1]
       promo = data["promo"]
-    rescue => e
+    rescue
       return false
     end
 
-    if city.nil? or promo.nil? or city.length === 0 or promo.length === 0
+    if city.nil? or promo.nil?
       return false
     end
     if city.nil?
