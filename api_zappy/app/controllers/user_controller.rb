@@ -22,7 +22,7 @@ class UserController < ApplicationController
       File.open(Rails.root.join('delivery', session[:user_email], uploaded_io.original_filename), 'w') do |file|
         file.write(uploaded_io.read.force_encoding(Encoding::UTF_8))
       end
-      redirect_to '/menu', :flash => { success: "IA correctement upload" }
+      redirect_to '/ranking', :flash => { success: "IA correctement upload" }
     else
       redirect_to '/upload', :flash => { error: "Erreur, aucun fichier reçu" }
     end
@@ -47,7 +47,7 @@ class UserController < ApplicationController
       File.open(Rails.root.join('delivery', session[:user_email], "zappy_ai"), 'w') do |file|
         file.write(code.force_encoding(Encoding::UTF_8))
       end
-      redirect_to '/menu', :flash => { success: "IA correctement upload" }
+      redirect_to '/ranking', :flash => { success: "IA correctement upload" }
     else
       redirect_to '/upload', :flash => { error: "Erreur, aucun code reçu" }
     end
@@ -60,6 +60,6 @@ class UserController < ApplicationController
 
   def menu
     get_logs
-    render 'menu'
+    render 'ranking'
   end
 end
