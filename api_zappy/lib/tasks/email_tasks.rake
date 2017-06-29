@@ -92,7 +92,7 @@ def update_score(ias, files_res)
     puts "file res: " + fres[0]
     fres[1].each do |res|
       tmp_email = ias[cursor_files][cursor_ia].email
-      puts tmp_email + "<"
+      puts tmp_email + "<" + "non le vrai: " + res[0]
       user = User.where({email: tmp_email}).first
       unless user.nil?
         score = get_score(res[1])
