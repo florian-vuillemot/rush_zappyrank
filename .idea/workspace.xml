@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="76296d8c-1a17-47d9-9c31-14114c21cd4c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api_zappy/app/views/layouts/application.html.erb" afterPath="$PROJECT_DIR$/api_zappy/app/views/layouts/application.html.erb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api_zappy/app/views/user/upload.html.erb" afterPath="$PROJECT_DIR$/api_zappy/app/views/user/upload.html.erb" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -35,8 +33,8 @@
       <file leaf-file-name="upload.html.erb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/api_zappy/app/views/user/upload.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="7" column="9" lean-forward="false" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+            <state relative-caret-position="486">
+              <caret line="27" column="159" lean-forward="false" selection-start-line="27" selection-start-column="159" selection-end-line="27" selection-end-column="159" />
               <folding />
             </state>
           </provider>
@@ -342,12 +340,12 @@
       <workItem from="1498643892883" duration="2402000" />
       <workItem from="1498657344403" duration="7510000" />
       <workItem from="1498738650389" duration="1512000" />
-      <workItem from="1498743180712" duration="3109000" />
+      <workItem from="1498743180712" duration="3568000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14533000" />
+    <option name="totallyTimeSpent" value="14992000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1855" height="1056" extended-state="6" />
@@ -578,8 +576,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/api_zappy/app/views/user/upload.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="9" lean-forward="false" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+        <state relative-caret-position="486">
+          <caret line="27" column="159" lean-forward="false" selection-start-line="27" selection-start-column="159" selection-end-line="27" selection-end-column="159" />
           <folding />
         </state>
       </provider>
