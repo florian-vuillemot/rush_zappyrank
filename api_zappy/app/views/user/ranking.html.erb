@@ -2,14 +2,14 @@
   <div class="navbar-fixed">
     <nav class="nav-extended" style="background-color: #2DAAE2;">
       <div class="nav-wrapper">
-        <a href="menu.html.erb" class="brand-logo center">ZappyRank</a>
+        <a class="brand-logo center" onclick="redirectLeaderboard()">ZappyRank</a>
         <ul class="right hide-on-med-and-down">
-	  <% if @user_log %>
+	      <% if @user_log %>
           <li><%= link_to 'Mes logs', @user_log, download: '' %></li>
-	  <% end %>
-	  <% if @user_log %>
+	      <% end %>
+	      <% if @user_log %>
           <li><%= link_to 'Log serveur', @server_log, download: '' %></li>
-	  <% end %>
+	      <% end %>
           <li><a href="https://www.zappyrank.eu/auth/logout">Logout</a></li>
         </ul>
       </div>

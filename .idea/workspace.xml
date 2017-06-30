@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="76296d8c-1a17-47d9-9c31-14114c21cd4c" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api_zappy/app/views/user/ranking.html.erb" afterPath="$PROJECT_DIR$/api_zappy/app/views/user/ranking.html.erb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api_zappy/app/views/user/upload.html.erb" afterPath="$PROJECT_DIR$/api_zappy/app/views/user/upload.html.erb" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -23,8 +25,8 @@
       <file leaf-file-name="ranking.html.erb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/api_zappy/app/views/user/ranking.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="738">
-              <caret line="41" column="32" lean-forward="false" selection-start-line="41" selection-start-column="32" selection-end-line="41" selection-end-column="32" />
+            <state relative-caret-position="198">
+              <caret line="11" column="10" lean-forward="false" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -33,8 +35,8 @@
       <file leaf-file-name="upload.html.erb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/api_zappy/app/views/user/upload.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="558">
-              <caret line="31" column="169" lean-forward="false" selection-start-line="31" selection-start-column="169" selection-end-line="31" selection-end-column="169" />
+            <state relative-caret-position="306">
+              <caret line="17" column="49" lean-forward="true" selection-start-line="17" selection-start-column="49" selection-end-line="17" selection-end-column="49" />
               <folding />
             </state>
           </provider>
@@ -54,14 +56,14 @@
         <option value="$PROJECT_DIR$/api_zappy/app/views/user/menu.html" />
         <option value="$PROJECT_DIR$/api_zappy/app/views/user/ranking.html" />
         <option value="$PROJECT_DIR$/api_zappy/app/views/user/menu.html.erb" />
-        <option value="$PROJECT_DIR$/api_zappy/app/views/user/upload.html" />
         <option value="$PROJECT_DIR$/api_zappy/app/views/user/code.html.erb" />
         <option value="$PROJECT_DIR$/api_zappy/app/views/layouts/application.html.erb" />
         <option value="$PROJECT_DIR$/api_zappy/app/controllers/user_controller.rb" />
-        <option value="$PROJECT_DIR$/api_zappy/app/views/user/ranking.html.erb" />
         <option value="$PROJECT_DIR$/api_zappy/app/controllers/application_controller.rb" />
         <option value="$PROJECT_DIR$/api_zappy/app/views/auth/login.html.erb" />
         <option value="$PROJECT_DIR$/api_zappy/app/views/user/upload.html.erb" />
+        <option value="$PROJECT_DIR$/api_zappy/app/views/user/upload.html" />
+        <option value="$PROJECT_DIR$/api_zappy/app/views/user/ranking.html.erb" />
       </list>
     </option>
   </component>
@@ -311,12 +313,12 @@
       <workItem from="1498657344403" duration="7510000" />
       <workItem from="1498738650389" duration="1512000" />
       <workItem from="1498743180712" duration="4674000" />
-      <workItem from="1498820265259" duration="1725000" />
+      <workItem from="1498820265259" duration="2274000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18561000" />
+    <option name="totallyTimeSpent" value="19110000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1855" height="1056" extended-state="6" />
@@ -437,7 +439,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/api_zappy/app/views/user/upload.html" />
+    <entry file="file://$PROJECT_DIR$/api_zappy/app/views/user/upload.html.erb" />
     <entry file="file://$PROJECT_DIR$/api_zappy/app/views/user/ranking.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
@@ -653,16 +655,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/api_zappy/app/views/user/ranking.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="738">
-          <caret line="41" column="32" lean-forward="false" selection-start-line="41" selection-start-column="32" selection-end-line="41" selection-end-column="32" />
+        <state relative-caret-position="198">
+          <caret line="11" column="10" lean-forward="false" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/api_zappy/app/views/user/upload.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="558">
-          <caret line="31" column="169" lean-forward="false" selection-start-line="31" selection-start-column="169" selection-end-line="31" selection-end-column="169" />
+        <state relative-caret-position="306">
+          <caret line="17" column="49" lean-forward="true" selection-start-line="17" selection-start-column="49" selection-end-line="17" selection-end-column="49" />
           <folding />
         </state>
       </provider>
