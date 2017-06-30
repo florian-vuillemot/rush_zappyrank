@@ -1,0 +1,589 @@
+#!/usr/bin/python3
+
+from multiprocessing import Process
+import ctypes
+from ctypes import cdll
+import random
+#import socket
+import math
+import sys
+
+p = []
+
+class SocketClient:
+    """Class made to easily communicate with the C server """
+
+    def __init__(self, port, team_name, host = "127.0.0.1"):
+        self.lib = cdll.LoadLibrary('./local/lib/libsocket.so')
+        self.port = port
+        self.team_name = team_name + "\n"
+        self.host = host
+        self.level = 1
+        if self.lib.connect_to(ctypes.c_char_p(self.host.encode()), self.port) == False:
+            sys.exit(1)
+        self.mail_box = []
+
+    def send_message_to_server(self, message_to_communicate):
+        self.lib.send_message(str(message_to_communicate).encode())
+
+    def get_mail_box(self):
+        return self.mail_box
+
+    def read_last_mail(self):
+        for elt in reversed(self.mail_box):
+            self.mail_box.remove(elt)
+            break
+
+    def recieve_message_from_server(self):
+        ret = ctypes.c_char_p(self.lib.recieve_message()).value
+        if (ret is None):
+            sys.exit(0)
+
+        resting = bytes(ret).decode()
+
+        print("RESTING =")
+        print(resting)
+        if resting == "dead":
+            sys.exit(0)
+        elif resting.startswith("message") == True:
+            self.mail_box.append(resting)
+            return self.recieve_message_from_server()
+        return resting
+
+
+class PlayerClass:
+    """Class witch corresponds to a player
+
+    this class will have the elements to take decisions"""
+
+    def __init__(self, position, client):
+        self.position = position
+        self.food_resources = 10
+        self.level = 1
+        self.inventory = list()
+        self.client = client
+        self.follow_signal = {}
+        self.follow_signal[1] = "Forward\n"
+        self.follow_signal[2] = "Forward Left Forward\n"
+        self.follow_signal[3] = "Left Forward\n"
+        self.follow_signal[4] = "Left Forward Left Forward\n"
+        self.follow_signal[5] = "Left Left Forward\n"
+        self.follow_signal[6] = "Right Forward Right Forward\n"
+        self.follow_signal[7] = "Right Forward\n"
+        self.follow_signal[8] = "Forward Right Forward\n"
+        self.need_for_evolution = {}
+        self.need_for_evolution[2] = ["player 1", "linemate 1"]
+        self.need_for_evolution[3] = ["player 2", "linemate 1", "deraumere 1", "sibur 1"]
+        self.need_for_evolution[4] = ["player 2", "linemate 2", "sibur 1", "phiras 2"]
+        self.need_for_evolution[5] = ["player 4", "linemate 1", "deraumere 1", "sibur 2", "phiras 1"]
+        self.need_for_evolution[6] = ["player 4", "linemate 1", "deraumere 2", "sibur 1", "mendiane 3"]
+        self.need_for_evolution[7] = ["player 6", "linemate 1", "deraumere 2", "sibur 3", "phiras 1"]
+        self.need_for_evolution[8] = ["player 6", "linemate 2", "deraumere 2", "sibur 2", "mendiane 2", "phiras 2", "thystame 1"]
+
+
+    def give_x_and_y(self, destination):
+        n = 0
+        while True:
+            if (destination >= (n * (n + 1)) - n and destination <= (n * (n + 1)) + n):
+                break
+            n += 1
+        y = n
+        x = destination - (n * (n + 1))
+        print (x, y)
+        return (x, y)
+
+
+    def path_to_destination(self, x, y):
+        path = ""
+
+        while y > 0:
+            path = path + " Forward"
+            y -= 1
+        if x > 0:
+            path = path + " Right"
+        elif x < 0:
+            x *= -1
+            path = path + " Left"
+        else:
+            path = path.strip()
+            return path
+        while x > 0:
+            path = path + " Forward"
+            x -= 1
+        path = path.strip()
+        return path
+
+
+    def go_to_destination(self, path):
+        steps = path.split(' ')
+
+        count = 0
+        for elt in steps:
+            if count > 9:
+                n = 0
+                while n <= 10:
+                    self.client.recieve_message_from_server()
+                count = 0
+            else:
+                self.client.send_message_to_server(elt + '\n')
+                count += 1
+        n = 0
+        while n < len(steps) % 10:
+            self.client.recieve_message_from_server()
+            n += 1
+
+
+    def shortest_path(self, to_find):
+        self.client.send_message_to_server("Look\n")
+
+        informations = self.client.recieve_message_from_server()
+        informations = informations.replace('[', ' ')
+        informations = informations.replace(']', ' ')
+        informations = informations.strip()
+
+        box_info = informations.split(',')
+
+        min_dist = 1000.0
+        min_dest = [1000, 1000]
+        count = 0
+        path = ""
+        for elt in box_info:
+
+            in_box = elt.split(' ')
+
+            for element in in_box:
+
+                if (element == to_find or element == ' ' + to_find) and count == 0:
+
+                    self.client.send_message_to_server("Take " + to_find + '\n')
+                    self.client.recieve_message_from_server()
+
+                elif element == to_find or element == ' ' + to_find:
+
+                    x, y = self.give_x_and_y(count)
+                    dist = math.fabs(math.sqrt(math.pow(x, 2) + math.pow(y, 2)))
+
+                    if dist < min_dist:
+
+                        min_dist = dist
+                        min_dest[0] = x
+                        min_dest[1] = y
+
+            count += 1
+
+        if min_dist != 1000 and min_dest[0] != 1000 and  min_dest[1] != 1000:
+            path = self.path_to_destination(min_dest[0], min_dest[1])
+
+        return path
+
+
+    def chasing_for_food(self):
+        self.client.send_message_to_server("Inventory\n")
+        self.inventory = self.client.recieve_message_from_server()
+
+        self.inventory = self.inventory.replace('[', ' ')
+        self.inventory = self.inventory.replace(']', ' ')
+        self.inventory = self.inventory.strip()
+
+        self.inventory = self.inventory.split(',')
+
+        print("inventory = ")
+        print(self.inventory)
+
+        for elt in self.inventory:
+
+            elt = elt.strip()
+            food_or_stone, quantity = elt.split(' ', 1)
+
+            if (food_or_stone == " food" or food_or_stone == "food") and int(quantity) >= 10:
+
+                self.food_resources = quantity
+                return
+
+        path_to_food = self.shortest_path("food")
+        if path_to_food == "":
+            random_num = random.choice('12')
+            if random_num == 1:
+                self.client.send_message_to_server("Right\n")
+            else:
+                self.client.send_message_to_server("Forward\n")
+            self.client.recieve_message_from_server()
+            return self.chasing_for_food()
+
+        self.go_to_destination(path_to_food)
+        self.client.send_message_to_server("Take food\n")
+        result = self.client.recieve_message_from_server()
+        print("ok")
+
+        if result == "ko":
+            random_num = random.choice('12')
+            if random_num == 1:
+                self.client.send_message_to_server("Right\n")
+            else:
+                self.client.send_message_to_server("Forward\n")
+            self.client.recieve_message_from_server()
+            return self.chasing_for_food()
+
+
+    def check_inventory_stones(self):
+        needs = self.need_for_evolution[self.level + 1]
+        self.client.send_message_to_server("Inventory\n")
+        self.inventory = self.client.recieve_message_from_server()
+
+        self.inventory = self.inventory.replace('[', ' ')
+        self.inventory = self.inventory.replace(']', ' ')
+        self.inventory = self.inventory.strip()
+
+        self.inventory = self.inventory.split(',')
+
+        for elt in needs:
+            elt = elt.strip()
+            needs_food_stone, needs_quantity = elt.split(' ', 1)
+            if needs_food_stone == "player":
+                continue
+
+            for elt2 in self.inventory:
+                elt2 = elt2.strip()
+                inventory_food_stone, inventory_quantity = elt2.split(' ', 1)
+
+                if str(needs_food_stone) != str(inventory_food_stone):
+                    continue
+
+                if str(needs_food_stone) == str(inventory_food_stone) and int(needs_quantity) > int(inventory_quantity):
+                    return 0
+        return 1
+
+
+    def check_something_current_box(self, to_check):
+        self.client.send_message_to_server("Look\n")
+
+        informations = self.client.recieve_message_from_server()
+        informations = informations.replace('[', ' ')
+        informations = informations.replace(']', ' ')
+        informations = informations.strip()
+
+        box_info = informations.split(',')
+
+        current_box = True
+        counting_things_to_check = 0
+        for elt in box_info:
+
+            if current_box == False:
+                break
+
+            in_box = elt.split(' ')
+
+            for element in in_box:
+
+                if (element == to_check or element == ' ' + to_check) and current_box == True:
+
+                    counting_things_to_check += 1
+
+            current_box = False
+
+        for elt in self.need_for_evolution[self.level + 1]:
+            to_find, quantity_to_find = elt.split(' ', 1)
+
+            if to_find == to_check and counting_things_to_check == int(quantity_to_find):
+                return 1
+        return 0
+
+
+    def check_box(self):
+
+        for elt in self.need_for_evolution[self.level + 1]:
+            element, quantity = elt.split(' ', 1)
+            element = element.strip()
+            if self.check_something_current_box(element) == 0:
+                return 0
+        return 1
+
+
+    def search_for_stones(self):
+        for elt in self.need_for_evolution[self.level + 1]:
+            element, quantity = elt.split(' ', 1)
+            if element != "player":
+                path_to_stone = self.shortest_path(element)
+                if path_to_stone == "":
+                    random_num = random.choice('12')
+                    if random_num == 1:
+                        self.client.send_message_to_server("Right\n")
+                    else:
+                        self.client.send_message_to_server("Forward\n")
+                    self.client.recieve_message_from_server()
+                    #return self.search_for_stones()
+                else:
+                    self.go_to_destination(path_to_stone)
+                    self.client.send_message_to_server("Take " + element +'\n')
+                    result = self.client.recieve_message_from_server()
+        self.client.send_message_to_server("Inventory\n")
+        self.inventory = self.client.recieve_message_from_server()
+        print(self.inventory)
+
+
+    def clean_box(self):
+        self.client.send_message_to_server("Look\n")
+
+        informations = self.client.recieve_message_from_server()
+        informations = informations.replace('[', ' ')
+        informations = informations.replace(']', ' ')
+        informations = informations.strip()
+
+        box_info = informations.split(',')
+
+        for elt in box_info:
+
+            in_box = elt.split(' ')
+
+            for element in in_box:
+
+                if element != "player":
+                    self.client.send_message_to_server("Take " + element +'\n')
+                    self.client.recieve_message_from_server()
+            break
+
+        self.client.send_message_to_server("Look\n")
+
+        informations = self.client.recieve_message_from_server()
+        informations = informations.replace('[', ' ')
+        informations = informations.replace(']', ' ')
+        informations = informations.strip()
+
+        box_info = informations.split(',')
+
+        for elt in box_info:
+
+            in_box = elt.split(' ')
+            for element in in_box:
+
+                if element != "player" :#and element != "food":
+                    return self.clean_box()
+            break
+
+
+    def prepare_box_to_evolve(self):
+
+        self.clean_box()
+        for elt in self.need_for_evolution[self.level + 1]:
+            element, quantity = elt.split(' ', 1)
+            element = element.strip()
+            if element != "player" and self.check_something_current_box(element) == 0:
+                self.client.send_message_to_server("Set " + element + "\n")
+                self.client.recieve_message_from_server()
+#        self.client.send_message_to_server("Set food\n")
+ #       self.client.recieve_message_from_server()
+
+
+    def is_ready_to_evolve(self, must_have):
+        if must_have["stones"] == 0:
+            return False
+        elif must_have["player"] == 0:
+            return False
+        elif must_have["box"] == 0:
+            return False
+        return True
+
+    def follow_message(self, direction):
+        path = self.follow_signal[direction]
+        self.go_to_destination(path)
+
+
+    def check_mailbox(self):
+        mail = self.client.get_mail_box()
+
+        for elt in reversed(mail):
+            informations, message = elt.split(',', 1)
+            content, level = message.split(':', 1)
+            content = content.strip()
+            if content == "need player":
+                if int(level) == self.level:
+                    m, dest = informations.split(' ', 1)
+                    self.follow_message(dest)
+                    self.client.send_message_to_server("Broadcast " + "ok" + ':' + str(self.level) + '\n')
+                    self.client.recieve_message_from_server()
+                else:
+                   self.client.send_message_to_server("Broadcast " + "ko" + ':' + str(self.level) + '\n')
+            break
+        self.client.read_last_mail()
+
+
+    def is_there_enought_players_to_evolve(self):
+        mailbox = self.client.get_mail_box()
+
+        self.client.send_message_to_server("Look\n")
+        self.client.recieve_message_from_server()
+
+        self.client.send_message_to_server("Look\n")
+        self.client.recieve_message_from_server()
+
+        self.client.send_message_to_server("Look\n")
+        self.client.recieve_message_from_server()
+
+        self.client.send_message_to_server("Look\n")
+        self.client.recieve_message_from_server()
+
+        available_players = 0
+        for elt in reversed(mailbox):
+            informations, message = elt.split(',', 1)
+            content, level = message.split(':', 1)
+            content = content.strip()
+            if content == "ok" or content == "ko":
+                available_players += 1
+            else:
+                break
+
+        element, quantity = self.need_for_evolution[self.level + 1][0].split(' ', 1)
+
+        if available_players + 1 >= int(quantity):
+            return True
+        return False
+
+
+    def trying_to_evolve(self):
+        self.chasing_for_food()
+        must_have = {}
+        must_have["stones"] = 0
+        must_have["player"] = 0
+        must_have["box"] = 0
+        egg = {}
+        egg["preparation"] = False
+
+        while self.is_ready_to_evolve(must_have) == False:
+            print("MUST HAVE = ")
+            self.check_mailbox()
+            print(must_have["stones"])
+            print(must_have["player"])
+            print(must_have["box"])
+            print('\n')
+            if must_have["stones"] is not 1:
+                self.chasing_for_food()
+                self.search_for_stones()
+            elif must_have["stones"] is 1 and must_have["player"] is not 1:
+                self.chasing_for_food()
+                self.client.send_message_to_server("Broadcast need player\n")
+                self.client.recieve_message_from_server()
+                if egg["preparation"] == False and self.is_there_enought_players_to_evolve() == False:
+                    self.client.send_message_to_server("Connect_nbr\n")
+                    egg["connected_nbr"] = int(self.client.recieve_message_from_server())
+                    egg["preparation"] = True
+                    self.client.send_message_to_server("Fork\n")
+                    self.client.recieve_message_from_server()
+                if egg["preparation"] == True:
+                    self.client.send_message_to_server("Connect_nbr\n")
+                    connected_nbr = int(self.client.recieve_message_from_server())
+                    if connected_nbr == egg["connected_nbr"] + 1:
+                        tmp = Process(target=begin_program)
+                        p.append(tmp)
+                        tmp.start()
+            elif must_have["stones"] is 1 and must_have["player"] is 1 and must_have["box"] is not 1:
+                self.prepare_box_to_evolve()
+                break
+            #self.chasing_for_food()
+            must_have["stones"] = self.check_inventory_stones()
+            must_have["player"] = self.check_something_current_box("player")
+            must_have["box"] = self.check_box()
+
+        self.client.send_message_to_server("Incantation\n")
+        begin = self.client.recieve_message_from_server()
+        if begin == "ko":
+            return self.trying_to_evolve()
+        result = self.client.recieve_message_from_server()
+        if result == "ko":
+            return self.trying_to_evolve()
+        else:
+            self.chasing_for_food()
+            current_level, k = result.split(':', 1)
+            self.level = int(k)
+            self.client.send_message_to_server("Inventory\n")
+            self.inventory = self.client.recieve_message_from_server()
+
+
+                #def __del__(self):
+
+
+def check_parameters():
+    try:
+        if len(sys.argv) != 5 and len(sys.argv) != 7:
+            print("USAGE ./zappy_ai.py -p port -n name -h machine")
+            sys.exit(0)
+    except:
+        print("USAGE ./zappy_ai.py -p port -n name -h machine")
+        sys.exit(0)
+    port = 0
+    name = ""
+    checked_params = []
+    p = 0
+    i = 0
+    while p <= 1:
+        if sys.argv[i] == "-p":
+            for elt in checked_params:
+                if elt == port:
+                    print("The port was given twice")
+                    sys.exit(0)
+
+            try:
+                sys.argv[i + 1] = int(sys.argv[i + 1])
+                assert sys.argv[i + 1] > 1024
+            except ValueError:
+                print("The port must be a number")
+                sys.exit(0)
+            except AssertionError:
+                print("The given port is under 1025")
+                sys.exit(0)
+            port = int(sys.argv[i + 1])
+            checked_params.append(int(sys.argv[i + 1]))
+            p += 1
+
+        elif sys.argv[i] == "-n":
+            for elt in checked_params:
+                if elt == name:
+                    print("The port was given twice")
+                    sys.exit(0)
+            name = str(sys.argv[i + 1])
+            checked_params.append(sys.argv[i])
+            p += 1
+        i += 1
+
+
+def begin_program():
+    #check_parameters()
+    try:
+         if (sys.argv[1] != "-p" or sys.argv[3] != "-n") or (len(sys.argv) != 5 and len(sys.argv) != 7):
+            print("USAGE ./zappy_ai.py -p port -n name -h machine")
+            sys.exit(0)
+    except:
+        print("USAGE ./zappy_ai.py -p port -n name -h machine")
+        sys.exit(0)
+    try:
+        sys.argv[2] = int(sys.argv[2])
+        assert sys.argv[2] > 1024
+    except ValueError:
+        print("The port must be a number")
+        sys.exit(0)
+    except AssertionError:
+        print("The given port is under 1025")
+        sys.exit(0)
+
+    if len(sys.argv) == 5:
+        client = SocketClient(sys.argv[2], sys.argv[4])
+    else:
+        client = SocketClient(sys.argv[2], sys.argv[4], sys.argv[6])
+    test = client.recieve_message_from_server()
+    print(test)
+    if test != "WELCOME":
+        print("did not recieve welcoming message from server")
+    client.send_message_to_server(client.team_name)
+    cli_num = client.recieve_message_from_server()
+    pos = client.recieve_message_from_server() #position, client
+    player = PlayerClass(pos, client)
+    while player.level < 3:
+        player.trying_to_evolve()
+
+    for elt in p:
+        elt.join()
+        #client.send_message_to_server("Inventory\n")
+        #test = client.recieve_message_from_server()
+    #print(test)
+
+
+begin_program()

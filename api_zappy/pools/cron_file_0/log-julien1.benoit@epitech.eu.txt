@@ -1,0 +1,2 @@
+USAGE ./zappy_ai.py -p port -n name -h machine
+USAGE ./zappy_ai.py -p port -n name -h machine

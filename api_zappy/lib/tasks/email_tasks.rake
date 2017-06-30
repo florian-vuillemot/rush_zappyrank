@@ -1,7 +1,14 @@
 def get_users
   ia = User.all()
 
-  nl = ia.shuffle().each_slice(4).to_a
+  res = []
+  ia.each do |u|
+    if File.directory?("delivery/" + u.email)
+      res.push(u)
+    end
+  end
+
+  nl = res.shuffle().each_slice(4).to_a
 
   size_nl = nl.size
   if size_nl > 1
@@ -91,8 +98,8 @@ def update_score(ias, files_res)
     cursor_ia = 0
     puts "file res: " + fres[0]
     fres[1].each do |res|
-      tmp_email = ias[cursor_files][cursor_ia].email
-      puts tmp_email + "<" + "non le vrai: " + res[0]
+      tmp_email = res[0]
+      puts "user: " + tmp_email
       user = User.where({email: tmp_email}).first
       unless user.nil?
         score = get_score(res[1])

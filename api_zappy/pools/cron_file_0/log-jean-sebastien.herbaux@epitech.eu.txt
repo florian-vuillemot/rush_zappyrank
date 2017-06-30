@@ -1,0 +1,4207 @@
+[94m[08:40:49]: Associating 127.0.0.1 to 127.0.0.1[0m
+[94m[08:40:49]: Connected to 127.0.0.1:4242 [127.0.0.1][0m
+[95m[08:40:49]: WELCOME[0m
+[93m[08:40:49]: Retrieving player infos...[0m
+[93m[08:40:49]: Player team: jean-sebastien.herbaux@epitech.eu[0m
+[94m[08:40:49]: Inventory[0m
+[92m[08:40:49]: 9, 0, 0, 0, 0, 0, 0[0m
+[93m[08:40:49]: Food level is below normal, searching some meat...[0m
+[94m[08:40:49]: Look[0m
+[92m[08:40:49]: Cell 0: player, deraumere, mendiane[0m
+[92m[08:40:49]: Cell 1: food[0m
+[92m[08:40:49]: Cell 2: phiras[0m
+[92m[08:40:49]: Cell 3: food, food[0m
+[93m[08:40:49]: food on 1[0m
+Left
+[94m[08:40:49]: Left[0m
+[92m[08:40:49]: ok[0m
+[94m[08:40:49]: Forward[0m
+[92m[08:40:49]: ok[0m
+[94m[08:40:49]: Right[0m
+[92m[08:40:49]: ok[0m
+[94m[08:40:49]: Inventory[0m
+[92m[08:40:49]: 9, 0, 0, 0, 0, 0, 0[0m
+[93m[08:40:49]: Food level is below normal, searching some meat...[0m
+[94m[08:40:49]: Look[0m
+[92m[08:40:49]: Cell 0: player, food, deraumere[0m
+[92m[08:40:49]: Cell 1: sibur[0m
+[92m[08:40:49]: Cell 2: food[0m
+[92m[08:40:49]: Cell 3: phiras[0m
+[94m[08:40:49]: Take food[0m
+[92m[08:40:49]: ok[0m
+[94m[08:40:49]: Inventory[0m
+[92m[08:40:49]: 10, 0, 0, 0, 0, 0, 0[0m
+[94m[08:40:49]: Inventory[0m
+[92m[08:40:49]: 10, 0, 0, 0, 0, 0, 0[0m
+[93m[08:40:49]: Food level is below normal, searching some meat...[0m
+[94m[08:40:49]: Look[0m
+[92m[08:40:49]: Cell 0: player, deraumere[0m
+[92m[08:40:49]: Cell 1: sibur[0m
+[92m[08:40:49]: Cell 2: food[0m
+[92m[08:40:49]: Cell 3: phiras[0m
+[93m[08:40:49]: Found some food on cell 2[0m
+Forward
+[94m[08:40:49]: Forward[0m
+[92m[08:40:49]: ok[0m
+[94m[08:40:49]: Inventory[0m
+[92m[08:40:49]: 10, 0, 0, 0, 0, 0, 0[0m
+[93m[08:40:49]: Food level is below normal, searching some meat...[0m
+[94m[08:40:49]: Look[0m
+[92m[08:40:49]: Cell 0: player, food[0m
+[92m[08:40:49]: Cell 1: food, food, deraumere, sibur, phiras[0m
+[92m[08:40:49]: Cell 2: [0m
+[92m[08:40:49]: Cell 3: mendiane[0m
+[94m[08:40:49]: Take food[0m
+[92m[08:40:50]: ok[0m
+[94m[08:40:50]: Inventory[0m
+[92m[08:40:50]: 11, 0, 0, 0, 0, 0, 0[0m
+[94m[08:40:50]: Inventory[0m
+[92m[08:40:50]: 11, 0, 0, 0, 0, 0, 0[0m
+[93m[08:40:50]: Food level is below normal, searching some meat...[0m
+[94m[08:40:50]: Look[0m
+[92m[08:40:50]: Cell 0: player[0m
+[92m[08:40:50]: Cell 1: food, food, deraumere, sibur, phiras[0m
+[92m[08:40:50]: Cell 2: [0m
+[92m[08:40:50]: Cell 3: mendiane[0m
+[93m[08:40:50]: food on 1[0m
+Left
+[94m[08:40:50]: Left[0m
+[92m[08:40:50]: ok[0m
+[94m[08:40:50]: Forward[0m
+[92m[08:40:50]: ok[0m
+[94m[08:40:50]: Right[0m
+[92m[08:40:50]: ok[0m
+[94m[08:40:50]: Inventory[0m
+[92m[08:40:50]: 11, 0, 0, 0, 0, 0, 0[0m
+[93m[08:40:50]: Food level is below normal, searching some meat...[0m
+[94m[08:40:50]: Look[0m
+[92m[08:40:50]: Cell 0: player, sibur[0m
+[92m[08:40:50]: Cell 1: phiras[0m
+[92m[08:40:50]: Cell 2: food, food, deraumere, sibur, phiras[0m
+[92m[08:40:50]: Cell 3: [0m
+[93m[08:40:50]: Found some food on cell 2[0m
+Forward
+[94m[08:40:50]: Forward[0m
+[92m[08:40:50]: ok[0m
+[94m[08:40:50]: Inventory[0m
+[92m[08:40:50]: 11, 0, 0, 0, 0, 0, 0[0m
+[93m[08:40:50]: Food level is below normal, searching some meat...[0m
+[94m[08:40:50]: Look[0m
+[92m[08:40:50]: Cell 0: player, food, food, deraumere, sibur, phiras[0m
+[92m[08:40:50]: Cell 1: [0m
+[92m[08:40:50]: Cell 2: deraumere, sibur[0m
+[92m[08:40:50]: Cell 3: linemate[0m
+[94m[08:40:50]: Take food[0m
+[92m[08:40:50]: ok[0m
+[94m[08:40:50]: Inventory[0m
+[92m[08:40:50]: 11, 0, 0, 0, 0, 0, 0[0m
+[94m[08:40:50]: Inventory[0m
+[92m[08:40:50]: 11, 0, 0, 0, 0, 0, 0[0m
+[93m[08:40:50]: Food level is below normal, searching some meat...[0m
+[94m[08:40:50]: Look[0m
+[92m[08:40:50]: Cell 0: player, food, deraumere, sibur, phiras[0m
+[92m[08:40:50]: Cell 1: [0m
+[92m[08:40:50]: Cell 2: deraumere, sibur[0m
+[92m[08:40:50]: Cell 3: linemate[0m
+[94m[08:40:50]: Take food[0m
+[92m[08:40:50]: ok[0m
+[94m[08:40:50]: Inventory[0m
+[92m[08:40:50]: 12, 0, 0, 0, 0, 0, 0[0m
+[94m[08:40:50]: Inventory[0m
+[92m[08:40:50]: 12, 0, 0, 0, 0, 0, 0[0m
+[93m[08:40:50]: Food level is below normal, searching some meat...[0m
+[94m[08:40:50]: Look[0m
+[92m[08:40:50]: Cell 0: player, deraumere, sibur, phiras[0m
+[92m[08:40:50]: Cell 1: [0m
+[92m[08:40:50]: Cell 2: deraumere, sibur[0m
+[92m[08:40:50]: Cell 3: linemate[0m
+None
+[93m[08:40:50]: Can't find food here, going to a random position[0m
+[94m[08:40:50]: Right[0m
+[92m[08:40:50]: ok[0m
+[94m[08:40:50]: Inventory[0m
+[92m[08:40:51]: 12, 0, 0, 0, 0, 0, 0[0m
+[93m[08:40:51]: Food level is below normal, searching some meat...[0m
+[94m[08:40:51]: Look[0m
+[92m[08:40:51]: Cell 0: player, deraumere, sibur, phiras[0m
+[92m[08:40:51]: Cell 1: linemate[0m
+[92m[08:40:51]: Cell 2: [0m
+[92m[08:40:51]: Cell 3: [0m
+None
+[93m[08:40:51]: Can't find food here, going to a random position[0m
+[94m[08:40:51]: Right[0m
+[92m[08:40:51]: ok[0m
+[94m[08:40:51]: Inventory[0m
+[92m[08:40:51]: 12, 0, 0, 0, 0, 0, 0[0m
+[93m[08:40:51]: Food level is below normal, searching some meat...[0m
+[94m[08:40:51]: Look[0m
+[92m[08:40:51]: Cell 0: player, deraumere, sibur, phiras[0m
+[92m[08:40:51]: Cell 1: [0m
+[92m[08:40:51]: Cell 2: sibur[0m
+[92m[08:40:51]: Cell 3: deraumere, phiras[0m
+None
+[93m[08:40:51]: Can't find food here, going to a random position[0m
+[94m[08:40:51]: Left[0m
+[92m[08:40:51]: ok[0m
+[94m[08:40:51]: Inventory[0m
+[92m[08:40:51]: 12, 0, 0, 0, 0, 0, 0[0m
+[93m[08:40:51]: Food level is below normal, searching some meat...[0m
+[94m[08:40:51]: Look[0m
+[92m[08:40:51]: Cell 0: player, deraumere, sibur, phiras[0m
+[92m[08:40:51]: Cell 1: linemate[0m
+[92m[08:40:51]: Cell 2: [0m
+[92m[08:40:51]: Cell 3: [0m
+None
+[93m[08:40:51]: Can't find food here, going to a random position[0m
+[94m[08:40:51]: Forward[0m
+[92m[08:40:51]: ok[0m
+[94m[08:40:51]: Inventory[0m
+[92m[08:40:51]: 12, 0, 0, 0, 0, 0, 0[0m
+[93m[08:40:51]: Food level is below normal, searching some meat...[0m
+[94m[08:40:51]: Look[0m
+[92m[08:40:51]: Cell 0: player[0m
+[92m[08:40:51]: Cell 1: food, food, thystame[0m
+[92m[08:40:51]: Cell 2: mendiane[0m
+[92m[08:40:51]: Cell 3: phiras[0m
+[93m[08:40:51]: food on 1[0m
+Left
+[94m[08:40:51]: Left[0m
+[92m[08:40:51]: ok[0m
+[94m[08:40:51]: Forward[0m
+[92m[08:40:51]: ok[0m
+[94m[08:40:51]: Right[0m
+[92m[08:40:51]: ok[0m
+[94m[08:40:51]: Inventory[0m
+[92m[08:40:51]: 12, 0, 0, 0, 0, 0, 0[0m
+[93m[08:40:51]: Food level is below normal, searching some meat...[0m
+[94m[08:40:51]: Look[0m
+[92m[08:40:51]: Cell 0: player, linemate[0m
+[92m[08:40:51]: Cell 1: [0m
+[92m[08:40:51]: Cell 2: food, food, thystame[0m
+[92m[08:40:51]: Cell 3: mendiane[0m
+[93m[08:40:51]: Found some food on cell 2[0m
+Forward
+[94m[08:40:51]: Forward[0m
+[92m[08:40:51]: ok[0m
+[94m[08:40:51]: Inventory[0m
+[92m[08:40:51]: 11, 0, 0, 0, 0, 0, 0[0m
+[93m[08:40:51]: Food level is below normal, searching some meat...[0m
+[94m[08:40:51]: Look[0m
+[92m[08:40:51]: Cell 0: player, food, food, thystame[0m
+[92m[08:40:51]: Cell 1: thystame[0m
+[92m[08:40:51]: Cell 2: deraumere, mendiane[0m
+[92m[08:40:51]: Cell 3: linemate, linemate, sibur[0m
+[94m[08:40:51]: Take food[0m
+[92m[08:40:52]: ok[0m
+[94m[08:40:52]: Inventory[0m
+[92m[08:40:52]: 12, 0, 0, 0, 0, 0, 0[0m
+[94m[08:40:52]: Inventory[0m
+[92m[08:40:52]: 12, 0, 0, 0, 0, 0, 0[0m
+[93m[08:40:52]: Food level is below normal, searching some meat...[0m
+[94m[08:40:52]: Look[0m
+[92m[08:40:52]: Cell 0: player, food, thystame[0m
+[92m[08:40:52]: Cell 1: thystame[0m
+[92m[08:40:52]: Cell 2: deraumere, mendiane[0m
+[92m[08:40:52]: Cell 3: linemate, linemate, sibur[0m
+[94m[08:40:52]: Take food[0m
+[92m[08:40:52]: ok[0m
+[94m[08:40:52]: Inventory[0m
+[92m[08:40:52]: 13, 0, 0, 0, 0, 0, 0[0m
+[94m[08:40:52]: Inventory[0m
+[92m[08:40:52]: 13, 0, 0, 0, 0, 0, 0[0m
+[93m[08:40:52]: Food level is below normal, searching some meat...[0m
+[94m[08:40:52]: Look[0m
+[92m[08:40:52]: Cell 0: player, thystame[0m
+[92m[08:40:52]: Cell 1: thystame[0m
+[92m[08:40:52]: Cell 2: deraumere, mendiane[0m
+[92m[08:40:52]: Cell 3: linemate, linemate, sibur[0m
+None
+[93m[08:40:52]: Can't find food here, going to a random position[0m
+[94m[08:40:52]: Forward[0m
+[92m[08:40:52]: ok[0m
+[94m[08:40:52]: Inventory[0m
+[92m[08:40:52]: 13, 0, 0, 0, 0, 0, 0[0m
+[93m[08:40:52]: Food level is below normal, searching some meat...[0m
+[94m[08:40:52]: Look[0m
+[92m[08:40:52]: Cell 0: player, deraumere, mendiane[0m
+[92m[08:40:52]: Cell 1: food, phiras[0m
+[92m[08:40:52]: Cell 2: linemate, phiras[0m
+[92m[08:40:52]: Cell 3: mendiane[0m
+[93m[08:40:52]: food on 1[0m
+Left
+[94m[08:40:52]: Left[0m
+[92m[08:40:52]: ok[0m
+[94m[08:40:52]: Forward[0m
+[92m[08:40:52]: ok[0m
+[94m[08:40:52]: Right[0m
+[92m[08:40:52]: ok[0m
+[94m[08:40:52]: Inventory[0m
+[92m[08:40:52]: 13, 0, 0, 0, 0, 0, 0[0m
+[93m[08:40:52]: Food level is below normal, searching some meat...[0m
+[94m[08:40:52]: Look[0m
+[92m[08:40:52]: Cell 0: player, thystame[0m
+[92m[08:40:52]: Cell 1: food[0m
+[92m[08:40:52]: Cell 2: food, phiras[0m
+[92m[08:40:52]: Cell 3: linemate, phiras[0m
+[93m[08:40:52]: Found some food on cell 2[0m
+Forward
+[94m[08:40:52]: Forward[0m
+[92m[08:40:52]: ok[0m
+[94m[08:40:52]: Inventory[0m
+[92m[08:40:52]: 13, 0, 0, 0, 0, 0, 0[0m
+[93m[08:40:52]: Food level is below normal, searching some meat...[0m
+[94m[08:40:52]: Look[0m
+[92m[08:40:52]: Cell 0: player, food, phiras[0m
+[92m[08:40:52]: Cell 1: food, food[0m
+[92m[08:40:52]: Cell 2: sibur, mendiane[0m
+[92m[08:40:52]: Cell 3: [0m
+[94m[08:40:52]: Take food[0m
+[92m[08:40:52]: ok[0m
+[94m[08:40:52]: Inventory[0m
+[92m[08:40:52]: 14, 0, 0, 0, 0, 0, 0[0m
+[94m[08:40:52]: Inventory[0m
+[92m[08:40:52]: 14, 0, 0, 0, 0, 0, 0[0m
+[93m[08:40:52]: Food level is below normal, searching some meat...[0m
+[94m[08:40:52]: Look[0m
+[92m[08:40:53]: Cell 0: player, phiras[0m
+[92m[08:40:53]: Cell 1: food, food[0m
+[92m[08:40:53]: Cell 2: sibur, mendiane[0m
+[92m[08:40:53]: Cell 3: [0m
+[93m[08:40:53]: food on 1[0m
+Left
+[94m[08:40:53]: Left[0m
+[92m[08:40:53]: ok[0m
+[94m[08:40:53]: Forward[0m
+[92m[08:40:53]: ok[0m
+[94m[08:40:53]: Right[0m
+[92m[08:40:53]: ok[0m
+[94m[08:40:53]: Inventory[0m
+[92m[08:40:53]: 13, 0, 0, 0, 0, 0, 0[0m
+[93m[08:40:53]: Food level is below normal, searching some meat...[0m
+[94m[08:40:53]: Look[0m
+[92m[08:40:53]: Cell 0: player, food[0m
+[92m[08:40:53]: Cell 1: [0m
+[92m[08:40:53]: Cell 2: food, food[0m
+[92m[08:40:53]: Cell 3: sibur, mendiane[0m
+[94m[08:40:53]: Take food[0m
+[92m[08:40:53]: ok[0m
+[94m[08:40:53]: Inventory[0m
+[92m[08:40:53]: 14, 0, 0, 0, 0, 0, 0[0m
+[94m[08:40:53]: Inventory[0m
+[92m[08:40:53]: 14, 0, 0, 0, 0, 0, 0[0m
+[93m[08:40:53]: Food level is below normal, searching some meat...[0m
+[94m[08:40:53]: Look[0m
+[92m[08:40:53]: Cell 0: player[0m
+[92m[08:40:53]: Cell 1: [0m
+[92m[08:40:53]: Cell 2: food, food[0m
+[92m[08:40:53]: Cell 3: sibur, mendiane[0m
+[93m[08:40:53]: Found some food on cell 2[0m
+Forward
+[94m[08:40:53]: Forward[0m
+[92m[08:40:53]: ok[0m
+[94m[08:40:53]: Inventory[0m
+[92m[08:40:53]: 14, 0, 0, 0, 0, 0, 0[0m
+[93m[08:40:53]: Food level is below normal, searching some meat...[0m
+[94m[08:40:53]: Look[0m
+[92m[08:40:53]: Cell 0: player, food, food[0m
+[92m[08:40:53]: Cell 1: sibur, sibur[0m
+[92m[08:40:53]: Cell 2: food, food, food[0m
+[92m[08:40:53]: Cell 3: food[0m
+[94m[08:40:53]: Take food[0m
+[92m[08:40:53]: ok[0m
+[94m[08:40:53]: Inventory[0m
+[92m[08:40:53]: 15, 0, 0, 0, 0, 0, 0[0m
+[94m[08:40:53]: Inventory[0m
+[92m[08:40:53]: 15, 0, 0, 0, 0, 0, 0[0m
+[93m[08:40:53]: Food level is below normal, searching some meat...[0m
+[94m[08:40:53]: Look[0m
+[92m[08:40:53]: Cell 0: player, food[0m
+[92m[08:40:53]: Cell 1: sibur, sibur[0m
+[92m[08:40:53]: Cell 2: food, food, food[0m
+[92m[08:40:53]: Cell 3: food[0m
+[94m[08:40:53]: Take food[0m
+[92m[08:40:53]: ok[0m
+[94m[08:40:53]: Inventory[0m
+[92m[08:40:53]: 16, 0, 0, 0, 0, 0, 0[0m
+[94m[08:40:53]: Inventory[0m
+[92m[08:40:53]: 16, 0, 0, 0, 0, 0, 0[0m
+[93m[08:40:53]: Food level is below normal, searching some meat...[0m
+[94m[08:40:53]: Look[0m
+[92m[08:40:53]: Cell 0: player[0m
+[92m[08:40:53]: Cell 1: sibur, sibur[0m
+[92m[08:40:53]: Cell 2: food, food, food[0m
+[92m[08:40:53]: Cell 3: food[0m
+[93m[08:40:53]: Found some food on cell 2[0m
+Forward
+[94m[08:40:53]: Forward[0m
+[92m[08:40:54]: ok[0m
+[94m[08:40:54]: Inventory[0m
+[92m[08:40:54]: 16, 0, 0, 0, 0, 0, 0[0m
+[93m[08:40:54]: Food level is below normal, searching some meat...[0m
+[94m[08:40:54]: Look[0m
+[92m[08:40:54]: Cell 0: player, food, food, food[0m
+[92m[08:40:54]: Cell 1: [0m
+[92m[08:40:54]: Cell 2: linemate, sibur[0m
+[92m[08:40:54]: Cell 3: phiras[0m
+[94m[08:40:54]: Take food[0m
+[92m[08:40:54]: ok[0m
+[94m[08:40:54]: Inventory[0m
+[92m[08:40:54]: 17, 0, 0, 0, 0, 0, 0[0m
+[94m[08:40:54]: Inventory[0m
+[92m[08:40:54]: 17, 0, 0, 0, 0, 0, 0[0m
+[93m[08:40:54]: Food level is below normal, searching some meat...[0m
+[94m[08:40:54]: Look[0m
+[92m[08:40:54]: Cell 0: player, food, food[0m
+[92m[08:40:54]: Cell 1: [0m
+[92m[08:40:54]: Cell 2: linemate, sibur[0m
+[92m[08:40:54]: Cell 3: food, phiras[0m
+[94m[08:40:54]: Take food[0m
+[92m[08:40:54]: ok[0m
+[94m[08:40:54]: Inventory[0m
+[92m[08:40:54]: 17, 0, 0, 0, 0, 0, 0[0m
+[94m[08:40:54]: Inventory[0m
+[92m[08:40:54]: 17, 0, 0, 0, 0, 0, 0[0m
+[93m[08:40:54]: Food level is below normal, searching some meat...[0m
+[94m[08:40:54]: Look[0m
+[92m[08:40:54]: Cell 0: player, food[0m
+[92m[08:40:54]: Cell 1: [0m
+[92m[08:40:54]: Cell 2: linemate, sibur[0m
+[92m[08:40:54]: Cell 3: food, phiras[0m
+[94m[08:40:54]: Take food[0m
+[92m[08:40:54]: ok[0m
+[94m[08:40:54]: Inventory[0m
+[92m[08:40:54]: 18, 0, 0, 0, 0, 0, 0[0m
+[94m[08:40:54]: Inventory[0m
+[92m[08:40:54]: 18, 0, 0, 0, 0, 0, 0[0m
+[93m[08:40:54]: Food level is below normal, searching some meat...[0m
+[94m[08:40:54]: Look[0m
+[92m[08:40:54]: Cell 0: player[0m
+[92m[08:40:54]: Cell 1: [0m
+[92m[08:40:54]: Cell 2: linemate, sibur[0m
+[92m[08:40:54]: Cell 3: food, phiras[0m
+[93m[08:40:54]: food on 3[0m
+Right
+[94m[08:40:54]: Right[0m
+[92m[08:40:54]: ok[0m
+[94m[08:40:54]: Forward[0m
+[92m[08:40:54]: ok[0m
+[94m[08:40:54]: Left[0m
+[92m[08:40:54]: ok[0m
+[94m[08:40:54]: Inventory[0m
+[92m[08:40:54]: 18, 0, 0, 0, 0, 0, 0[0m
+[93m[08:40:54]: Food level is below normal, searching some meat...[0m
+[94m[08:40:54]: Look[0m
+[92m[08:40:54]: Cell 0: player, food[0m
+[92m[08:40:54]: Cell 1: linemate, sibur[0m
+[92m[08:40:54]: Cell 2: food, phiras[0m
+[92m[08:40:54]: Cell 3: food, linemate[0m
+[94m[08:40:54]: Take food[0m
+[92m[08:40:54]: ok[0m
+[94m[08:40:54]: Inventory[0m
+[92m[08:40:54]: 19, 0, 0, 0, 0, 0, 0[0m
+[94m[08:40:54]: Inventory[0m
+[92m[08:40:55]: 19, 0, 0, 0, 0, 0, 0[0m
+[93m[08:40:55]: Food level is below normal, searching some meat...[0m
+[94m[08:40:55]: Look[0m
+[92m[08:40:55]: Cell 0: player[0m
+[92m[08:40:55]: Cell 1: linemate, sibur[0m
+[92m[08:40:55]: Cell 2: food, phiras[0m
+[92m[08:40:55]: Cell 3: food, linemate[0m
+[93m[08:40:55]: Found some food on cell 2[0m
+Forward
+[94m[08:40:55]: Forward[0m
+[92m[08:40:55]: ok[0m
+[94m[08:40:55]: Inventory[0m
+[92m[08:40:55]: 19, 0, 0, 0, 0, 0, 0[0m
+[93m[08:40:55]: Food level is below normal, searching some meat...[0m
+[94m[08:40:55]: Look[0m
+[92m[08:40:55]: Cell 0: player, food, phiras[0m
+[92m[08:40:55]: Cell 1: [0m
+[92m[08:40:55]: Cell 2: [0m
+[92m[08:40:55]: Cell 3: deraumere[0m
+[94m[08:40:55]: Take food[0m
+[92m[08:40:55]: ok[0m
+[94m[08:40:55]: Inventory[0m
+[92m[08:40:55]: 20, 0, 0, 0, 0, 0, 0[0m
+[94m[08:40:55]: Inventory[0m
+[92m[08:40:55]: 20, 0, 0, 0, 0, 0, 0[0m
+[93m[08:40:55]: Food level is below normal, searching some meat...[0m
+[94m[08:40:55]: Look[0m
+[92m[08:40:55]: Cell 0: player, phiras[0m
+[92m[08:40:55]: Cell 1: [0m
+[92m[08:40:55]: Cell 2: [0m
+[92m[08:40:55]: Cell 3: deraumere[0m
+None
+[93m[08:40:55]: Can't find food here, going to a random position[0m
+[94m[08:40:55]: Forward[0m
+[92m[08:40:55]: ok[0m
+[94m[08:40:55]: Inventory[0m
+[92m[08:40:55]: 20, 0, 0, 0, 0, 0, 0[0m
+[93m[08:40:55]: Food level is below normal, searching some meat...[0m
+[94m[08:40:55]: Look[0m
+[92m[08:40:55]: Cell 0: player[0m
+[92m[08:40:55]: Cell 1: food, sibur[0m
+[92m[08:40:55]: Cell 2: food, deraumere[0m
+[92m[08:40:55]: Cell 3: [0m
+[93m[08:40:55]: Found some food on cell 2[0m
+Forward
+[94m[08:40:55]: Forward[0m
+[92m[08:40:55]: ok[0m
+[94m[08:40:55]: Inventory[0m
+[92m[08:40:55]: 19, 0, 0, 0, 0, 0, 0[0m
+[93m[08:40:55]: Food level is below normal, searching some meat...[0m
+[94m[08:40:55]: Look[0m
+[92m[08:40:55]: Cell 0: player, food, deraumere[0m
+[92m[08:40:55]: Cell 1: food[0m
+[92m[08:40:55]: Cell 2: food[0m
+[92m[08:40:55]: Cell 3: food, deraumere, sibur[0m
+[94m[08:40:55]: Take food[0m
+[92m[08:40:55]: ok[0m
+[94m[08:40:55]: Inventory[0m
+[92m[08:40:55]: 20, 0, 0, 0, 0, 0, 0[0m
+[94m[08:40:55]: Inventory[0m
+[92m[08:40:55]: 20, 0, 0, 0, 0, 0, 0[0m
+[93m[08:40:55]: Food level is below normal, searching some meat...[0m
+[94m[08:40:55]: Look[0m
+[92m[08:40:55]: Cell 0: player, deraumere[0m
+[92m[08:40:55]: Cell 1: food[0m
+[92m[08:40:55]: Cell 2: food[0m
+[92m[08:40:55]: Cell 3: food, deraumere, sibur[0m
+[93m[08:40:55]: Found some food on cell 2[0m
+Forward
+[94m[08:40:55]: Forward[0m
+[92m[08:40:55]: ok[0m
+[94m[08:40:55]: Inventory[0m
+[92m[08:40:55]: 20, 0, 0, 0, 0, 0, 0[0m
+[93m[08:40:55]: Food level is below normal, searching some meat...[0m
+[94m[08:40:55]: Look[0m
+[92m[08:40:56]: Cell 0: player, food[0m
+[92m[08:40:56]: Cell 1: [0m
+[92m[08:40:56]: Cell 2: [0m
+[92m[08:40:56]: Cell 3: linemate[0m
+[94m[08:40:56]: Take food[0m
+[92m[08:40:56]: ok[0m
+[94m[08:40:56]: Inventory[0m
+[92m[08:40:56]: 21, 0, 0, 0, 0, 0, 0[0m
+[94m[08:40:56]: Inventory[0m
+[92m[08:40:56]: 21, 0, 0, 0, 0, 0, 0[0m
+[93m[08:40:56]: Food level is below normal, searching some meat...[0m
+[94m[08:40:56]: Look[0m
+[92m[08:40:56]: Cell 0: player[0m
+[92m[08:40:56]: Cell 1: [0m
+[92m[08:40:56]: Cell 2: [0m
+[92m[08:40:56]: Cell 3: linemate[0m
+None
+[93m[08:40:56]: Can't find food here, going to a random position[0m
+[94m[08:40:56]: Right[0m
+[92m[08:40:56]: ok[0m
+[94m[08:40:56]: Inventory[0m
+[92m[08:40:56]: 21, 0, 0, 0, 0, 0, 0[0m
+[93m[08:40:56]: Food level is below normal, searching some meat...[0m
+[94m[08:40:56]: Look[0m
+[92m[08:40:56]: Cell 0: player[0m
+[92m[08:40:56]: Cell 1: linemate[0m
+[92m[08:40:56]: Cell 2: food, deraumere, sibur[0m
+[92m[08:40:56]: Cell 3: [0m
+[93m[08:40:56]: Found some food on cell 2[0m
+Forward
+[94m[08:40:56]: Forward[0m
+[92m[08:40:56]: ok[0m
+[94m[08:40:56]: Inventory[0m
+[92m[08:40:56]: 21, 0, 0, 0, 0, 0, 0[0m
+[93m[08:40:56]: Food level is below normal, searching some meat...[0m
+[94m[08:40:56]: Look[0m
+[92m[08:40:56]: Cell 0: player, food, deraumere, sibur[0m
+[92m[08:40:56]: Cell 1: [0m
+[92m[08:40:56]: Cell 2: deraumere, sibur, phiras[0m
+[92m[08:40:56]: Cell 3: phiras[0m
+[94m[08:40:56]: Take food[0m
+[92m[08:40:56]: ok[0m
+[94m[08:40:56]: Inventory[0m
+[92m[08:40:56]: 22, 0, 0, 0, 0, 0, 0[0m
+[94m[08:40:56]: Inventory[0m
+[92m[08:40:56]: 22, 0, 0, 0, 0, 0, 0[0m
+[93m[08:40:56]: Food level is below normal, searching some meat...[0m
+[94m[08:40:56]: Look[0m
+[92m[08:40:56]: Cell 0: player, deraumere, sibur[0m
+[92m[08:40:56]: Cell 1: [0m
+[92m[08:40:56]: Cell 2: deraumere, sibur, phiras[0m
+[92m[08:40:56]: Cell 3: phiras[0m
+None
+[93m[08:40:56]: Can't find food here, going to a random position[0m
+[94m[08:40:56]: Left[0m
+[92m[08:40:56]: ok[0m
+[94m[08:40:56]: Inventory[0m
+[92m[08:40:56]: 22, 0, 0, 0, 0, 0, 0[0m
+[93m[08:40:56]: Food level is below normal, searching some meat...[0m
+[94m[08:40:56]: Look[0m
+[92m[08:40:56]: Cell 0: player, deraumere, sibur[0m
+[92m[08:40:56]: Cell 1: [0m
+[92m[08:40:56]: Cell 2: linemate[0m
+[92m[08:40:56]: Cell 3: [0m
+None
+[93m[08:40:56]: Can't find food here, going to a random position[0m
+[94m[08:40:56]: Left[0m
+[92m[08:40:56]: ok[0m
+[94m[08:40:56]: Inventory[0m
+[92m[08:40:56]: 22, 0, 0, 0, 0, 0, 0[0m
+[93m[08:40:56]: Food level is below normal, searching some meat...[0m
+[94m[08:40:56]: Look[0m
+[92m[08:40:56]: Cell 0: player, deraumere, sibur[0m
+[92m[08:40:56]: Cell 1: deraumere[0m
+[92m[08:40:56]: Cell 2: [0m
+[92m[08:40:56]: Cell 3: [0m
+None
+[93m[08:40:56]: Can't find food here, going to a random position[0m
+[94m[08:40:56]: Forward[0m
+[92m[08:40:57]: ok[0m
+[94m[08:40:57]: Inventory[0m
+[92m[08:40:57]: 21, 0, 0, 0, 0, 0, 0[0m
+[93m[08:40:57]: Food level is below normal, searching some meat...[0m
+[94m[08:40:57]: Look[0m
+[92m[08:40:57]: Cell 0: player[0m
+[92m[08:40:57]: Cell 1: food, sibur[0m
+[92m[08:40:57]: Cell 2: food[0m
+[92m[08:40:57]: Cell 3: [0m
+[93m[08:40:57]: Found some food on cell 2[0m
+Forward
+[94m[08:40:57]: Forward[0m
+[92m[08:40:57]: ok[0m
+[94m[08:40:57]: Inventory[0m
+[92m[08:40:57]: 21, 0, 0, 0, 0, 0, 0[0m
+[93m[08:40:57]: Food level is below normal, searching some meat...[0m
+[94m[08:40:57]: Look[0m
+[92m[08:40:57]: Cell 0: player, food[0m
+[92m[08:40:57]: Cell 1: food, linemate[0m
+[92m[08:40:57]: Cell 2: food, food, linemate, sibur, mendiane[0m
+[92m[08:40:57]: Cell 3: food, mendiane[0m
+[94m[08:40:57]: Take food[0m
+[92m[08:40:57]: ok[0m
+[94m[08:40:57]: Inventory[0m
+[92m[08:40:57]: 22, 0, 0, 0, 0, 0, 0[0m
+[94m[08:40:57]: Inventory[0m
+[92m[08:40:57]: 22, 0, 0, 0, 0, 0, 0[0m
+[93m[08:40:57]: Food level is below normal, searching some meat...[0m
+[94m[08:40:57]: Look[0m
+[92m[08:40:57]: Cell 0: player[0m
+[92m[08:40:57]: Cell 1: food, linemate[0m
+[92m[08:40:57]: Cell 2: food, food, linemate, sibur, mendiane[0m
+[92m[08:40:57]: Cell 3: food, mendiane[0m
+[93m[08:40:57]: Found some food on cell 2[0m
+Forward
+[94m[08:40:57]: Forward[0m
+[92m[08:40:57]: ok[0m
+[94m[08:40:57]: Inventory[0m
+[92m[08:40:57]: 22, 0, 0, 0, 0, 0, 0[0m
+[93m[08:40:57]: Food level is below normal, searching some meat...[0m
+[94m[08:40:57]: Look[0m
+[92m[08:40:57]: Cell 0: player, food, food, linemate, sibur, mendiane[0m
+[92m[08:40:57]: Cell 1: food, linemate, linemate, phiras[0m
+[92m[08:40:57]: Cell 2: food, food, food[0m
+[92m[08:40:57]: Cell 3: food, deraumere, deraumere, mendiane[0m
+[94m[08:40:57]: Take food[0m
+[92m[08:40:57]: ok[0m
+[94m[08:40:57]: Inventory[0m
+[92m[08:40:57]: 23, 0, 0, 0, 0, 0, 0[0m
+[94m[08:40:57]: Inventory[0m
+[92m[08:40:57]: 23, 0, 0, 0, 0, 0, 0[0m
+[93m[08:40:57]: Food level is below normal, searching some meat...[0m
+[94m[08:40:57]: Look[0m
+[92m[08:40:57]: Cell 0: player, food, linemate, sibur, mendiane[0m
+[92m[08:40:57]: Cell 1: food, linemate, linemate, phiras[0m
+[92m[08:40:57]: Cell 2: food, food, food[0m
+[92m[08:40:57]: Cell 3: food, deraumere, deraumere, mendiane[0m
+[94m[08:40:57]: Take food[0m
+[92m[08:40:57]: ok[0m
+[94m[08:40:57]: Inventory[0m
+[92m[08:40:57]: 24, 0, 0, 0, 0, 0, 0[0m
+[94m[08:40:57]: Inventory[0m
+[92m[08:40:57]: 24, 0, 0, 0, 0, 0, 0[0m
+[93m[08:40:57]: Food level is below normal, searching some meat...[0m
+[94m[08:40:57]: Look[0m
+[92m[08:40:57]: Cell 0: player, linemate, sibur, mendiane[0m
+[92m[08:40:57]: Cell 1: food, linemate, linemate, phiras[0m
+[92m[08:40:57]: Cell 2: food, food, food[0m
+[92m[08:40:57]: Cell 3: food, deraumere, deraumere, mendiane[0m
+[93m[08:40:57]: Found some food on cell 2[0m
+Forward
+[94m[08:40:57]: Forward[0m
+[92m[08:40:57]: ok[0m
+[94m[08:40:57]: Inventory[0m
+[92m[08:40:57]: 24, 0, 0, 0, 0, 0, 0[0m
+[93m[08:40:57]: Food level is below normal, searching some meat...[0m
+[94m[08:40:57]: Look[0m
+[92m[08:40:58]: Cell 0: player, food, food, food[0m
+[92m[08:40:58]: Cell 1: [0m
+[92m[08:40:58]: Cell 2: food, food[0m
+[92m[08:40:58]: Cell 3: food[0m
+[94m[08:40:58]: Take food[0m
+[92m[08:40:58]: ok[0m
+[94m[08:40:58]: Inventory[0m
+[92m[08:40:58]: 25, 0, 0, 0, 0, 0, 0[0m
+[94m[08:40:58]: Inventory[0m
+[92m[08:40:58]: 25, 0, 0, 0, 0, 0, 0[0m
+[93m[08:40:58]: Food level is below normal, searching some meat...[0m
+[94m[08:40:58]: Look[0m
+[92m[08:40:58]: Cell 0: player, food, food[0m
+[92m[08:40:58]: Cell 1: [0m
+[92m[08:40:58]: Cell 2: food, food[0m
+[92m[08:40:58]: Cell 3: food[0m
+[94m[08:40:58]: Take food[0m
+[92m[08:40:58]: ok[0m
+[94m[08:40:58]: Inventory[0m
+[92m[08:40:58]: 25, 0, 0, 0, 0, 0, 0[0m
+[94m[08:40:58]: Inventory[0m
+[92m[08:40:58]: 25, 0, 0, 0, 0, 0, 0[0m
+[93m[08:40:58]: Food level is below normal, searching some meat...[0m
+[94m[08:40:58]: Look[0m
+[92m[08:40:58]: Cell 0: player, food[0m
+[92m[08:40:58]: Cell 1: [0m
+[92m[08:40:58]: Cell 2: food, food[0m
+[92m[08:40:58]: Cell 3: food[0m
+[94m[08:40:58]: Take food[0m
+[92m[08:40:58]: ok[0m
+[94m[08:40:58]: Inventory[0m
+[92m[08:40:58]: 26, 0, 0, 0, 0, 0, 0[0m
+[94m[08:40:58]: Inventory[0m
+[92m[08:40:58]: 26, 0, 0, 0, 0, 0, 0[0m
+[93m[08:40:58]: Food level is below normal, searching some meat...[0m
+[94m[08:40:58]: Look[0m
+[92m[08:40:58]: Cell 0: player[0m
+[92m[08:40:58]: Cell 1: [0m
+[92m[08:40:58]: Cell 2: food, food[0m
+[92m[08:40:58]: Cell 3: food[0m
+[93m[08:40:58]: Found some food on cell 2[0m
+Forward
+[94m[08:40:58]: Forward[0m
+[92m[08:40:58]: ok[0m
+[94m[08:40:58]: Inventory[0m
+[92m[08:40:58]: 26, 0, 0, 0, 0, 0, 0[0m
+[93m[08:40:58]: Food level is below normal, searching some meat...[0m
+[94m[08:40:58]: Look[0m
+[92m[08:40:58]: Cell 0: player, food, food[0m
+[92m[08:40:58]: Cell 1: food[0m
+[92m[08:40:58]: Cell 2: mendiane[0m
+[92m[08:40:58]: Cell 3: food, linemate, phiras[0m
+[94m[08:40:58]: Take food[0m
+[92m[08:40:58]: ok[0m
+[94m[08:40:58]: Inventory[0m
+[92m[08:40:58]: 27, 0, 0, 0, 0, 0, 0[0m
+[94m[08:40:58]: Inventory[0m
+[92m[08:40:58]: 27, 0, 0, 0, 0, 0, 0[0m
+[93m[08:40:58]: Food level is below normal, searching some meat...[0m
+[94m[08:40:58]: Look[0m
+[92m[08:40:58]: Cell 0: player, food[0m
+[92m[08:40:58]: Cell 1: food[0m
+[92m[08:40:58]: Cell 2: mendiane[0m
+[92m[08:40:58]: Cell 3: food, linemate, phiras[0m
+[94m[08:40:58]: Take food[0m
+[92m[08:40:58]: ok[0m
+[94m[08:40:58]: Inventory[0m
+[92m[08:40:58]: 28, 0, 0, 0, 0, 0, 0[0m
+[94m[08:40:58]: Inventory[0m
+[92m[08:40:58]: 28, 0, 0, 0, 0, 0, 0[0m
+[93m[08:40:58]: Food level is below normal, searching some meat...[0m
+[94m[08:40:58]: Look[0m
+[92m[08:40:58]: Cell 0: player[0m
+[92m[08:40:58]: Cell 1: food[0m
+[92m[08:40:58]: Cell 2: mendiane[0m
+[92m[08:40:58]: Cell 3: food, linemate, phiras[0m
+[93m[08:40:58]: food on 1[0m
+Left
+[94m[08:40:58]: Left[0m
+[92m[08:40:59]: ok[0m
+[94m[08:40:59]: Forward[0m
+[92m[08:40:59]: ok[0m
+[94m[08:40:59]: Right[0m
+[92m[08:40:59]: ok[0m
+[94m[08:40:59]: Inventory[0m
+[92m[08:40:59]: 28, 0, 0, 0, 0, 0, 0[0m
+[93m[08:40:59]: Food level is below normal, searching some meat...[0m
+[94m[08:40:59]: Look[0m
+[92m[08:40:59]: Cell 0: player[0m
+[92m[08:40:59]: Cell 1: food, food, linemate, deraumere[0m
+[92m[08:40:59]: Cell 2: food[0m
+[92m[08:40:59]: Cell 3: mendiane[0m
+[93m[08:40:59]: Found some food on cell 2[0m
+Forward
+[94m[08:40:59]: Forward[0m
+[92m[08:40:59]: ok[0m
+[94m[08:40:59]: Inventory[0m
+[92m[08:40:59]: 28, 0, 0, 0, 0, 0, 0[0m
+[93m[08:40:59]: Food level is below normal, searching some meat...[0m
+[94m[08:40:59]: Look[0m
+[92m[08:40:59]: Cell 0: player, food[0m
+[92m[08:40:59]: Cell 1: linemate, deraumere[0m
+[92m[08:40:59]: Cell 2: food, thystame[0m
+[92m[08:40:59]: Cell 3: food, linemate, mendiane, phiras[0m
+[94m[08:40:59]: Take food[0m
+[92m[08:40:59]: ok[0m
+[94m[08:40:59]: Inventory[0m
+[92m[08:40:59]: 28, 0, 0, 0, 0, 0, 0[0m
+[94m[08:40:59]: Inventory[0m
+[92m[08:40:59]: 28, 0, 0, 0, 0, 0, 0[0m
+[93m[08:40:59]: Food level is below normal, searching some meat...[0m
+[94m[08:40:59]: Look[0m
+[92m[08:40:59]: Cell 0: player[0m
+[92m[08:40:59]: Cell 1: linemate, deraumere[0m
+[92m[08:40:59]: Cell 2: food, thystame[0m
+[92m[08:40:59]: Cell 3: food, linemate, mendiane, phiras[0m
+[93m[08:40:59]: Found some food on cell 2[0m
+Forward
+[94m[08:40:59]: Forward[0m
+[92m[08:40:59]: ok[0m
+[94m[08:40:59]: Inventory[0m
+[92m[08:40:59]: 28, 0, 0, 0, 0, 0, 0[0m
+[93m[08:40:59]: Food level is below normal, searching some meat...[0m
+[94m[08:40:59]: Look[0m
+[92m[08:40:59]: Cell 0: player, food, thystame[0m
+[92m[08:40:59]: Cell 1: food[0m
+[92m[08:40:59]: Cell 2: deraumere, phiras[0m
+[92m[08:40:59]: Cell 3: sibur[0m
+[94m[08:40:59]: Take food[0m
+[92m[08:40:59]: ok[0m
+[94m[08:40:59]: Inventory[0m
+[92m[08:40:59]: 29, 0, 0, 0, 0, 0, 0[0m
+[94m[08:40:59]: Inventory[0m
+[92m[08:40:59]: 29, 0, 0, 0, 0, 0, 0[0m
+[93m[08:40:59]: Food level is below normal, searching some meat...[0m
+[94m[08:40:59]: Look[0m
+[92m[08:40:59]: Cell 0: player, thystame[0m
+[92m[08:40:59]: Cell 1: food[0m
+[92m[08:40:59]: Cell 2: deraumere, phiras[0m
+[92m[08:40:59]: Cell 3: sibur[0m
+[93m[08:40:59]: food on 1[0m
+Left
+[94m[08:40:59]: Left[0m
+[92m[08:40:59]: ok[0m
+[94m[08:40:59]: Forward[0m
+[92m[08:41:00]: ok[0m
+[94m[08:41:00]: Right[0m
+[92m[08:41:00]: ok[0m
+[94m[08:41:00]: Inventory[0m
+[92m[08:41:00]: 29, 0, 0, 0, 0, 0, 0[0m
+[93m[08:41:00]: Food level is below normal, searching some meat...[0m
+[94m[08:41:00]: Look[0m
+[92m[08:41:00]: Cell 0: player, linemate, deraumere[0m
+[92m[08:41:00]: Cell 1: food, linemate[0m
+[92m[08:41:00]: Cell 2: food[0m
+[92m[08:41:00]: Cell 3: deraumere, phiras[0m
+[93m[08:41:00]: Found some food on cell 2[0m
+Forward
+[94m[08:41:00]: Forward[0m
+[92m[08:41:00]: ok[0m
+[94m[08:41:00]: Inventory[0m
+[92m[08:41:00]: 29, 0, 0, 0, 0, 0, 0[0m
+[93m[08:41:00]: Food level is below normal, searching some meat...[0m
+[94m[08:41:00]: Look[0m
+[92m[08:41:00]: Cell 0: player, food[0m
+[92m[08:41:00]: Cell 1: food, phiras[0m
+[92m[08:41:00]: Cell 2: deraumere, deraumere, phiras[0m
+[92m[08:41:00]: Cell 3: food, phiras[0m
+[94m[08:41:00]: Take food[0m
+[92m[08:41:00]: ok[0m
+[94m[08:41:00]: Inventory[0m
+[92m[08:41:00]: 30, 0, 0, 0, 0, 0, 0[0m
+[94m[08:41:00]: Inventory[0m
+[92m[08:41:00]: 30, 0, 0, 0, 0, 0, 0[0m
+[93m[08:41:00]: Food level is below normal, searching some meat...[0m
+[94m[08:41:00]: Look[0m
+[92m[08:41:00]: Cell 0: player[0m
+[92m[08:41:00]: Cell 1: food, phiras[0m
+[92m[08:41:00]: Cell 2: deraumere, deraumere, phiras[0m
+[92m[08:41:00]: Cell 3: food, phiras[0m
+[93m[08:41:00]: food on 1[0m
+Left
+[94m[08:41:00]: Left[0m
+[92m[08:41:00]: ok[0m
+[94m[08:41:00]: Forward[0m
+[92m[08:41:00]: ok[0m
+[94m[08:41:00]: Right[0m
+[92m[08:41:00]: ok[0m
+[94m[08:41:00]: Inventory[0m
+[92m[08:41:00]: 29, 0, 0, 0, 0, 0, 0[0m
+[93m[08:41:00]: Food level is below normal, searching some meat...[0m
+[94m[08:41:00]: Look[0m
+[92m[08:41:00]: Cell 0: player, food, linemate[0m
+[92m[08:41:00]: Cell 1: sibur[0m
+[92m[08:41:00]: Cell 2: food, phiras[0m
+[92m[08:41:00]: Cell 3: deraumere, deraumere, phiras[0m
+[94m[08:41:00]: Take food[0m
+[92m[08:41:00]: ok[0m
+[94m[08:41:00]: Inventory[0m
+[92m[08:41:00]: 30, 0, 0, 0, 0, 0, 0[0m
+[94m[08:41:00]: Inventory[0m
+[92m[08:41:00]: 30, 0, 0, 0, 0, 0, 0[0m
+[93m[08:41:00]: Food level is below normal, searching some meat...[0m
+[94m[08:41:00]: Look[0m
+[92m[08:41:00]: Cell 0: player, linemate[0m
+[92m[08:41:00]: Cell 1: sibur[0m
+[92m[08:41:00]: Cell 2: food, phiras[0m
+[92m[08:41:00]: Cell 3: deraumere, deraumere, phiras[0m
+[93m[08:41:00]: Found some food on cell 2[0m
+Forward
+[94m[08:41:00]: Forward[0m
+[92m[08:41:01]: ok[0m
+[94m[08:41:01]: Inventory[0m
+[92m[08:41:01]: 30, 0, 0, 0, 0, 0, 0[0m
+[93m[08:41:01]: Food level is below normal, searching some meat...[0m
+[94m[08:41:01]: Look[0m
+[92m[08:41:01]: Cell 0: player, food, phiras[0m
+[92m[08:41:01]: Cell 1: food[0m
+[92m[08:41:01]: Cell 2: food, food, linemate[0m
+[92m[08:41:01]: Cell 3: deraumere[0m
+[94m[08:41:01]: Take food[0m
+[92m[08:41:01]: ok[0m
+[94m[08:41:01]: Inventory[0m
+[92m[08:41:01]: 31, 0, 0, 0, 0, 0, 0[0m
+[94m[08:41:01]: Inventory[0m
+[92m[08:41:01]: 31, 0, 0, 0, 0, 0, 0[0m
+[93m[08:41:01]: Need some ressource (1, 0, 0, 0, 0, 0)[0m
+[94m[08:41:01]: Look[0m
+[92m[08:41:01]: Cell 0: player, phiras[0m
+[92m[08:41:01]: Cell 1: food[0m
+[92m[08:41:01]: Cell 2: food, food, linemate[0m
+[92m[08:41:01]: Cell 3: deraumere[0m
+[93m[08:41:01]: Found some food on cell 2[0m
+[93m[08:41:01]: Going Forward to steal some linemate[0m
+[94m[08:41:01]: Forward[0m
+[92m[08:41:01]: ok[0m
+[94m[08:41:01]: Inventory[0m
+[92m[08:41:01]: 31, 0, 0, 0, 0, 0, 0[0m
+[93m[08:41:01]: Need some ressource (1, 0, 0, 0, 0, 0)[0m
+[94m[08:41:01]: Look[0m
+[92m[08:41:01]: Cell 0: player, food, food, linemate[0m
+[92m[08:41:01]: Cell 1: food[0m
+[92m[08:41:01]: Cell 2: phiras[0m
+[92m[08:41:01]: Cell 3: [0m
+[94m[08:41:01]: Take linemate[0m
+[92m[08:41:01]: ok[0m
+[94m[08:41:01]: Inventory[0m
+[92m[08:41:01]: 31, 1, 0, 0, 0, 0, 0[0m
+[94m[08:41:01]: Inventory[0m
+[92m[08:41:01]: 31, 1, 0, 0, 0, 0, 0[0m
+[93m[08:41:01]: It's time to level up Bobby![0m
+[94m[08:41:01]: Look[0m
+[92m[08:41:01]: Cell 0: player, food, food[0m
+[92m[08:41:01]: Cell 1: food[0m
+[92m[08:41:01]: Cell 2: phiras[0m
+[92m[08:41:01]: Cell 3: [0m
+1 1 0
+[94m[08:41:01]: Look[0m
+[92m[08:41:01]: Cell 0: player, food, food[0m
+[92m[08:41:01]: Cell 1: food[0m
+[92m[08:41:01]: Cell 2: phiras[0m
+[92m[08:41:01]: Cell 3: [0m
+[94m[08:41:01]: Take food[0m
+[92m[08:41:01]: ok[0m
+[94m[08:41:01]: Inventory[0m
+[92m[08:41:01]: 32, 1, 0, 0, 0, 0, 0[0m
+[94m[08:41:01]: Look[0m
+[92m[08:41:01]: Cell 0: player, food[0m
+[92m[08:41:01]: Cell 1: food[0m
+[92m[08:41:01]: Cell 2: phiras[0m
+[92m[08:41:01]: Cell 3: [0m
+[94m[08:41:01]: Take food[0m
+[92m[08:41:01]: ok[0m
+[94m[08:41:01]: Inventory[0m
+[92m[08:41:01]: 33, 1, 0, 0, 0, 0, 0[0m
+[94m[08:41:01]: Look[0m
+[92m[08:41:01]: Cell 0: player[0m
+[92m[08:41:01]: Cell 1: food[0m
+[92m[08:41:01]: Cell 2: phiras[0m
+[92m[08:41:01]: Cell 3: [0m
+[94m[08:41:01]: Set linemate[0m
+[92m[08:41:02]: ok[0m
+[94m[08:41:02]: Inventory[0m
+[92m[08:41:02]: 32, 0, 0, 0, 0, 0, 0[0m
+[94m[08:41:02]: Incantation[0m
+[92m[08:41:02]: Elevation underway[0m
+[4m[1m[92m[08:41:05]: Current level: 2[0m
+[94m[08:41:05]: Inventory[0m
+[92m[08:41:05]: 30, 0, 0, 0, 0, 0, 0[0m
+[93m[08:41:05]: Need some ressource (1, 1, 1, 0, 0, 0)[0m
+[94m[08:41:05]: Look[0m
+[92m[08:41:05]: Cell 0: player, linemate[0m
+[92m[08:41:05]: Cell 1: food[0m
+[92m[08:41:05]: Cell 2: phiras[0m
+[92m[08:41:05]: Cell 3: [0m
+[92m[08:41:05]: Cell 4: [0m
+[92m[08:41:05]: Cell 5: [0m
+[92m[08:41:05]: Cell 6: linemate, sibur[0m
+[92m[08:41:05]: Cell 7: [0m
+[92m[08:41:05]: Cell 8: food, sibur[0m
+[94m[08:41:05]: Take linemate[0m
+[92m[08:41:05]: ok[0m
+[94m[08:41:05]: Inventory[0m
+[92m[08:41:05]: 30, 1, 0, 0, 0, 0, 0[0m
+[94m[08:41:05]: Inventory[0m
+[92m[08:41:05]: 30, 1, 0, 0, 0, 0, 0[0m
+[93m[08:41:05]: Need some ressource (0, 1, 1, 0, 0, 0)[0m
+[94m[08:41:05]: Look[0m
+[92m[08:41:05]: Cell 0: player[0m
+[92m[08:41:05]: Cell 1: food[0m
+[92m[08:41:05]: Cell 2: phiras[0m
+[92m[08:41:05]: Cell 3: [0m
+[92m[08:41:05]: Cell 4: [0m
+[92m[08:41:05]: Cell 5: [0m
+[92m[08:41:05]: Cell 6: linemate, sibur[0m
+[92m[08:41:05]: Cell 7: [0m
+[92m[08:41:05]: Cell 8: food, sibur[0m
+[94m[08:41:05]: Look[0m
+[92m[08:41:05]: Cell 0: player[0m
+[92m[08:41:05]: Cell 1: food[0m
+[92m[08:41:05]: Cell 2: phiras[0m
+[92m[08:41:05]: Cell 3: [0m
+[92m[08:41:05]: Cell 4: [0m
+[92m[08:41:05]: Cell 5: [0m
+[92m[08:41:05]: Cell 6: linemate, sibur[0m
+[92m[08:41:05]: Cell 7: [0m
+[92m[08:41:05]: Cell 8: food, sibur[0m
+[93m[08:41:05]: Found some food on cell 6[0m
+[93m[08:41:05]: Going Forward to steal some sibur[0m
+[94m[08:41:05]: Forward[0m
+[92m[08:41:05]: ok[0m
+[94m[08:41:05]: Inventory[0m
+[92m[08:41:05]: 30, 1, 0, 0, 0, 0, 0[0m
+[93m[08:41:05]: Need some ressource (0, 1, 1, 0, 0, 0)[0m
+[94m[08:41:05]: Look[0m
+[92m[08:41:05]: Cell 0: player, phiras[0m
+[92m[08:41:05]: Cell 1: [0m
+[92m[08:41:05]: Cell 2: linemate, sibur[0m
+[92m[08:41:05]: Cell 3: [0m
+[92m[08:41:05]: Cell 4: [0m
+[92m[08:41:05]: Cell 5: sibur, sibur[0m
+[92m[08:41:05]: Cell 6: [0m
+[92m[08:41:05]: Cell 7: [0m
+[92m[08:41:05]: Cell 8: food, linemate[0m
+[94m[08:41:05]: Look[0m
+[92m[08:41:05]: Cell 0: player, phiras[0m
+[92m[08:41:05]: Cell 1: [0m
+[92m[08:41:05]: Cell 2: linemate, sibur[0m
+[92m[08:41:05]: Cell 3: [0m
+[92m[08:41:05]: Cell 4: [0m
+[92m[08:41:05]: Cell 5: sibur, sibur[0m
+[92m[08:41:05]: Cell 6: [0m
+[92m[08:41:05]: Cell 7: [0m
+[92m[08:41:05]: Cell 8: food, linemate[0m
+[93m[08:41:05]: Found some food on cell 2[0m
+[93m[08:41:05]: Going Forward to steal some sibur[0m
+[94m[08:41:05]: Forward[0m
+[92m[08:41:05]: ok[0m
+[94m[08:41:05]: Inventory[0m
+[92m[08:41:05]: 30, 1, 0, 0, 0, 0, 0[0m
+[93m[08:41:05]: Need some ressource (0, 1, 1, 0, 0, 0)[0m
+[94m[08:41:05]: Look[0m
+[92m[08:41:05]: Cell 0: player, linemate, sibur[0m
+[92m[08:41:05]: Cell 1: sibur, sibur[0m
+[92m[08:41:05]: Cell 2: [0m
+[92m[08:41:05]: Cell 3: [0m
+[92m[08:41:05]: Cell 4: food, linemate[0m
+[92m[08:41:05]: Cell 5: deraumere[0m
+[92m[08:41:05]: Cell 6: sibur[0m
+[92m[08:41:05]: Cell 7: linemate[0m
+[92m[08:41:05]: Cell 8: food, linemate, linemate, phiras[0m
+[93m[08:41:05]: deraumere on 5[0m
+[93m[08:41:05]: Going Left to steal some deraumere[0m
+[94m[08:41:05]: Left[0m
+[92m[08:41:05]: ok[0m
+[94m[08:41:05]: Forward[0m
+[92m[08:41:05]: ok[0m
+[94m[08:41:05]: Right[0m
+[92m[08:41:05]: ok[0m
+[94m[08:41:05]: Inventory[0m
+[92m[08:41:05]: 29, 1, 0, 0, 0, 0, 0[0m
+[93m[08:41:05]: Need some ressource (0, 1, 1, 0, 0, 0)[0m
+[94m[08:41:05]: Look[0m
+[92m[08:41:06]: Cell 0: player[0m
+[92m[08:41:06]: Cell 1: [0m
+[92m[08:41:06]: Cell 2: sibur, sibur[0m
+[92m[08:41:06]: Cell 3: [0m
+[92m[08:41:06]: Cell 4: [0m
+[92m[08:41:06]: Cell 5: food, linemate[0m
+[92m[08:41:06]: Cell 6: deraumere[0m
+[92m[08:41:06]: Cell 7: sibur[0m
+[92m[08:41:06]: Cell 8: linemate[0m
+[93m[08:41:06]: Found some food on cell 6[0m
+[93m[08:41:06]: Going Forward to steal some deraumere[0m
+[94m[08:41:06]: Forward[0m
+[92m[08:41:06]: ok[0m
+[94m[08:41:06]: Inventory[0m
+[92m[08:41:06]: 29, 1, 0, 0, 0, 0, 0[0m
+[93m[08:41:06]: Need some ressource (0, 1, 1, 0, 0, 0)[0m
+[94m[08:41:06]: Look[0m
+[92m[08:41:06]: Cell 0: player, sibur, sibur[0m
+[92m[08:41:06]: Cell 1: food, linemate[0m
+[92m[08:41:06]: Cell 2: deraumere[0m
+[92m[08:41:06]: Cell 3: sibur[0m
+[92m[08:41:06]: Cell 4: [0m
+[92m[08:41:06]: Cell 5: food[0m
+[92m[08:41:06]: Cell 6: sibur[0m
+[92m[08:41:06]: Cell 7: food, sibur, mendiane[0m
+[92m[08:41:06]: Cell 8: food, mendiane, phiras[0m
+[93m[08:41:06]: Found some food on cell 2[0m
+[93m[08:41:06]: Going Forward to steal some deraumere[0m
+[94m[08:41:06]: Forward[0m
+[92m[08:41:06]: ok[0m
+[94m[08:41:06]: Inventory[0m
+[92m[08:41:06]: 29, 1, 0, 0, 0, 0, 0[0m
+[93m[08:41:06]: Need some ressource (0, 1, 1, 0, 0, 0)[0m
+[94m[08:41:06]: Look[0m
+[92m[08:41:06]: Cell 0: player, deraumere[0m
+[92m[08:41:06]: Cell 1: food[0m
+[92m[08:41:06]: Cell 2: sibur[0m
+[92m[08:41:06]: Cell 3: food, sibur, mendiane[0m
+[92m[08:41:06]: Cell 4: food, deraumere, phiras[0m
+[92m[08:41:06]: Cell 5: food, sibur, mendiane[0m
+[92m[08:41:06]: Cell 6: food, linemate, deraumere[0m
+[92m[08:41:06]: Cell 7: deraumere, sibur, phiras[0m
+[92m[08:41:06]: Cell 8: food, food, linemate, deraumere[0m
+[94m[08:41:06]: Take deraumere[0m
+[92m[08:41:06]: ok[0m
+[94m[08:41:06]: Inventory[0m
+[92m[08:41:06]: 29, 1, 1, 0, 0, 0, 0[0m
+[94m[08:41:06]: Inventory[0m
+[92m[08:41:06]: 29, 1, 1, 0, 0, 0, 0[0m
+[93m[08:41:06]: Need some ressource (0, 0, 1, 0, 0, 0)[0m
+[94m[08:41:06]: Look[0m
+[92m[08:41:06]: Cell 0: player[0m
+[92m[08:41:06]: Cell 1: food[0m
+[92m[08:41:06]: Cell 2: sibur[0m
+[92m[08:41:06]: Cell 3: food, sibur, mendiane[0m
+[92m[08:41:06]: Cell 4: food, deraumere, phiras[0m
+[92m[08:41:06]: Cell 5: food, sibur, mendiane[0m
+[92m[08:41:06]: Cell 6: food, linemate, deraumere[0m
+[92m[08:41:06]: Cell 7: deraumere, sibur, phiras[0m
+[92m[08:41:06]: Cell 8: food, food, linemate, deraumere[0m
+[93m[08:41:06]: Found some food on cell 2[0m
+[93m[08:41:06]: Going Forward to steal some sibur[0m
+[94m[08:41:06]: Forward[0m
+[92m[08:41:06]: ok[0m
+[94m[08:41:06]: Inventory[0m
+[92m[08:41:06]: 29, 1, 1, 0, 0, 0, 0[0m
+[93m[08:41:06]: Need some ressource (0, 0, 1, 0, 0, 0)[0m
+[94m[08:41:06]: Look[0m
+[92m[08:41:06]: Cell 0: player, sibur[0m
+[92m[08:41:06]: Cell 1: food, sibur, mendiane[0m
+[92m[08:41:06]: Cell 2: food, linemate, deraumere[0m
+[92m[08:41:06]: Cell 3: deraumere, sibur, phiras[0m
+[92m[08:41:06]: Cell 4: food[0m
+[92m[08:41:06]: Cell 5: food, food, linemate, phiras[0m
+[92m[08:41:06]: Cell 6: food, food, mendiane[0m
+[92m[08:41:06]: Cell 7: [0m
+[92m[08:41:06]: Cell 8: linemate, deraumere[0m
+[94m[08:41:06]: Take sibur[0m
+[92m[08:41:06]: ok[0m
+[94m[08:41:06]: Inventory[0m
+[92m[08:41:06]: 29, 1, 1, 1, 0, 0, 0[0m
+[94m[08:41:06]: Inventory[0m
+[92m[08:41:06]: 29, 1, 1, 1, 0, 0, 0[0m
+[93m[08:41:06]: It's time to level up Bobby![0m
+[94m[08:41:06]: Look[0m
+[92m[08:41:06]: Cell 0: player[0m
+[92m[08:41:06]: Cell 1: food, sibur, mendiane[0m
+[92m[08:41:06]: Cell 2: food, linemate, deraumere[0m
+[92m[08:41:06]: Cell 3: deraumere, sibur, sibur, phiras[0m
+[92m[08:41:06]: Cell 4: food[0m
+[92m[08:41:06]: Cell 5: food, food, linemate, phiras[0m
+[92m[08:41:06]: Cell 6: food, food, mendiane[0m
+[92m[08:41:06]: Cell 7: [0m
+[92m[08:41:06]: Cell 8: linemate, deraumere[0m
+2 1 1
+[93m[08:41:06]: Need 1 more players[0m
+[94m[08:41:06]: Broadcast lem_help_plz:2[0m
+[92m[08:41:06]: ok[0m
+[94m[08:41:06]: Inventory[0m
+[92m[08:41:06]: 29, 1, 1, 1, 0, 0, 0[0m
+[93m[08:41:06]: It's time to level up Bobby![0m
+[94m[08:41:06]: Look[0m
+[92m[08:41:06]: Cell 0: player[0m
+[92m[08:41:06]: Cell 1: food, sibur, mendiane[0m
+[92m[08:41:06]: Cell 2: food, linemate, deraumere[0m
+[92m[08:41:06]: Cell 3: deraumere, sibur, sibur, phiras[0m
+[92m[08:41:06]: Cell 4: food[0m
+[92m[08:41:06]: Cell 5: food, food, linemate, phiras[0m
+[92m[08:41:06]: Cell 6: food, food, mendiane[0m
+[92m[08:41:06]: Cell 7: [0m
+[92m[08:41:06]: Cell 8: linemate, deraumere[0m
+2 1 1
+[94m[08:41:06]: Inventory[0m
+[92m[08:41:06]: 28, 1, 1, 1, 0, 0, 0[0m
+[93m[08:41:06]: It's time to level up Bobby![0m
+[94m[08:41:06]: Look[0m
+[92m[08:41:07]: Cell 0: player[0m
+[92m[08:41:07]: Cell 1: food, sibur, mendiane[0m
+[92m[08:41:07]: Cell 2: food, linemate, deraumere[0m
+[92m[08:41:07]: Cell 3: deraumere, sibur, sibur, phiras[0m
+[92m[08:41:07]: Cell 4: food[0m
+[92m[08:41:07]: Cell 5: food, food, linemate, phiras[0m
+[92m[08:41:07]: Cell 6: food, food, mendiane[0m
+[92m[08:41:07]: Cell 7: [0m
+[92m[08:41:07]: Cell 8: linemate, deraumere[0m
+2 1 1
+[94m[08:41:07]: Inventory[0m
+[92m[08:41:07]: 28, 1, 1, 1, 0, 0, 0[0m
+[93m[08:41:07]: It's time to level up Bobby![0m
+[94m[08:41:07]: Look[0m
+[92m[08:41:07]: Cell 0: player[0m
+[92m[08:41:07]: Cell 1: food, sibur, mendiane[0m
+[92m[08:41:07]: Cell 2: food, linemate, deraumere[0m
+[92m[08:41:07]: Cell 3: deraumere, sibur, sibur, phiras[0m
+[92m[08:41:07]: Cell 4: food[0m
+[92m[08:41:07]: Cell 5: food, food, linemate, phiras[0m
+[92m[08:41:07]: Cell 6: food, food, mendiane[0m
+[92m[08:41:07]: Cell 7: [0m
+[92m[08:41:07]: Cell 8: linemate, deraumere[0m
+2 1 1
+[94m[08:41:07]: Inventory[0m
+[92m[08:41:07]: 28, 1, 1, 1, 0, 0, 0[0m
+[93m[08:41:07]: It's time to level up Bobby![0m
+[94m[08:41:07]: Look[0m
+[92m[08:41:07]: Cell 0: player[0m
+[92m[08:41:07]: Cell 1: food, sibur, mendiane[0m
+[92m[08:41:07]: Cell 2: food, linemate, deraumere[0m
+[92m[08:41:07]: Cell 3: deraumere, sibur, sibur, phiras[0m
+[92m[08:41:07]: Cell 4: food[0m
+[92m[08:41:07]: Cell 5: food, food, linemate, phiras[0m
+[92m[08:41:07]: Cell 6: food, food, mendiane[0m
+[92m[08:41:07]: Cell 7: [0m
+[92m[08:41:07]: Cell 8: linemate, deraumere[0m
+2 1 1
+[94m[08:41:07]: Inventory[0m
+[92m[08:41:07]: 28, 1, 1, 1, 0, 0, 0[0m
+[93m[08:41:07]: It's time to level up Bobby![0m
+[94m[08:41:07]: Look[0m
+[92m[08:41:07]: Cell 0: player[0m
+[92m[08:41:07]: Cell 1: food, sibur, mendiane[0m
+[92m[08:41:07]: Cell 2: food, linemate, deraumere[0m
+[92m[08:41:07]: Cell 3: deraumere, sibur, sibur, phiras[0m
+[92m[08:41:07]: Cell 4: food[0m
+[92m[08:41:07]: Cell 5: food, food, linemate, phiras[0m
+[92m[08:41:07]: Cell 6: food, food, mendiane[0m
+[92m[08:41:07]: Cell 7: [0m
+[92m[08:41:07]: Cell 8: linemate, deraumere[0m
+2 1 1
+[94m[08:41:07]: Inventory[0m
+[92m[08:41:07]: 28, 1, 1, 1, 0, 0, 0[0m
+[93m[08:41:07]: It's time to level up Bobby![0m
+[94m[08:41:07]: Look[0m
+[92m[08:41:07]: Cell 0: player[0m
+[92m[08:41:07]: Cell 1: food, sibur, mendiane[0m
+[92m[08:41:07]: Cell 2: food, linemate, deraumere[0m
+[92m[08:41:07]: Cell 3: deraumere, sibur, sibur, phiras[0m
+[92m[08:41:07]: Cell 4: food[0m
+[92m[08:41:07]: Cell 5: food, food, linemate, phiras[0m
+[92m[08:41:07]: Cell 6: food, food, mendiane[0m
+[92m[08:41:07]: Cell 7: [0m
+[92m[08:41:07]: Cell 8: linemate, deraumere[0m
+2 1 1
+[94m[08:41:07]: Inventory[0m
+[92m[08:41:07]: 28, 1, 1, 1, 0, 0, 0[0m
+[93m[08:41:07]: It's time to level up Bobby![0m
+[94m[08:41:07]: Look[0m
+[92m[08:41:07]: Cell 0: player[0m
+[92m[08:41:07]: Cell 1: food, sibur, mendiane[0m
+[92m[08:41:07]: Cell 2: food, linemate, deraumere[0m
+[92m[08:41:07]: Cell 3: deraumere, sibur, sibur, phiras[0m
+[92m[08:41:07]: Cell 4: food[0m
+[92m[08:41:07]: Cell 5: food, food, linemate, phiras[0m
+[92m[08:41:07]: Cell 6: food, food, mendiane[0m
+[92m[08:41:07]: Cell 7: [0m
+[92m[08:41:07]: Cell 8: linemate, deraumere[0m
+2 1 1
+[94m[08:41:07]: Inventory[0m
+[92m[08:41:07]: 28, 1, 1, 1, 0, 0, 0[0m
+[93m[08:41:07]: It's time to level up Bobby![0m
+[94m[08:41:07]: Look[0m
+[92m[08:41:07]: Cell 0: player[0m
+[92m[08:41:07]: Cell 1: food, sibur, mendiane[0m
+[92m[08:41:07]: Cell 2: food, linemate, deraumere[0m
+[92m[08:41:07]: Cell 3: deraumere, sibur, sibur, phiras[0m
+[92m[08:41:07]: Cell 4: food[0m
+[92m[08:41:07]: Cell 5: food, food, linemate, phiras[0m
+[92m[08:41:07]: Cell 6: food, food, mendiane[0m
+[92m[08:41:07]: Cell 7: [0m
+[92m[08:41:07]: Cell 8: linemate, deraumere[0m
+2 1 1
+[94m[08:41:07]: Inventory[0m
+[92m[08:41:07]: 28, 1, 1, 1, 0, 0, 0[0m
+[93m[08:41:07]: It's time to level up Bobby![0m
+[94m[08:41:07]: Look[0m
+[92m[08:41:07]: Cell 0: player[0m
+[92m[08:41:07]: Cell 1: food, sibur, mendiane[0m
+[92m[08:41:07]: Cell 2: food, linemate, deraumere[0m
+[92m[08:41:07]: Cell 3: deraumere, sibur, sibur, phiras[0m
+[92m[08:41:07]: Cell 4: food[0m
+[92m[08:41:07]: Cell 5: food, food, linemate, phiras[0m
+[92m[08:41:07]: Cell 6: food, food, mendiane[0m
+[92m[08:41:07]: Cell 7: [0m
+[92m[08:41:07]: Cell 8: linemate, deraumere[0m
+2 1 1
+[94m[08:41:07]: Inventory[0m
+[92m[08:41:07]: 28, 1, 1, 1, 0, 0, 0[0m
+[93m[08:41:07]: It's time to level up Bobby![0m
+[94m[08:41:07]: Look[0m
+[92m[08:41:07]: Cell 0: player[0m
+[92m[08:41:07]: Cell 1: food, sibur, mendiane[0m
+[92m[08:41:07]: Cell 2: food, linemate, deraumere[0m
+[92m[08:41:07]: Cell 3: deraumere, sibur, sibur, phiras[0m
+[92m[08:41:07]: Cell 4: food[0m
+[92m[08:41:07]: Cell 5: food, food, linemate, phiras[0m
+[92m[08:41:07]: Cell 6: food, food, mendiane[0m
+[92m[08:41:07]: Cell 7: [0m
+[92m[08:41:07]: Cell 8: linemate, deraumere[0m
+2 1 1
+[94m[08:41:07]: Inventory[0m
+[92m[08:41:07]: 28, 1, 1, 1, 0, 0, 0[0m
+[93m[08:41:07]: It's time to level up Bobby![0m
+[94m[08:41:07]: Look[0m
+[92m[08:41:07]: Cell 0: player[0m
+[92m[08:41:07]: Cell 1: food, sibur, mendiane[0m
+[92m[08:41:07]: Cell 2: food, linemate, deraumere[0m
+[92m[08:41:07]: Cell 3: deraumere, sibur, sibur, phiras[0m
+[92m[08:41:07]: Cell 4: food[0m
+[92m[08:41:07]: Cell 5: food, food, linemate, phiras[0m
+[92m[08:41:07]: Cell 6: food, food, mendiane[0m
+[92m[08:41:07]: Cell 7: [0m
+[92m[08:41:07]: Cell 8: linemate, deraumere[0m
+2 1 1
+[94m[08:41:07]: Inventory[0m
+[92m[08:41:07]: 28, 1, 1, 1, 0, 0, 0[0m
+[93m[08:41:07]: It's time to level up Bobby![0m
+[94m[08:41:07]: Look[0m
+[92m[08:41:07]: Cell 0: player[0m
+[92m[08:41:07]: Cell 1: food, sibur, mendiane[0m
+[92m[08:41:07]: Cell 2: food, linemate, deraumere[0m
+[92m[08:41:07]: Cell 3: deraumere, sibur, sibur, phiras[0m
+[92m[08:41:07]: Cell 4: food[0m
+[92m[08:41:07]: Cell 5: food, food, linemate, phiras[0m
+[92m[08:41:07]: Cell 6: food, food, mendiane[0m
+[92m[08:41:07]: Cell 7: [0m
+[92m[08:41:07]: Cell 8: linemate, deraumere[0m
+2 1 1
+[94m[08:41:07]: Inventory[0m
+[92m[08:41:07]: 28, 1, 1, 1, 0, 0, 0[0m
+[93m[08:41:07]: It's time to level up Bobby![0m
+[94m[08:41:07]: Look[0m
+[92m[08:41:07]: Cell 0: player[0m
+[92m[08:41:07]: Cell 1: food, sibur, mendiane[0m
+[92m[08:41:07]: Cell 2: food, linemate, deraumere[0m
+[92m[08:41:07]: Cell 3: deraumere, sibur, sibur, phiras[0m
+[92m[08:41:07]: Cell 4: food[0m
+[92m[08:41:07]: Cell 5: food, food, linemate, phiras[0m
+[92m[08:41:07]: Cell 6: food, food, mendiane[0m
+[92m[08:41:07]: Cell 7: [0m
+[92m[08:41:07]: Cell 8: linemate, deraumere[0m
+2 1 1
+[94m[08:41:07]: Inventory[0m
+[92m[08:41:07]: 28, 1, 1, 1, 0, 0, 0[0m
+[93m[08:41:07]: It's time to level up Bobby![0m
+[94m[08:41:07]: Look[0m
+[92m[08:41:08]: Cell 0: player[0m
+[92m[08:41:08]: Cell 1: food, sibur, mendiane[0m
+[92m[08:41:08]: Cell 2: food, linemate, deraumere[0m
+[92m[08:41:08]: Cell 3: deraumere, sibur, sibur, phiras[0m
+[92m[08:41:08]: Cell 4: food[0m
+[92m[08:41:08]: Cell 5: food, food, linemate, phiras[0m
+[92m[08:41:08]: Cell 6: food, food, mendiane[0m
+[92m[08:41:08]: Cell 7: [0m
+[92m[08:41:08]: Cell 8: linemate, deraumere[0m
+2 1 1
+[94m[08:41:08]: Inventory[0m
+[92m[08:41:08]: 28, 1, 1, 1, 0, 0, 0[0m
+[93m[08:41:08]: It's time to level up Bobby![0m
+[94m[08:41:08]: Look[0m
+[92m[08:41:08]: Cell 0: player[0m
+[92m[08:41:08]: Cell 1: food, sibur, mendiane[0m
+[92m[08:41:08]: Cell 2: food, linemate, deraumere[0m
+[92m[08:41:08]: Cell 3: deraumere, sibur, sibur, phiras[0m
+[92m[08:41:08]: Cell 4: food[0m
+[92m[08:41:08]: Cell 5: food, food, linemate, phiras[0m
+[92m[08:41:08]: Cell 6: food, food, mendiane[0m
+[92m[08:41:08]: Cell 7: [0m
+[92m[08:41:08]: Cell 8: linemate, deraumere[0m
+2 1 1
+[94m[08:41:08]: Inventory[0m
+[92m[08:41:08]: 28, 1, 1, 1, 0, 0, 0[0m
+[93m[08:41:08]: It's time to level up Bobby![0m
+[94m[08:41:08]: Look[0m
+[92m[08:41:08]: Cell 0: player[0m
+[92m[08:41:08]: Cell 1: food, sibur, mendiane[0m
+[92m[08:41:08]: Cell 2: food, linemate, deraumere[0m
+[92m[08:41:08]: Cell 3: deraumere, sibur, sibur, phiras[0m
+[92m[08:41:08]: Cell 4: food[0m
+[92m[08:41:08]: Cell 5: food, food, linemate, phiras[0m
+[92m[08:41:08]: Cell 6: food, food, mendiane[0m
+[92m[08:41:08]: Cell 7: [0m
+[92m[08:41:08]: Cell 8: linemate, deraumere[0m
+2 1 1
+[93m[08:41:08]: Lem smash Bobby![0m
+[94m[08:41:08]: Fork[0m
+[92m[08:41:08]: ok[0m
+[94m[08:41:08]: Inventory[0m
+[92m[08:41:08]: 27, 1, 1, 1, 0, 0, 0[0m
+[93m[08:41:08]: It's time to level up Bobby![0m
+[94m[08:41:08]: Look[0m
+[92m[08:41:08]: Cell 0: player[0m
+[92m[08:41:08]: Cell 1: food, sibur, mendiane[0m
+[92m[08:41:08]: Cell 2: food, food, linemate, deraumere[0m
+[92m[08:41:08]: Cell 3: food, deraumere, sibur, sibur, phiras[0m
+[92m[08:41:08]: Cell 4: food, food[0m
+[92m[08:41:08]: Cell 5: food, food, linemate, phiras[0m
+[92m[08:41:08]: Cell 6: food, food, mendiane[0m
+[92m[08:41:08]: Cell 7: food[0m
+[92m[08:41:08]: Cell 8: food, food, linemate, deraumere[0m
+2 1 1
+[94m[08:41:08]: Inventory[0m
+[92m[08:41:08]: 27, 1, 1, 1, 0, 0, 0[0m
+[93m[08:41:08]: It's time to level up Bobby![0m
+[94m[08:41:08]: Look[0m
+[92m[08:41:08]: Cell 0: player[0m
+[92m[08:41:08]: Cell 1: food, sibur, mendiane[0m
+[92m[08:41:08]: Cell 2: food, food, linemate, deraumere[0m
+[92m[08:41:08]: Cell 3: food, deraumere, sibur, sibur, phiras[0m
+[92m[08:41:08]: Cell 4: food, food[0m
+[92m[08:41:08]: Cell 5: food, food, linemate, phiras[0m
+[92m[08:41:08]: Cell 6: food, food, mendiane[0m
+[92m[08:41:08]: Cell 7: food[0m
+[92m[08:41:08]: Cell 8: food, food, linemate, deraumere[0m
+2 1 1
+[94m[08:41:08]: Inventory[0m
+[92m[08:41:08]: 27, 1, 1, 1, 0, 0, 0[0m
+[93m[08:41:08]: It's time to level up Bobby![0m
+[94m[08:41:08]: Look[0m
+[92m[08:41:08]: Cell 0: player[0m
+[92m[08:41:08]: Cell 1: food, sibur, mendiane[0m
+[92m[08:41:08]: Cell 2: food, food, linemate, deraumere[0m
+[92m[08:41:08]: Cell 3: food, deraumere, sibur, sibur, phiras[0m
+[92m[08:41:08]: Cell 4: food, food[0m
+[92m[08:41:08]: Cell 5: food, food, linemate, phiras[0m
+[92m[08:41:08]: Cell 6: food, food, mendiane[0m
+[92m[08:41:08]: Cell 7: food[0m
+[92m[08:41:08]: Cell 8: food, food, linemate, deraumere[0m
+2 1 1
+[94m[08:41:08]: Inventory[0m
+[92m[08:41:08]: 27, 1, 1, 1, 0, 0, 0[0m
+[93m[08:41:08]: It's time to level up Bobby![0m
+[94m[08:41:08]: Look[0m
+[92m[08:41:08]: Cell 0: player[0m
+[92m[08:41:08]: Cell 1: food, sibur, mendiane[0m
+[92m[08:41:08]: Cell 2: food, food, linemate, deraumere[0m
+[92m[08:41:08]: Cell 3: food, deraumere, sibur, sibur, phiras[0m
+[92m[08:41:08]: Cell 4: food, food[0m
+[92m[08:41:08]: Cell 5: food, food, linemate, phiras[0m
+[92m[08:41:08]: Cell 6: food, food, mendiane[0m
+[92m[08:41:08]: Cell 7: food[0m
+[92m[08:41:08]: Cell 8: food, food, linemate, deraumere[0m
+2 1 1
+[94m[08:41:08]: Inventory[0m
+[92m[08:41:08]: 27, 1, 1, 1, 0, 0, 0[0m
+[93m[08:41:08]: It's time to level up Bobby![0m
+[94m[08:41:08]: Look[0m
+[92m[08:41:09]: Cell 0: player[0m
+[92m[08:41:09]: Cell 1: food, sibur, mendiane[0m
+[92m[08:41:09]: Cell 2: food, food, linemate, deraumere[0m
+[92m[08:41:09]: Cell 3: food, deraumere, sibur, sibur, phiras[0m
+[92m[08:41:09]: Cell 4: food, food[0m
+[92m[08:41:09]: Cell 5: food, food, linemate, phiras[0m
+[92m[08:41:09]: Cell 6: food, food, mendiane[0m
+[92m[08:41:09]: Cell 7: food[0m
+[92m[08:41:09]: Cell 8: food, food, linemate, deraumere[0m
+2 1 1
+[94m[08:41:09]: Inventory[0m
+[92m[08:41:09]: 27, 1, 1, 1, 0, 0, 0[0m
+[93m[08:41:09]: It's time to level up Bobby![0m
+[94m[08:41:09]: Look[0m
+[92m[08:41:09]: Cell 0: player[0m
+[92m[08:41:09]: Cell 1: food, sibur, mendiane[0m
+[92m[08:41:09]: Cell 2: food, food, linemate, deraumere[0m
+[92m[08:41:09]: Cell 3: food, deraumere, sibur, sibur, phiras[0m
+[92m[08:41:09]: Cell 4: food, food[0m
+[92m[08:41:09]: Cell 5: food, food, linemate, phiras[0m
+[92m[08:41:09]: Cell 6: food, food, mendiane[0m
+[92m[08:41:09]: Cell 7: food[0m
+[92m[08:41:09]: Cell 8: food, food, linemate, deraumere[0m
+2 1 1
+[94m[08:41:09]: Inventory[0m
+[92m[08:41:09]: 27, 1, 1, 1, 0, 0, 0[0m
+[93m[08:41:09]: It's time to level up Bobby![0m
+[94m[08:41:09]: Look[0m
+[92m[08:41:09]: Cell 0: player[0m
+[92m[08:41:09]: Cell 1: food, sibur, mendiane[0m
+[92m[08:41:09]: Cell 2: food, food, linemate, deraumere[0m
+[92m[08:41:09]: Cell 3: food, deraumere, sibur, sibur, phiras[0m
+[92m[08:41:09]: Cell 4: food, food[0m
+[92m[08:41:09]: Cell 5: food, food, linemate, phiras[0m
+[92m[08:41:09]: Cell 6: food, food, mendiane[0m
+[92m[08:41:09]: Cell 7: food[0m
+[92m[08:41:09]: Cell 8: food, food, linemate, deraumere[0m
+2 1 1
+[94m[08:41:09]: Inventory[0m
+[92m[08:41:09]: 27, 1, 1, 1, 0, 0, 0[0m
+[93m[08:41:09]: It's time to level up Bobby![0m
+[94m[08:41:09]: Look[0m
+[92m[08:41:09]: Cell 0: player[0m
+[92m[08:41:09]: Cell 1: food, sibur, mendiane[0m
+[92m[08:41:09]: Cell 2: food, food, linemate, deraumere[0m
+[92m[08:41:09]: Cell 3: food, deraumere, sibur, sibur, phiras[0m
+[92m[08:41:09]: Cell 4: food, food[0m
+[92m[08:41:09]: Cell 5: food, food, linemate, phiras[0m
+[92m[08:41:09]: Cell 6: food, food, mendiane[0m
+[92m[08:41:09]: Cell 7: food[0m
+[92m[08:41:09]: Cell 8: food, food, linemate, deraumere[0m
+2 1 1
+[94m[08:41:09]: Inventory[0m
+[92m[08:41:09]: 27, 1, 1, 1, 0, 0, 0[0m
+[93m[08:41:09]: It's time to level up Bobby![0m
+[94m[08:41:09]: Look[0m
+[92m[08:41:09]: Cell 0: player[0m
+[92m[08:41:09]: Cell 1: food, sibur, mendiane[0m
+[92m[08:41:09]: Cell 2: food, food, linemate, deraumere[0m
+[92m[08:41:09]: Cell 3: food, deraumere, sibur, sibur, phiras[0m
+[92m[08:41:09]: Cell 4: food, food[0m
+[92m[08:41:09]: Cell 5: food, food, linemate, phiras[0m
+[92m[08:41:09]: Cell 6: food, food, mendiane[0m
+[92m[08:41:09]: Cell 7: food[0m
+[92m[08:41:09]: Cell 8: food, food, linemate, deraumere[0m
+2 1 1
+[94m[08:41:09]: Inventory[0m
+[92m[08:41:09]: 27, 1, 1, 1, 0, 0, 0[0m
+[93m[08:41:09]: It's time to level up Bobby![0m
+[94m[08:41:09]: Look[0m
+[92m[08:41:09]: Cell 0: player[0m
+[92m[08:41:09]: Cell 1: food, sibur, mendiane[0m
+[92m[08:41:09]: Cell 2: food, food, linemate, deraumere[0m
+[92m[08:41:09]: Cell 3: food, deraumere, sibur, sibur, phiras[0m
+[92m[08:41:09]: Cell 4: food, food[0m
+[92m[08:41:09]: Cell 5: food, food, linemate, phiras[0m[94m[08:41:08]: Associating localhost to 127.0.0.1[0m
+[94m[08:41:08]: Connected to 127.0.0.1:4242 [localhost][0m
+[95m[08:41:08]: WELCOME[0m
+[93m[08:41:08]: Retrieving player infos...[0m
+[93m[08:41:08]: Player team: jean-sebastien.herbaux@epitech.eu[0m
+[94m[08:41:08]: Inventory[0m
+[92m[08:41:08]: 9, 0, 0, 0, 0, 0, 0[0m
+[93m[08:41:08]: Food level is below normal, searching some meat...[0m
+[94m[08:41:08]: Look[0m
+[92m[08:41:08]: Cell 0: player, phiras[0m
+[92m[08:41:08]: Cell 1: food, phiras, phiras[0m
+[92m[08:41:08]: Cell 2: food[0m
+[92m[08:41:08]: Cell 3: food[0m
+[93m[08:41:08]: Found some food on cell 2[0m
+Forward
+[94m[08:41:08]: Forward[0m
+[92m[08:41:08]: ok[0m
+[94m[08:41:08]: Inventory[0m
+[92m[08:41:08]: 9, 0, 0, 0, 0, 0, 0[0m
+[93m[08:41:08]: Food level is below normal, searching some meat...[0m
+[94m[08:41:08]: Look[0m
+[92m[08:41:08]: Cell 0: player, food[0m
+[92m[08:41:08]: Cell 1: food, mendiane[0m
+[92m[08:41:08]: Cell 2: food, food, food, food, deraumere, phiras[0m
+[92m[08:41:08]: Cell 3: food[0m
+[94m[08:41:08]: Take food[0m
+[92m[08:41:08]: ok[0m
+[94m[08:41:08]: Inventory[0m
+[92m[08:41:08]: 10, 0, 0, 0, 0, 0, 0[0m
+[94m[08:41:08]: Inventory[0m
+[92m[08:41:08]: 10, 0, 0, 0, 0, 0, 0[0m
+[93m[08:41:08]: Food level is below normal, searching some meat...[0m
+[94m[08:41:08]: Look[0m
+[92m[08:41:08]: Cell 0: player[0m
+[92m[08:41:08]: Cell 1: food, mendiane[0m
+[92m[08:41:08]: Cell 2: food, food, food, food, deraumere, phiras[0m
+[92m[08:41:08]: Cell 3: food[0m
+[93m[08:41:08]: Found some food on cell 2[0m
+Forward
+[94m[08:41:08]: Forward[0m
+[92m[08:41:08]: ok[0m
+[94m[08:41:08]: Inventory[0m
+[92m[08:41:08]: 10, 0, 0, 0, 0, 0, 0[0m
+[93m[08:41:08]: Food level is below normal, searching some meat...[0m
+[94m[08:41:08]: Look[0m
+[92m[08:41:08]: Cell 0: player, food, food, food, food, deraumere, phiras[0m
+[92m[08:41:08]: Cell 1: food, sibur[0m
+[92m[08:41:08]: Cell 2: food[0m
+[92m[08:41:08]: Cell 3: food, linemate[0m
+[94m[08:41:08]: Take food[0m
+[92m[08:41:08]: ok[0m
+[94m[08:41:08]: Inventory[0m
+[92m[08:41:08]: 11, 0, 0, 0, 0, 0, 0[0m
+[94m[08:41:08]: Inventory[0m
+[92m[08:41:08]: 11, 0, 0, 0, 0, 0, 0[0m
+[93m[08:41:08]: Food level is below normal, searching some meat...[0m
+[94m[08:41:08]: Look[0m
+[92m[08:41:08]: Cell 0: player, food, food, food, deraumere, phiras[0m
+[92m[08:41:08]: Cell 1: food, sibur[0m
+[92m[08:41:08]: Cell 2: food[0m
+[92m[08:41:08]: Cell 3: food, linemate[0m
+[94m[08:41:08]: Take food[0m
+[92m[08:41:09]: ok[0m
+[94m[08:41:09]: Inventory[0m
+[92m[08:41:09]: 12, 0, 0, 0, 0, 0, 0[0m
+[94m[08:41:09]: Inventory[0m
+[92m[08:41:09]: 12, 0, 0, 0, 0, 0, 0[0m
+[93m[08:41:09]: Food level is below normal, searching some meat...[0m
+[94m[08:41:09]: Look[0m
+[92m[08:41:09]: Cell 0: player, food, food, deraumere, phiras[0m
+[92m[08:41:09]: Cell 1: food, sibur[0m
+[92m[08:41:09]: Cell 2: food[0m
+[92m[08:41:09]: Cell 3: food, linemate[0m
+[94m[08:41:09]: Take food[0m
+[92m[08:41:09]: ok[0m
+[94m[08:41:09]: Inventory[0m
+[92m[08:41:09]: 13, 0, 0, 0, 0, 0, 0[0m
+[94m[08:41:09]: Inventory[0m
+[92m[08:41:09]: 13, 0, 0, 0, 0, 0, 0[0m
+[93m[08:41:09]: Food level is below normal, searching some meat...[0m
+[94m[08:41:09]: Look[0m
+[92m[08:41:09]: Cell 0: player, food, deraumere, phiras[0m
+[92m[08:41:09]: Cell 1: food, sibur[0m
+[92m[08:41:09]: Cell 2: food[0m
+[92m[08:41:09]: Cell 3: food, linemate[0m
+[94m[08:41:09]: Take food[0m
+[92m[08:41:09]: ok[0m
+[94m[08:41:09]: Inventory[0m
+[92m[08:41:09]: 14, 0, 0, 0, 0, 0, 0[0m
+[94m[08:41:09]: Inventory[0m
+[92m[08:41:09]: 14, 0, 0, 0, 0, 0, 0[0m
+[93m[08:41:09]: Food level is below normal, searching some meat...[0m
+[94m[08:41:09]: Look[0m
+[92m[08:41:09]: Cell 0: player, deraumere, phiras[0m
+[92m[08:41:09]: Cell 1: food, sibur[0m
+[92m[08:41:09]: Cell 2: food[0m
+[92m[08:41:09]: Cell 3: food, linemate[0m
+[93m[08:41:09]: Found some food on cell 2[0m
+Forward
+[94m[08:41:09]: Forward[0m
+[92m[08:41:09]: ok[0m
+[94m[08:41:09]: Inventory[0m
+[92m[08:41:09]: 13, 0, 0, 0, 0, 0, 0[0m
+[93m[08:41:09]: Food level is below normal, searching some meat...[0m
+[94m[08:41:09]: Look[0m
+[92m[08:41:09]: Cell 0: player, food[0m
+[92m[08:41:09]: Cell 1: food, linemate[0m
+[92m[08:41:09]: Cell 2: food, food, food[0m
+[92m[08:41:09]: Cell 3: food[0m
+[94m[08:41:09]: Take food[0m
+[92m[08:41:09]: ok[0m
+[94m[08:41:09]: Inventory[0m
+[92m[08:41:09]: 14, 0, 0, 0, 0, 0, 0[0m
+[94m[08:41:09]: Inventory[0m
+[92m[08:41:09]: 14, 0, 0, 0, 0, 0, 0[0m
+[93m[08:41:09]: Food level is below normal, searching some meat...[0m
+[94m[08:41:09]: Look[0m
+[92m[08:41:09]: Cell 0: player[0m
+[92m[08:41:09]: Cell 1: food, linemate[0m
+[92m[08:41:09]: Cell 2: food, food, food[0m
+[92m[08:41:09]: Cell 3: food[0m
+[93m[08:41:09]: Found some food on cell 2[0m
+Forward
+[94m[08:41:09]: Forward[0m
+[92m[08:41:09]: ok[0m
+[94m[08:41:09]: Inventory[0m
+[92m[08:41:09]: 14, 0, 0, 0, 0, 0, 0[0m
+[93m[08:41:09]: Food level is below normal, searching some meat...[0m
+[94m[08:41:09]: Look[0m
+[92m[08:41:09]: Cell 0: player, food, food, food[0m
+[92m[08:41:09]: Cell 1: food[0m
+[92m[08:41:09]: Cell 2: food, deraumere, phiras[0m
+[92m[08:41:09]: Cell 3: food, sibur, mendiane[0m
+[94m[08:41:09]: Take food[0m
+[92m[08:41:10]: ok[0m
+[94m[08:41:10]: Inventory[0m
+[92m[08:41:10]: 15, 0, 0, 0, 0, 0, 0[0m
+[94m[08:41:10]: Inventory[0m
+[92m[08:41:10]: 15, 0, 0, 0, 0, 0, 0[0m
+[93m[08:41:10]: Food level is below normal, searching some meat...[0m
+[94m[08:41:10]: Look[0m
+[92m[08:41:10]: Cell 0: player, food, food[0m
+[92m[08:41:10]: Cell 1: player, food, food[0m
+[92m[08:41:10]: Cell 2: food, food, food, deraumere, phiras[0m
+[92m[08:41:10]: Cell 3: food, food, sibur, mendiane[0m
+[94m[08:41:10]: Take food[0m
+[92m[08:41:10]: ok[0m
+[94m[08:41:10]: Inventory[0m
+[92m[08:41:10]: 16, 0, 0, 0, 0, 0, 0[0m
+[94m[08:41:10]: Inventory[0m
+[92m[08:41:10]: 16, 0, 0, 0, 0, 0, 0[0m
+[93m[08:41:10]: Food level is below normal, searching some meat...[0m
+[94m[08:41:10]: Look[0m
+[92m[08:41:10]: Cell 0: player, food[0m
+[92m[08:41:10]: Cell 1: player, food[0m
+[92m[08:41:10]: Cell 2: food, food, food, deraumere, phiras[0m
+[92m[08:41:10]: Cell 3: food, food, sibur, mendiane[0m
+[94m[08:41:10]: Take food[0m
+[92m[08:41:10]: ok[0m
+[94m[08:41:10]: Inventory[0m
+[92m[08:41:10]: 17, 0, 0, 0, 0, 0, 0[0m
+[94m[08:41:10]: Inventory[0m
+[92m[08:41:10]: 17, 0, 0, 0, 0, 0, 0[0m
+[93m[08:41:10]: Food level is below normal, searching some meat...[0m
+[94m[08:41:10]: Look[0m
+[92m[08:41:10]: Cell 0: player, food[0m
+[92m[08:41:10]: Cell 1: player[0m
+[92m[08:41:10]: Cell 2: food, food, food, deraumere, phiras[0m
+[92m[08:41:10]: Cell 3: food, food, sibur, mendiane[0m
+[94m[08:41:10]: Take food[0m
+[92m[08:41:10]: ok[0m
+[94m[08:41:10]: Inventory[0m
+[92m[08:41:10]: 18, 0, 0, 0, 0, 0, 0[0m
+[94m[08:41:10]: Inventory[0m
+[92m[08:41:10]: 18, 0, 0, 0, 0, 0, 0[0m
+[93m[08:41:10]: Food level is below normal, searching some meat...[0m
+[94m[08:41:10]: Look[0m
+[92m[08:41:10]: Cell 0: player[0m
+[92m[08:41:10]: Cell 1: [0m
+[92m[08:41:10]: Cell 2: food, food, food, deraumere, phiras[0m
+[92m[08:41:10]: Cell 3: food, food, sibur, mendiane[0m
+[93m[08:41:10]: Found some food on cell 2[0m
+Forward
+[94m[08:41:10]: Forward[0m
+[92m[08:41:10]: ok[0m
+[94m[08:41:10]: Inventory[0m
+[92m[08:41:10]: 18, 0, 0, 0, 0, 0, 0[0m
+[93m[08:41:10]: Food level is below normal, searching some meat...[0m
+[94m[08:41:10]: Look[0m
+[92m[08:41:10]: Cell 0: player, food, food, food, deraumere, phiras[0m
+[92m[08:41:10]: Cell 1: player, food, sibur, sibur[0m
+[92m[08:41:10]: Cell 2: food, food, food[0m
+[92m[08:41:10]: Cell 3: food, food, linemate, phiras[0m
+[94m[08:41:10]: Take food[0m
+[92m[08:41:10]: ok[0m
+[94m[08:41:10]: Inventory[0m
+[92m[08:41:10]: 18, 0, 0, 0, 0, 0, 0[0m
+[94m[08:41:10]: Inventory[0m
+[92m[08:41:10]: 18, 0, 0, 0, 0, 0, 0[0m
+[93m[08:41:10]: Food level is below normal, searching some meat...[0m
+[94m[08:41:10]: Look[0m
+[92m[08:41:10]: Cell 0: player, food, food, deraumere, phiras[0m
+[92m[08:41:09]: Cell 6: food, food, mendiane[0m
+[92m[08:41:09]: Cell 7: food[0m
+[92m[08:41:09]: Cell 8: food, food, linemate, deraumere[0m
+2 1 1
+[94m[08:41:09]: Inventory[0m
+[92m[08:41:09]: 27, 1, 1, 1, 0, 0, 0[0m
+[93m[08:41:09]: It's time to level up Bobby![0m
+[94m[08:41:09]: Look[0m
+[92m[08:41:09]: Cell 0: player[0m
+[92m[08:41:09]: Cell 1: food, sibur, mendiane[0m
+[92m[08:41:09]: Cell 2: food, food, linemate, deraumere[0m
+[92m[08:41:09]: Cell 3: food, deraumere, sibur, sibur, phiras[0m
+[92m[08:41:09]: Cell 4: food, food[0m
+[92m[08:41:09]: Cell 5: food, food, linemate, phiras[0m
+[92m[08:41:09]: Cell 6: food, food, mendiane[0m
+[92m[08:41:09]: Cell 7: food[0m
+[92m[08:41:09]: Cell 8: food, food, linemate, deraumere[0m
+2 1 1
+[94m[08:41:09]: Inventory[0m
+[92m[08:41:09]: 26, 1, 1, 1, 0, 0, 0[0m
+[93m[08:41:09]: It's time to level up Bobby![0m
+[94m[08:41:09]: Look[0m
+[92m[08:41:09]: Cell 0: player[0m
+[92m[08:41:09]: Cell 1: food, sibur, mendiane[0m
+[92m[08:41:09]: Cell 2: food, food, linemate, deraumere[0m
+[92m[08:41:09]: Cell 3: food, deraumere, sibur, sibur, phiras[0m
+[92m[08:41:09]: Cell 4: food, food[0m
+[92m[08:41:09]: Cell 5: food, food, linemate, phiras[0m
+[92m[08:41:09]: Cell 6: food, food, mendiane[0m
+[92m[08:41:09]: Cell 7: food[0m
+[92m[08:41:09]: Cell 8: food, food, linemate, deraumere[0m
+2 1 1
+[94m[08:41:09]: Inventory[0m
+[92m[08:41:09]: 26, 1, 1, 1, 0, 0, 0[0m
+[93m[08:41:09]: It's time to level up Bobby![0m
+[94m[08:41:09]: Look[0m
+[92m[08:41:09]: Cell 0: player[0m
+[92m[08:41:09]: Cell 1: food, sibur, mendiane[0m
+[92m[08:41:09]: Cell 2: food, food, linemate, deraumere[0m
+[92m[08:41:09]: Cell 3: food, deraumere, sibur, sibur, phiras[0m
+[92m[08:41:09]: Cell 4: food, food[0m
+[92m[08:41:09]: Cell 5: food, food, linemate, phiras[0m
+[92m[08:41:09]: Cell 6: food, food, mendiane[0m
+[92m[08:41:09]: Cell 7: food[0m
+[92m[08:41:09]: Cell 8: food, food, linemate, deraumere[0m
+2 1 1
+[94m[08:41:09]: Inventory[0m
+[92m[08:41:09]: 26, 1, 1, 1, 0, 0, 0[0m
+[93m[08:41:09]: It's time to level up Bobby![0m
+[94m[08:41:09]: Look[0m
+[92m[08:41:09]: Cell 0: player[0m
+[92m[08:41:09]: Cell 1: food, sibur, mendiane[0m
+[92m[08:41:09]: Cell 2: food, food, linemate, deraumere[0m
+[92m[08:41:09]: Cell 3: food, deraumere, sibur, sibur, phiras[0m
+[92m[08:41:09]: Cell 4: food, food[0m
+[92m[08:41:09]: Cell 5: food, food, linemate, phiras[0m
+[92m[08:41:09]: Cell 6: food, food, mendiane[0m
+[92m[08:41:09]: Cell 7: food[0m
+[92m[08:41:09]: Cell 8: food, food, linemate, deraumere[0m
+2 1 1
+[94m[08:41:09]: Inventory[0m
+[92m[08:41:09]: 26, 1, 1, 1, 0, 0, 0[0m
+[93m[08:41:09]: It's time to level up Bobby![0m
+[94m[08:41:09]: Look[0m
+[92m[08:41:09]: Cell 0: player[0m
+[92m[08:41:09]: Cell 1: food, sibur, mendiane[0m
+[92m[08:41:09]: Cell 2: food, food, linemate, deraumere[0m
+[92m[08:41:09]: Cell 3: food, deraumere, sibur, sibur, phiras[0m
+[92m[08:41:09]: Cell 4: food, food[0m
+[92m[08:41:09]: Cell 5: food, food, linemate, phiras[0m
+[92m[08:41:09]: Cell 6: food, food, mendiane[0m
+[92m[08:41:09]: Cell 7: food[0m
+[92m[08:41:09]: Cell 8: food, food, linemate, deraumere[0m
+2 1 1
+[94m[08:41:09]: Inventory[0m
+[92m[08:41:09]: 26, 1, 1, 1, 0, 0, 0[0m
+[93m[08:41:09]: It's time to level up Bobby![0m
+[94m[08:41:09]: Look[0m
+[92m[08:41:09]: Cell 0: player[0m
+[92m[08:41:09]: Cell 1: food, sibur, mendiane[0m
+[92m[08:41:09]: Cell 2: food, food, linemate, deraumere[0m
+[92m[08:41:09]: Cell 3: food, deraumere, sibur, sibur, phiras[0m
+[92m[08:41:09]: Cell 4: food, food[0m
+[92m[08:41:09]: Cell 5: food, food, linemate, phiras[0m
+[92m[08:41:09]: Cell 6: food, food, mendiane[0m
+[92m[08:41:09]: Cell 7: food[0m
+[92m[08:41:09]: Cell 8: food, food, linemate, deraumere[0m
+2 1 1
+[93m[08:41:09]: Lem smash Bobby![0m
+[94m[08:41:09]: Fork[0m
+[92m[08:41:10]: ok[0m
+[94m[08:41:10]: Inventory[0m
+[92m[08:41:10]: 26, 1, 1, 1, 0, 0, 0[0m
+[93m[08:41:10]: It's time to level up Bobby![0m
+[94m[08:41:10]: Look[0m
+[92m[08:41:10]: Cell 0: player, food, food, food[0m
+[92m[08:41:10]: Cell 1: food, food, sibur, mendiane[0m
+[92m[08:41:10]: Cell 2: food, food, linemate, deraumere[0m
+[92m[08:41:10]: Cell 3: food, food, deraumere, sibur, sibur, phiras[0m
+[92m[08:41:10]: Cell 4: food, food, food[0m
+[92m[08:41:10]: Cell 5: food, food, linemate, phiras[0m
+[92m[08:41:10]: Cell 6: food, food, food, mendiane[0m
+[92m[08:41:10]: Cell 7: food[0m
+[92m[08:41:10]: Cell 8: food, food, linemate, deraumere[0m
+2 1 1
+[94m[08:41:10]: Inventory[0m
+[92m[08:41:10]: 26, 1, 1, 1, 0, 0, 0[0m
+[93m[08:41:10]: It's time to level up Bobby![0m
+[94m[08:41:10]: Look[0m
+[92m[08:41:10]: Cell 0: player, food, food, food[0m
+[92m[08:41:10]: Cell 1: food, food, sibur, mendiane[0m
+[92m[08:41:10]: Cell 2: food, food, linemate, deraumere[0m
+[92m[08:41:10]: Cell 3: food, food, deraumere, sibur, sibur, phiras[0m
+[92m[08:41:10]: Cell 4: food, food, food[0m
+[92m[08:41:10]: Cell 5: food, food, linemate, phiras[0m
+[92m[08:41:10]: Cell 6: food, food, food, mendiane[0m
+[92m[08:41:10]: Cell 7: food[0m
+[92m[08:41:10]: Cell 8: food, food, linemate, deraumere[0m
+2 1 1
+[94m[08:41:10]: Inventory[0m
+[92m[08:41:10]: 26, 1, 1, 1, 0, 0, 0[0m
+[93m[08:41:10]: It's time to level up Bobby![0m
+[94m[08:41:10]: Look[0m
+[92m[08:41:10]: Cell 0: player, food, food, food[0m
+[92m[08:41:10]: Cell 1: food, food, sibur, mendiane[0m
+[92m[08:41:10]: Cell 2: food, food, food, linemate, deraumere[0m
+[92m[08:41:10]: Cell 3: food, food, deraumere, sibur, sibur, phiras[0m
+[92m[08:41:10]: Cell 4: food, food, food[0m
+[92m[08:41:10]: Cell 5: food, food, linemate, phiras[0m
+[92m[08:41:10]: Cell 6: food, food, food, mendiane[0m
+[92m[08:41:10]: Cell 7: food[0m
+[92m[08:41:10]: Cell 8: food, food, linemate, deraumere[0m
+2 1 1
+[94m[08:41:10]: Inventory[0m
+[92m[08:41:10]: 26, 1, 1, 1, 0, 0, 0[0m
+[93m[08:41:10]: It's time to level up Bobby![0m
+[94m[08:41:10]: Look[0m
+[92m[08:41:10]: Cell 0: player, food, food, food[0m
+[92m[08:41:10]: Cell 1: food, food, sibur, mendiane[0m
+[92m[08:41:10]: Cell 2: food, food, food, linemate, deraumere[0m
+[92m[08:41:10]: Cell 3: food, food, deraumere, sibur, sibur, phiras[0m
+[92m[08:41:10]: Cell 4: food, food, food[0m
+[92m[08:41:10]: Cell 5: food, food, linemate, phiras[0m
+[92m[08:41:10]: Cell 6: food, food, food, mendiane[0m
+[92m[08:41:10]: Cell 7: food[0m
+[92m[08:41:10]: Cell 8: food, food, linemate, deraumere[0m
+2 1 1
+[94m[08:41:10]: Inventory[0m
+[92m[08:41:10]: 26, 1, 1, 1, 0, 0, 0[0m
+[93m[08:41:10]: It's time to level up Bobby![0m
+[94m[08:41:10]: Look[0m
+[92m[08:41:10]: Cell 0: player, food, food, food[0m
+[92m[08:41:10]: Cell 1: food, food, sibur, mendiane[0m
+[92m[08:41:10]: Cell 2: food, food, food, linemate, deraumere[0m
+[92m[08:41:10]: Cell 3: food, food, deraumere, sibur, sibur, phiras[0m
+[92m[08:41:10]: Cell 4: food, food, food[0m
+[92m[08:41:10]: Cell 5: food, food, linemate, phiras[0m
+[92m[08:41:10]: Cell 6: food, food, food, mendiane[0m
+[92m[08:41:10]: Cell 7: food[0m
+[92m[08:41:10]: Cell 8: food, food, linemate, deraumere[0m
+2 1 1
+[94m[08:41:10]: Inventory[0m
+[92m[08:41:10]: 25, 1, 1, 1, 0, 0, 0[0m
+[93m[08:41:10]: It's time to level up Bobby![0m
+[94m[08:41:10]: Look[0m
+[92m[08:41:10]: Cell 0: player, food, food, food[0m
+[92m[08:41:10]: Cell 1: food, food, sibur, mendiane[0m
+[92m[08:41:10]: Cell 2: food, food, food, linemate, deraumere[0m
+[92m[08:41:10]: Cell 3: food, food, food, deraumere, sibur, sibur, phiras[0m
+[92m[08:41:10]: Cell 4: food, food, food[0m
+[92m[08:41:10]: Cell 5: food, food, linemate, phiras[0m
+[92m[08:41:10]: Cell 6: food, food, food, mendiane[0m
+[92m[08:41:10]: Cell 7: food[0m
+[92m[08:41:10]: Cell 8: food, food, linemate, deraumere[0m
+2 1 1
+[94m[08:41:10]: Inventory[0m
+[92m[08:41:10]: 25, 1, 1, 1, 0, 0, 0[0m
+[93m[08:41:10]: It's time to level up Bobby![0m
+[94m[08:41:10]: Look[0m
+[92m[08:41:10]: Cell 0: player, food, food, food[0m
+[92m[08:41:10]: Cell 1: food, food, sibur, mendiane[0m
+[92m[08:41:10]: Cell 2: food, food, food, linemate, deraumere[0m
+[92m[08:41:10]: Cell 3: food, food, food, deraumere, sibur, sibur, phiras[0m
+[92m[08:41:10]: Cell 4: food, food, food[0m
+[92m[08:41:10]: Cell 5: food, food, linemate, phiras[0m
+[92m[08:41:10]: Cell 6: food, food, food, mendiane[0m
+[92m[08:41:10]: Cell 7: food[0m
+[92m[08:41:10]: Cell 8: food, food, linemate, deraumere[0m
+2 1 1
+[94m[08:41:10]: Inventory[0m
+[92m[08:41:10]: 25, 1, 1, 1, 0, 0, 0[0m
+[93m[08:41:10]: It's time to level up Bobby![0m
+[94m[08:41:10]: Look[0m
+[92m[08:41:10]: Cell 0: player, food, food, food[0m
+[92m[08:41:10]: Cell 1: food, food, sibur, mendiane[0m
+[92m[08:41:10]: Cell 2: food, food, food, linemate, deraumere[0m
+[92m[08:41:10]: Cell 3: food, food, food, deraumere, sibur, sibur, phiras[0m
+[92m[08:41:10]: Cell 4: food, food, food[0m
+[92m[08:41:10]: Cell 5: food, food, linemate, phiras[0m
+[92m[08:41:10]: Cell 6: food, food, food, mendiane[0m
+[92m[08:41:10]: Cell 7: food[0m
+[92m[08:41:10]: Cell 8: food, food, linemate, deraumere[0m
+2 1 1
+[94m[08:41:10]: Inventory[0m
+[92m[08:41:10]: 25, 1, 1, 1, 0, 0, 0[0m
+[93m[08:41:10]: It's time to level up Bobby![0m
+[94m[08:41:10]: Look[0m
+[92m[08:41:11]: Cell 0: player, food, food, food[0m
+[92m[08:41:11]: Cell 1: food, food, sibur, mendiane[0m
+[92m[08:41:11]: Cell 2: food, food, food, linemate, deraumere[0m
+[92m[08:41:11]: Cell 3: food, food, food, deraumere, sibur, sibur, phiras[0m
+[92m[08:41:11]: Cell 4: food, food, food[0m
+[92m[08:41:11]: Cell 5: food, food, linemate, phiras[0m
+[92m[08:41:11]: Cell 6: food, food, food, mendiane[0m
+[92m[08:41:11]: Cell 7: food[0m
+[92m[08:41:11]: Cell 8: food, food, linemate, deraumere[0m
+2 1 1
+[94m[08:41:11]: Inventory[0m
+[92m[08:41:11]: 25, 1, 1, 1, 0, 0, 0[0m
+[93m[08:41:11]: It's time to level up Bobby![0m
+[94m[08:41:11]: Look[0m
+[92m[08:41:11]: Cell 0: player, food, food, food[0m
+[92m[08:41:11]: Cell 1: food, food, sibur, mendiane[0m
+[92m[08:41:11]: Cell 2: food, food, food, linemate, deraumere[0m
+[92m[08:41:11]: Cell 3: food, food, food, deraumere, sibur, sibur, phiras[0m
+[92m[08:41:11]: Cell 4: food, food, food[0m
+[92m[08:41:11]: Cell 5: food, food, linemate, phiras[0m
+[92m[08:41:11]: Cell 6: food, food, food, mendiane[0m
+[92m[08:41:11]: Cell 7: food[0m
+[92m[08:41:11]: Cell 8: food, food, linemate, deraumere[0m
+2 1 1
+[94m[08:41:11]: Inventory[0m
+[92m[08:41:11]: 25, 1, 1, 1, 0, 0, 0[0m
+[93m[08:41:11]: It's time to level up Bobby![0m
+[94m[08:41:11]: Look[0m
+[92m[08:41:11]: Cell 0: player, food, food, food[0m
+[92m[08:41:11]: Cell 1: food, food, sibur, mendiane[0m
+[92m[08:41:11]: Cell 2: food, food, food, linemate, deraumere[0m
+[92m[08:41:11]: Cell 3: food, food, food, deraumere, sibur, sibur, phiras[0m
+[92m[08:41:11]: Cell 4: food, food, food[0m
+[92m[08:41:11]: Cell 5: food, food, linemate, phiras[0m
+[92m[08:41:11]: Cell 6: food, food, food, mendiane[0m
+[92m[08:41:11]: Cell 7: food[0m
+[92m[08:41:11]: Cell 8: food, food, linemate, deraumere[0m
+2 1 1
+[94m[08:41:11]: Inventory[0m
+[92m[08:41:11]: 25, 1, 1, 1, 0, 0, 0[0m
+[93m[08:41:11]: It's time to level up Bobby![0m
+[94m[08:41:11]: Look[0m
+[92m[08:41:11]: Cell 0: player, food, food, food[0m
+[92m[08:41:11]: Cell 1: food, food, sibur, mendiane[0m
+[92m[08:41:11]: Cell 2: food, food, food, linemate, deraumere[0m
+[92m[08:41:11]: Cell 3: food, food, food, deraumere, sibur, sibur, phiras[0m
+[92m[08:41:11]: Cell 4: player, food, food, food[0m
+[92m[08:41:11]: Cell 5: food, food, linemate, phiras[0m
+[92m[08:41:11]: Cell 6: food, food, food, mendiane[0m
+[92m[08:41:11]: Cell 7: food[0m
+[92m[08:41:11]: Cell 8: food, food, linemate, deraumere[0m
+2 1 1
+[94m[08:41:11]: Inventory[0m
+[92m[08:41:11]: 25, 1, 1, 1, 0, 0, 0[0m
+[93m[08:41:11]: It's time to level up Bobby![0m
+[94m[08:41:11]: Look[0m
+[92m[08:41:11]: Cell 0: player, food, food, food[0m
+[92m[08:41:11]: Cell 1: food, food, sibur, mendiane[0m
+[92m[08:41:11]: Cell 2: food, food, food, linemate, deraumere[0m
+[92m[08:41:11]: Cell 3: food, food, food, deraumere, sibur, sibur, phiras[0m
+[92m[08:41:11]: Cell 4: player, food, food, food[0m
+[92m[08:41:11]: Cell 5: food, food, linemate, phiras[0m
+[92m[08:41:11]: Cell 6: food, food, food, mendiane[0m
+[92m[08:41:11]: Cell 7: food[0m
+[92m[08:41:11]: Cell 8: food, food, linemate, deraumere[0m
+2 1 1
+[94m[08:41:11]: Inventory[0m
+[92m[08:41:11]: 25, 1, 1, 1, 0, 0, 0[0m
+[93m[08:41:11]: It's time to level up Bobby![0m
+[94m[08:41:11]: Look[0m
+[92m[08:41:11]: Cell 0: player, food, food, food[0m
+[92m[08:41:11]: Cell 1: food, food, sibur, mendiane[0m
+[92m[08:41:11]: Cell 2: food, food, food, linemate, deraumere[0m
+[92m[08:41:11]: Cell 3: food, food, food, deraumere, sibur, sibur, phiras[0m
+[92m[08:41:11]: Cell 4: player, food, food[0m
+[92m[08:41:11]: Cell 5: food, food, linemate, phiras[0m
+[92m[08:41:11]: Cell 6: food, food, food, mendiane[0m
+[92m[08:41:11]: Cell 7: food[0m
+[92m[08:41:11]: Cell 8: food, food, linemate, deraumere[0m
+2 1 1
+[94m[08:41:11]: Inventory[0m
+[92m[08:41:11]: 25, 1, 1, 1, 0, 0, 0[0m
+[93m[08:41:11]: It's time to level up Bobby![0m
+[94m[08:41:11]: Look[0m
+[92m[08:41:11]: Cell 0: player, food, food, food[0m
+[92m[08:41:11]: Cell 1: food, food, sibur, mendiane[0m
+[92m[08:41:11]: Cell 2: food, food, food, linemate, deraumere[0m
+[92m[08:41:11]: Cell 3: food, food, food, deraumere, sibur, sibur, phiras[0m
+[92m[08:41:11]: Cell 4: player, food, food[0m
+[92m[08:41:11]: Cell 5: food, food, linemate, phiras[0m
+[92m[08:41:11]: Cell 6: food, food, food, mendiane[0m
+[92m[08:41:11]: Cell 7: food[0m
+[92m[08:41:11]: Cell 8: food, food, linemate, deraumere[0m
+2 1 1
+[94m[08:41:11]: Inventory[0m
+[92m[08:41:11]: 25, 1, 1, 1, 0, 0, 0[0m
+[93m[08:41:11]: It's time to level up Bobby![0m
+[94m[08:41:11]: Look[0m
+[92m[08:41:11]: Cell 0: player, food, food, food[0m
+[92m[08:41:11]: Cell 1: food, food, sibur, mendiane[0m
+[92m[08:41:11]: Cell 2: food, food, food, linemate, deraumere[0m
+[92m[08:41:11]: Cell 3: food, food, food, deraumere, sibur, sibur, phiras[0m
+[92m[08:41:11]: Cell 4: player, food[0m
+[92m[08:41:11]: Cell 5: food, food, linemate, phiras[0m
+[92m[08:41:11]: Cell 6: food, food, food, mendiane[0m
+[92m[08:41:11]: Cell 7: food[0m
+[92m[08:41:11]: Cell 8: food, food, linemate, deraumere[0m
+2 1 1
+[93m[08:41:11]: Lem smash Bobby![0m
+[94m[08:41:11]: Fork[0m
+[92m[08:41:12]: ok[0m
+[94m[08:41:12]: Inventory[0m
+[92m[08:41:12]: 24, 1, 1, 1, 0, 0, 0[0m
+[93m[08:41:12]: It's time to level up Bobby![0m
+[94m[08:41:12]: Look[0m
+[92m[08:41:12]: Cell 0: player, food, food, food[0m
+[92m[08:41:12]: Cell 1: food, food, sibur, mendiane[0m
+[92m[08:41:12]: Cell 2: food, food, food, linemate, deraumere[0m
+[92m[08:41:12]: Cell 3: food, food, food, deraumere, sibur, sibur, phiras[0m
+[92m[08:41:12]: Cell 4: [0m
+[92m[08:41:12]: Cell 5: food, food, linemate, phiras[0m
+[92m[08:41:12]: Cell 6: food, food, food, mendiane[0m
+[92m[08:41:12]: Cell 7: food[0m
+[92m[08:41:12]: Cell 8: food, food, linemate, deraumere[0m
+2 1 1
+[94m[08:41:12]: Inventory[0m
+[92m[08:41:12]: 24, 1, 1, 1, 0, 0, 0[0m
+[93m[08:41:12]: It's time to level up Bobby![0m
+[94m[08:41:12]: Look[0m
+[92m[08:41:12]: Cell 0: player, food, food, food[0m
+[92m[08:41:12]: Cell 1: food, food, sibur, mendiane[0m
+[92m[08:41:12]: Cell 2: food, food, food, linemate, deraumere[0m
+[92m[08:41:12]: Cell 3: food, food, food, deraumere, sibur, sibur, phiras[0m
+[92m[08:41:12]: Cell 4: [0m
+[92m[08:41:12]: Cell 5: food, food, linemate, phiras[0m
+[92m[08:41:12]: Cell 6: food, food, food, mendiane[0m
+[92m[08:41:12]: Cell 7: food[0m
+[92m[08:41:12]: Cell 8: food, food, linemate, deraumere[0m
+2 1 1
+[94m[08:41:12]: Inventory[0m
+[92m[08:41:12]: 24, 1, 1, 1, 0, 0, 0[0m
+[93m[08:41:12]: It's time to level up Bobby![0m
+[94m[08:41:12]: Look[0m
+[92m[08:41:12]: Cell 0: player, food, food, food[0m
+[92m[08:41:12]: Cell 1: food, food, sibur, mendiane[0m
+[92m[08:41:12]: Cell 2: food, food, food, linemate, deraumere[0m
+[92m[08:41:12]: Cell 3: food, food, food, deraumere, sibur, sibur, phiras[0m
+[92m[08:41:12]: Cell 4: [0m
+[92m[08:41:12]: Cell 5: food, food, linemate, phiras[0m[94m[08:41:09]: Associating localhost to 127.0.0.1[0m
+[94m[08:41:09]: Connected to 127.0.0.1:4242 [localhost][0m
+[95m[08:41:09]: WELCOME[0m
+[93m[08:41:09]: Retrieving player infos...[0m
+[93m[08:41:09]: Player team: jean-sebastien.herbaux@epitech.eu[0m
+[94m[08:41:09]: Inventory[0m
+[92m[08:41:10]: 9, 0, 0, 0, 0, 0, 0[0m
+[93m[08:41:10]: Food level is below normal, searching some meat...[0m
+[94m[08:41:10]: Look[0m
+[92m[08:41:10]: Cell 0: player, food, food[0m
+[92m[08:41:10]: Cell 1: deraumere, mendiane[0m
+[92m[08:41:10]: Cell 2: food, food, sibur, sibur[0m
+[92m[08:41:10]: Cell 3: food, food, food[0m
+[94m[08:41:10]: Take food[0m
+[92m[08:41:10]: ok[0m
+[94m[08:41:10]: Inventory[0m
+[92m[08:41:10]: 10, 0, 0, 0, 0, 0, 0[0m
+[94m[08:41:10]: Inventory[0m
+[92m[08:41:10]: 10, 0, 0, 0, 0, 0, 0[0m
+[93m[08:41:10]: Food level is below normal, searching some meat...[0m
+[94m[08:41:10]: Look[0m
+[92m[08:41:10]: Cell 0: player, food[0m
+[92m[08:41:10]: Cell 1: deraumere, mendiane[0m
+[92m[08:41:10]: Cell 2: food, food, sibur, sibur[0m
+[92m[08:41:10]: Cell 3: food, food, food[0m
+[94m[08:41:10]: Take food[0m
+[92m[08:41:10]: ok[0m
+[94m[08:41:10]: Inventory[0m
+[92m[08:41:10]: 11, 0, 0, 0, 0, 0, 0[0m
+[94m[08:41:10]: Inventory[0m
+[92m[08:41:10]: 11, 0, 0, 0, 0, 0, 0[0m
+[93m[08:41:10]: Food level is below normal, searching some meat...[0m
+[94m[08:41:10]: Look[0m
+[92m[08:41:10]: Cell 0: player[0m
+[92m[08:41:10]: Cell 1: deraumere, mendiane[0m
+[92m[08:41:10]: Cell 2: food, food, sibur, sibur[0m
+[92m[08:41:10]: Cell 3: food, food, food[0m
+[93m[08:41:10]: Found some food on cell 2[0m
+Forward
+[94m[08:41:10]: Forward[0m
+[92m[08:41:10]: ok[0m
+[94m[08:41:10]: Inventory[0m
+[92m[08:41:10]: 11, 0, 0, 0, 0, 0, 0[0m
+[93m[08:41:10]: Food level is below normal, searching some meat...[0m
+[94m[08:41:10]: Look[0m
+[92m[08:41:10]: Cell 0: player, food, food, sibur, sibur[0m
+[92m[08:41:10]: Cell 1: food, food, linemate, phiras[0m
+[92m[08:41:10]: Cell 2: food, food[0m
+[92m[08:41:10]: Cell 3: food, mendiane[0m
+[94m[08:41:10]: Take food[0m
+[92m[08:41:10]: ok[0m
+[94m[08:41:10]: Inventory[0m
+[92m[08:41:10]: 12, 0, 0, 0, 0, 0, 0[0m
+[94m[08:41:10]: Inventory[0m
+[92m[08:41:10]: 12, 0, 0, 0, 0, 0, 0[0m
+[93m[08:41:10]: Food level is below normal, searching some meat...[0m
+[94m[08:41:10]: Look[0m
+[92m[08:41:10]: Cell 0: player, food, sibur, sibur[0m
+[92m[08:41:10]: Cell 1: food, food, linemate, phiras[0m
+[92m[08:41:10]: Cell 2: food, food[0m
+[92m[08:41:10]: Cell 3: food, mendiane[0m
+[94m[08:41:10]: Take food[0m
+[92m[08:41:10]: ok[0m
+[94m[08:41:10]: Inventory[0m
+[92m[08:41:10]: 13, 0, 0, 0, 0, 0, 0[0m
+[94m[08:41:10]: Inventory[0m
+[92m[08:41:10]: 13, 0, 0, 0, 0, 0, 0[0m
+[93m[08:41:10]: Food level is below normal, searching some meat...[0m
+[94m[08:41:10]: Look[0m
+[92m[08:41:10]: Cell 0: player, sibur, sibur[0m
+[92m[08:41:10]: Cell 1: food, food, linemate, phiras[0m
+[92m[08:41:10]: Cell 2: food, food[0m
+[92m[08:41:10]: Cell 3: food, mendiane[0m
+[93m[08:41:10]: Found some food on cell 2[0m
+Forward
+[94m[08:41:10]: Forward[0m
+[92m[08:41:10]: ok[0m
+[94m[08:41:10]: Inventory[0m
+[92m[08:41:10]: 13, 0, 0, 0, 0, 0, 0[0m
+[93m[08:41:10]: Food level is below normal, searching some meat...[0m
+[94m[08:41:10]: Look[0m
+[92m[08:41:11]: Cell 0: player, food, food[0m
+[92m[08:41:11]: Cell 1: mendiane[0m
+[92m[08:41:11]: Cell 2: linemate, linemate, sibur[0m
+[92m[08:41:11]: Cell 3: mendiane[0m
+[94m[08:41:11]: Take food[0m
+[92m[08:41:11]: ok[0m
+[94m[08:41:11]: Inventory[0m
+[92m[08:41:11]: 14, 0, 0, 0, 0, 0, 0[0m
+[94m[08:41:11]: Inventory[0m
+[92m[08:41:11]: 14, 0, 0, 0, 0, 0, 0[0m
+[93m[08:41:11]: Food level is below normal, searching some meat...[0m
+[94m[08:41:11]: Look[0m
+[92m[08:41:11]: Cell 0: player, food[0m
+[92m[08:41:11]: Cell 1: mendiane[0m
+[92m[08:41:11]: Cell 2: linemate, linemate, sibur[0m
+[92m[08:41:11]: Cell 3: mendiane[0m
+[94m[08:41:11]: Take food[0m
+[92m[08:41:11]: ok[0m
+[94m[08:41:11]: Inventory[0m
+[92m[08:41:11]: 14, 0, 0, 0, 0, 0, 0[0m
+[94m[08:41:11]: Inventory[0m
+[92m[08:41:11]: 14, 0, 0, 0, 0, 0, 0[0m
+[93m[08:41:11]: Food level is below normal, searching some meat...[0m
+[94m[08:41:11]: Look[0m
+[92m[08:41:11]: Cell 0: player[0m
+[92m[08:41:11]: Cell 1: mendiane[0m
+[92m[08:41:11]: Cell 2: linemate, linemate, sibur[0m
+[92m[08:41:11]: Cell 3: mendiane[0m
+None
+[93m[08:41:11]: Can't find food here, going to a random position[0m
+[94m[08:41:11]: Left[0m
+[92m[08:41:11]: ok[0m
+[94m[08:41:11]: Inventory[0m
+[92m[08:41:11]: 14, 0, 0, 0, 0, 0, 0[0m
+[93m[08:41:11]: Food level is below normal, searching some meat...[0m
+[94m[08:41:11]: Look[0m
+[92m[08:41:11]: Cell 0: player[0m
+[92m[08:41:11]: Cell 1: food, deraumere, mendiane[0m
+[92m[08:41:11]: Cell 2: food, food, linemate, phiras[0m
+[92m[08:41:11]: Cell 3: mendiane[0m
+[93m[08:41:11]: Found some food on cell 2[0m
+Forward
+[94m[08:41:11]: Forward[0m
+[92m[08:41:11]: ok[0m
+[94m[08:41:11]: Inventory[0m
+[92m[08:41:11]: 14, 0, 0, 0, 0, 0, 0[0m
+[93m[08:41:11]: Food level is below normal, searching some meat...[0m
+[94m[08:41:11]: Look[0m
+[92m[08:41:11]: Cell 0: player, food, food, food, linemate, phiras[0m
+[92m[08:41:11]: Cell 1: food, deraumere[0m
+[92m[08:41:11]: Cell 2: food[0m
+[92m[08:41:11]: Cell 3: food[0m
+[94m[08:41:11]: Take food[0m
+[92m[08:41:11]: ok[0m
+[94m[08:41:11]: Inventory[0m
+[92m[08:41:11]: 15, 0, 0, 0, 0, 0, 0[0m
+[94m[08:41:11]: Inventory[0m
+[92m[08:41:11]: 15, 0, 0, 0, 0, 0, 0[0m
+[93m[08:41:11]: Food level is below normal, searching some meat...[0m
+[94m[08:41:11]: Look[0m
+[92m[08:41:11]: Cell 0: player, food, food, linemate, phiras[0m
+[92m[08:41:11]: Cell 1: food, deraumere[0m
+[92m[08:41:11]: Cell 2: food[0m
+[92m[08:41:11]: Cell 3: food[0m
+[94m[08:41:11]: Take food[0m
+[92m[08:41:11]: ok[0m
+[94m[08:41:11]: Inventory[0m
+[92m[08:41:11]: 16, 0, 0, 0, 0, 0, 0[0m
+[94m[08:41:11]: Inventory[0m
+[92m[08:41:11]: 16, 0, 0, 0, 0, 0, 0[0m
+[93m[08:41:11]: Food level is below normal, searching some meat...[0m
+[94m[08:41:11]: Look[0m
+[92m[08:41:11]: Cell 0: player, food, linemate, phiras[0m
+[92m[08:41:11]: Cell 1: food, deraumere[0m
+[92m[08:41:11]: Cell 2: food[0m
+[92m[08:41:11]: Cell 3: food[0m
+[94m[08:41:11]: Take food[0m
+[92m[08:41:12]: ok[0m
+[94m[08:41:12]: Inventory[0m
+[92m[08:41:12]: 17, 0, 0, 0, 0, 0, 0[0m
+[94m[08:41:12]: Inventory[0m
+[92m[08:41:12]: 17, 0, 0, 0, 0, 0, 0[0m
+[93m[08:41:12]: Food level is below normal, searching some meat...[0m
+[94m[08:41:12]: Look[0m
+[92m[08:41:12]: Cell 0: player, linemate, phiras[0m
+[92m[08:41:12]: Cell 1: food, deraumere[0m
+[92m[08:41:12]: Cell 2: food[0m
+[92m[08:41:12]: Cell 3: food[0m
+[93m[08:41:12]: Found some food on cell 2[0m
+Forward
+[94m[08:41:12]: Forward[0m
+[92m[08:41:12]: ok[0m
+[94m[08:41:12]: Inventory[0m
+[92m[08:41:12]: 17, 0, 0, 0, 0, 0, 0[0m
+[93m[08:41:12]: Food level is below normal, searching some meat...[0m
+[94m[08:41:12]: Look[0m
+[92m[08:41:12]: Cell 0: player, food[0m
+[92m[08:41:12]: Cell 1: food, food, linemate, mendiane, phiras[0m
+[92m[08:41:12]: Cell 2: food, food, sibur[0m
+[92m[08:41:12]: Cell 3: food, deraumere, sibur, phiras[0m
+[94m[08:41:12]: Take food[0m
+[92m[08:41:12]: ok[0m
+[94m[08:41:12]: Inventory[0m
+[92m[08:41:12]: 18, 0, 0, 0, 0, 0, 0[0m
+[94m[08:41:12]: Inventory[0m
+[92m[08:41:12]: 18, 0, 0, 0, 0, 0, 0[0m
+[93m[08:41:12]: Food level is below normal, searching some meat...[0m
+[94m[08:41:12]: Look[0m
+[92m[08:41:12]: Cell 0: player[0m
+[92m[08:41:12]: Cell 1: food, food, linemate, mendiane, phiras[0m
+[92m[08:41:12]: Cell 2: food, food, sibur[0m
+[92m[08:41:12]: Cell 3: food, deraumere, sibur, phiras[0m
+[93m[08:41:12]: Found some food on cell 2[0m
+Forward
+[94m[08:41:12]: Forward[0m
+[92m[08:41:12]: ok[0m
+[94m[08:41:12]: Inventory[0m
+[92m[08:41:12]: 17, 0, 0, 0, 0, 0, 0[0m
+[93m[08:41:12]: Food level is below normal, searching some meat...[0m
+[94m[08:41:12]: Look[0m
+[92m[08:41:12]: Cell 0: player, food, food, sibur[0m
+[92m[08:41:12]: Cell 1: food, thystame[0m
+[92m[08:41:12]: Cell 6: food, food, food, mendiane[0m
+[92m[08:41:12]: Cell 7: food[0m
+[92m[08:41:12]: Cell 8: food, food, linemate, deraumere[0m
+2 1 1
+[94m[08:41:12]: Inventory[0m
+[92m[08:41:12]: 24, 1, 1, 1, 0, 0, 0[0m
+[93m[08:41:12]: It's time to level up Bobby![0m
+[94m[08:41:12]: Look[0m
+[92m[08:41:12]: Cell 0: player, food, food, food[0m
+[92m[08:41:12]: Cell 1: food, food, sibur, mendiane[0m
+[92m[08:41:12]: Cell 2: food, food, food, linemate, deraumere[0m
+[92m[08:41:12]: Cell 3: food, food, food, deraumere, sibur, sibur, phiras[0m
+[92m[08:41:12]: Cell 4: [0m
+[92m[08:41:12]: Cell 5: food, food, linemate, phiras[0m
+[92m[08:41:12]: Cell 6: food, food, food, mendiane[0m
+[92m[08:41:12]: Cell 7: food[0m
+[92m[08:41:12]: Cell 8: food, food, linemate, deraumere[0m
+2 1 1
+[94m[08:41:12]: Inventory[0m
+[92m[08:41:12]: 24, 1, 1, 1, 0, 0, 0[0m
+[93m[08:41:12]: It's time to level up Bobby![0m
+[94m[08:41:12]: Look[0m
+[92m[08:41:12]: Cell 0: player, food, food, food[0m
+[92m[08:41:12]: Cell 1: food, food, sibur, mendiane[0m
+[92m[08:41:12]: Cell 2: food, food, food, linemate, deraumere[0m
+[92m[08:41:12]: Cell 3: food, food, food, deraumere, sibur, sibur, phiras[0m
+[92m[08:41:12]: Cell 4: [0m
+[92m[08:41:12]: Cell 5: food, food, linemate, phiras[0m
+[92m[08:41:12]: Cell 6: food, food, food, mendiane[0m
+[92m[08:41:12]: Cell 7: food[0m
+[92m[08:41:12]: Cell 8: food, food, linemate, deraumere[0m
+2 1 1
+[94m[08:41:12]: Inventory[0m
+[92m[08:41:12]: 24, 1, 1, 1, 0, 0, 0[0m
+[93m[08:41:12]: It's time to level up Bobby![0m
+[94m[08:41:12]: Look[0m
+[92m[08:41:12]: Cell 0: player, food, food, food, food[0m
+[92m[08:41:12]: Cell 1: food, food, sibur, mendiane[0m
+[92m[08:41:12]: Cell 2: food, food, food, linemate, deraumere[0m
+[92m[08:41:12]: Cell 3: food, food, food, deraumere, sibur, sibur, phiras[0m
+[92m[08:41:12]: Cell 4: [0m
+[92m[08:41:12]: Cell 5: food, food, linemate, phiras[0m
+[92m[08:41:12]: Cell 6: food, food, food, mendiane[0m
+[92m[08:41:12]: Cell 7: food[0m
+[92m[08:41:12]: Cell 8: food, food, linemate, deraumere[0m
+2 1 1
+[94m[08:41:12]: Inventory[0m
+[92m[08:41:12]: 24, 1, 1, 1, 0, 0, 0[0m
+[93m[08:41:12]: It's time to level up Bobby![0m
+[94m[08:41:12]: Look[0m
+[92m[08:41:12]: Cell 0: player, food, food, food, food[0m
+[92m[08:41:12]: Cell 1: food, food, sibur, mendiane[0m
+[92m[08:41:12]: Cell 2: food, food, food, linemate, deraumere[0m
+[92m[08:41:12]: Cell 3: food, food, food, deraumere, sibur, sibur, phiras[0m
+[92m[08:41:12]: Cell 4: [0m
+[92m[08:41:12]: Cell 5: food, food, linemate, phiras[0m
+[92m[08:41:12]: Cell 6: food, food, food, mendiane[0m
+[92m[08:41:12]: Cell 7: food[0m
+[92m[08:41:12]: Cell 8: food, food, linemate, deraumere[0m
+2 1 1
+[94m[08:41:12]: Inventory[0m
+[92m[08:41:12]: 24, 1, 1, 1, 0, 0, 0[0m
+[93m[08:41:12]: It's time to level up Bobby![0m
+[94m[08:41:12]: Look[0m
+[92m[08:41:12]: Cell 0: player, food, food, food, food[0m
+[92m[08:41:12]: Cell 1: food, food, sibur, mendiane[0m
+[92m[08:41:12]: Cell 2: food, food, food, linemate, deraumere[0m
+[92m[08:41:12]: Cell 3: food, food, food, deraumere, sibur, sibur, phiras[0m
+[92m[08:41:12]: Cell 4: [0m
+[92m[08:41:12]: Cell 5: food, food, linemate, phiras[0m
+[92m[08:41:12]: Cell 6: food, food, food, mendiane[0m
+[92m[08:41:12]: Cell 7: food[0m
+[92m[08:41:12]: Cell 8: food, food, linemate, deraumere[0m
+2 1 1
+[94m[08:41:12]: Inventory[0m
+[92m[08:41:12]: 24, 1, 1, 1, 0, 0, 0[0m
+[93m[08:41:12]: It's time to level up Bobby![0m
+[94m[08:41:12]: Look[0m
+[92m[08:41:12]: Cell 0: player, food, food, food, food[0m
+[92m[08:41:12]: Cell 1: food, food, sibur, mendiane[0m
+[92m[08:41:12]: Cell 2: food, food, food, linemate, deraumere[0m
+[92m[08:41:12]: Cell 3: food, food, food, deraumere, sibur, sibur, phiras[0m
+[92m[08:41:12]: Cell 4: [0m
+[92m[08:41:12]: Cell 5: food, food, linemate, phiras[0m
+[92m[08:41:12]: Cell 6: food, food, food, mendiane[0m
+[92m[08:41:12]: Cell 7: food[0m
+[92m[08:41:12]: Cell 8: food, food, linemate, deraumere[0m
+2 1 1
+[94m[08:41:12]: Inventory[0m
+[92m[08:41:12]: 24, 1, 1, 1, 0, 0, 0[0m
+[93m[08:41:12]: It's time to level up Bobby![0m
+[94m[08:41:12]: Look[0m
+[92m[08:41:12]: Cell 0: player, food, food, food, food[0m
+[92m[08:41:12]: Cell 1: food, food, sibur, mendiane[0m
+[92m[08:41:12]: Cell 2: food, food, food, linemate, deraumere[0m
+[92m[08:41:12]: Cell 3: food, food, food, deraumere, sibur, sibur, phiras[0m
+[92m[08:41:12]: Cell 4: [0m
+[92m[08:41:12]: Cell 5: food, food, linemate, phiras[0m
+[92m[08:41:12]: Cell 6: food, food, food, mendiane[0m
+[92m[08:41:12]: Cell 7: food[0m
+[92m[08:41:12]: Cell 8: food, food, linemate, deraumere[0m
+2 1 1
+[94m[08:41:12]: Inventory[0m
+[92m[08:41:12]: 24, 1, 1, 1, 0, 0, 0[0m
+[93m[08:41:12]: It's time to level up Bobby![0m
+[94m[08:41:12]: Look[0m
+[92m[08:41:12]: Cell 0: player, food, food, food, food[0m
+[92m[08:41:12]: Cell 1: food, food, sibur, mendiane[0m
+[92m[08:41:12]: Cell 2: food, food, food, linemate, deraumere[0m
+[92m[08:41:12]: Cell 3: food, food, food, deraumere, sibur, sibur, phiras[0m
+[92m[08:41:12]: Cell 4: [0m
+[92m[08:41:12]: Cell 5: food, food, linemate, phiras[0m
+[92m[08:41:12]: Cell 6: food, food, food, mendiane[0m
+[92m[08:41:12]: Cell 7: food[0m
+[92m[08:41:12]: Cell 8: food, food, linemate, deraumere[0m
+2 1 1
+[94m[08:41:12]: Inventory[0m
+[92m[08:41:12]: 24, 1, 1, 1, 0, 0, 0[0m
+[93m[08:41:12]: It's time to level up Bobby![0m
+[94m[08:41:12]: Look[0m
+[92m[08:41:13]: Cell 0: player, food, food, food, food[0m
+[92m[08:41:13]: Cell 1: food, food, sibur, mendiane[0m
+[92m[08:41:13]: Cell 2: food, food, food, linemate, deraumere[0m
+[92m[08:41:13]: Cell 3: food, food, food, deraumere, sibur, sibur, phiras[0m
+[92m[08:41:13]: Cell 4: [0m
+[92m[08:41:13]: Cell 5: food, food, linemate, phiras[0m
+[92m[08:41:13]: Cell 6: food, food, food, mendiane[0m
+[92m[08:41:13]: Cell 7: food[0m
+[92m[08:41:13]: Cell 8: food, food, linemate, deraumere[0m
+2 1 1
+[94m[08:41:13]: Inventory[0m
+[92m[08:41:13]: 24, 1, 1, 1, 0, 0, 0[0m
+[93m[08:41:13]: It's time to level up Bobby![0m
+[94m[08:41:13]: Look[0m
+[92m[08:41:13]: Cell 0: player, food, food, food, food[0m
+[92m[08:41:13]: Cell 1: food, food, sibur, mendiane[0m
+[92m[08:41:13]: Cell 2: food, food, food, linemate, deraumere[0m
+[92m[08:41:13]: Cell 3: food, food, food, deraumere, sibur, sibur, phiras[0m
+[92m[08:41:13]: Cell 4: [0m
+[92m[08:41:13]: Cell 5: food, food, linemate, phiras[0m
+[92m[08:41:13]: Cell 6: food, food, food, mendiane[0m
+[92m[08:41:13]: Cell 7: food[0m
+[92m[08:41:13]: Cell 8: food, food, linemate, deraumere[0m
+2 1 1
+[94m[08:41:13]: Inventory[0m
+[92m[08:41:13]: 24, 1, 1, 1, 0, 0, 0[0m
+[93m[08:41:13]: It's time to level up Bobby![0m
+[94m[08:41:13]: Look[0m
+[92m[08:41:13]: Cell 0: player, food, food, food, food[0m
+[92m[08:41:13]: Cell 1: food, food, sibur, mendiane[0m
+[92m[08:41:13]: Cell 2: food, food, food, linemate, deraumere[0m
+[92m[08:41:13]: Cell 3: food, food, food, deraumere, sibur, sibur, phiras[0m
+[92m[08:41:13]: Cell 4: food[0m
+[92m[08:41:13]: Cell 5: food, food, linemate, phiras[0m
+[92m[08:41:13]: Cell 6: food, food, food, mendiane[0m
+[92m[08:41:13]: Cell 7: food[0m
+[92m[08:41:13]: Cell 8: food, food, linemate, deraumere[0m
+2 1 1
+[94m[08:41:13]: Inventory[0m
+[92m[08:41:13]: 24, 1, 1, 1, 0, 0, 0[0m
+[93m[08:41:13]: It's time to level up Bobby![0m
+[94m[08:41:13]: Look[0m
+[92m[08:41:13]: Cell 0: player, food, food, food, food[0m
+[92m[08:41:13]: Cell 1: food, food, sibur, mendiane[0m
+[92m[08:41:13]: Cell 2: food, food, food, linemate, deraumere[0m
+[92m[08:41:13]: Cell 3: food, food, food, deraumere, sibur, sibur, phiras[0m
+[92m[08:41:13]: Cell 4: food[0m
+[92m[08:41:13]: Cell 5: food, food, linemate, phiras[0m
+[92m[08:41:13]: Cell 6: food, food, food, mendiane[0m
+[92m[08:41:13]: Cell 7: food[0m
+[92m[08:41:13]: Cell 8: food, food, linemate, deraumere[0m
+2 1 1
+[94m[08:41:13]: Inventory[0m
+[92m[08:41:13]: 23, 1, 1, 1, 0, 0, 0[0m
+[93m[08:41:13]: It's time to level up Bobby![0m
+[94m[08:41:13]: Look[0m
+[92m[08:41:13]: Cell 0: player, food, food, food, food[0m
+[92m[08:41:10]: Cell 1: player, sibur, sibur[0m
+[92m[08:41:10]: Cell 2: food, food, food[0m
+[92m[08:41:10]: Cell 3: food, food, linemate, phiras[0m
+[94m[08:41:10]: Take food[0m
+[92m[08:41:10]: ok[0m
+[94m[08:41:10]: Inventory[0m
+[92m[08:41:10]: 19, 0, 0, 0, 0, 0, 0[0m
+[94m[08:41:10]: Inventory[0m
+[92m[08:41:10]: 19, 0, 0, 0, 0, 0, 0[0m
+[93m[08:41:10]: Food level is below normal, searching some meat...[0m
+[94m[08:41:10]: Look[0m
+[92m[08:41:11]: Cell 0: player, food, deraumere, phiras[0m
+[92m[08:41:11]: Cell 1: sibur, sibur[0m
+[92m[08:41:11]: Cell 2: food, food, food[0m
+[92m[08:41:11]: Cell 3: food, food, linemate, phiras[0m
+[94m[08:41:11]: Take food[0m
+[92m[08:41:11]: ok[0m
+[94m[08:41:11]: Inventory[0m
+[92m[08:41:11]: 20, 0, 0, 0, 0, 0, 0[0m
+[94m[08:41:11]: Inventory[0m
+[92m[08:41:11]: 20, 0, 0, 0, 0, 0, 0[0m
+[93m[08:41:11]: Food level is below normal, searching some meat...[0m
+[94m[08:41:11]: Look[0m
+[92m[08:41:11]: Cell 0: player, deraumere, phiras[0m
+[92m[08:41:11]: Cell 1: sibur, sibur[0m
+[92m[08:41:11]: Cell 2: food, food, food[0m
+[92m[08:41:11]: Cell 3: food, food, linemate, phiras[0m
+[93m[08:41:11]: Found some food on cell 2[0m
+Forward
+[94m[08:41:11]: Forward[0m
+[92m[08:41:11]: ok[0m
+[94m[08:41:11]: Inventory[0m
+[92m[08:41:11]: 20, 0, 0, 0, 0, 0, 0[0m
+[93m[08:41:11]: Food level is below normal, searching some meat...[0m
+[94m[08:41:11]: Look[0m
+[92m[08:41:11]: Cell 0: player, food, food, food[0m
+[92m[08:41:11]: Cell 1: player[0m
+[92m[08:41:11]: Cell 2: food, mendiane[0m
+[92m[08:41:11]: Cell 3: [0m
+[94m[08:41:11]: Take food[0m
+[92m[08:41:11]: ok[0m
+[94m[08:41:11]: Inventory[0m
+[92m[08:41:11]: 21, 0, 0, 0, 0, 0, 0[0m
+[94m[08:41:11]: Inventory[0m
+[92m[08:41:11]: 21, 0, 0, 0, 0, 0, 0[0m
+[93m[08:41:11]: Food level is below normal, searching some meat...[0m
+[94m[08:41:11]: Look[0m
+[92m[08:41:11]: Cell 0: player, food, food[0m
+[92m[08:41:11]: Cell 1: player[0m
+[92m[08:41:11]: Cell 2: food, mendiane[0m
+[92m[08:41:11]: Cell 3: [0m
+[94m[08:41:11]: Take food[0m
+[92m[08:41:11]: ok[0m
+[94m[08:41:11]: Inventory[0m
+[92m[08:41:11]: 22, 0, 0, 0, 0, 0, 0[0m
+[94m[08:41:11]: Inventory[0m
+[92m[08:41:11]: 22, 0, 0, 0, 0, 0, 0[0m
+[93m[08:41:11]: Food level is below normal, searching some meat...[0m
+[94m[08:41:11]: Look[0m
+[92m[08:41:11]: Cell 0: player, food[0m
+[92m[08:41:11]: Cell 1: [0m
+[92m[08:41:11]: Cell 2: food, mendiane[0m
+[92m[08:41:11]: Cell 3: [0m
+[94m[08:41:11]: Take food[0m
+[92m[08:41:11]: ok[0m
+[94m[08:41:11]: Inventory[0m
+[92m[08:41:11]: 23, 0, 0, 0, 0, 0, 0[0m
+[94m[08:41:11]: Inventory[0m
+[92m[08:41:11]: 23, 0, 0, 0, 0, 0, 0[0m
+[93m[08:41:11]: Food level is below normal, searching some meat...[0m
+[94m[08:41:11]: Look[0m
+[92m[08:41:11]: Cell 0: player[0m
+[92m[08:41:11]: Cell 1: [0m
+[92m[08:41:11]: Cell 2: food, mendiane[0m
+[92m[08:41:11]: Cell 3: [0m
+[93m[08:41:11]: Found some food on cell 2[0m
+Forward
+[94m[08:41:11]: Forward[0m
+[92m[08:41:11]: ok[0m
+[94m[08:41:11]: Inventory[0m
+[92m[08:41:11]: 23, 0, 0, 0, 0, 0, 0[0m
+[93m[08:41:11]: Food level is below normal, searching some meat...[0m
+[94m[08:41:11]: Look[0m
+[92m[08:41:12]: Cell 0: player, food, mendiane[0m
+[92m[08:41:12]: Cell 1: linemate, linemate, sibur[0m
+[92m[08:41:12]: Cell 2: mendiane[0m
+[92m[08:41:12]: Cell 3: food, food, deraumere, mendiane, mendiane, phiras[0m
+[94m[08:41:12]: Take food[0m
+[92m[08:41:12]: ok[0m
+[94m[08:41:12]: Inventory[0m
+[92m[08:41:12]: 23, 0, 0, 0, 0, 0, 0[0m
+[94m[08:41:12]: Inventory[0m
+[92m[08:41:12]: 23, 0, 0, 0, 0, 0, 0[0m
+[93m[08:41:12]: Food level is below normal, searching some meat...[0m
+[94m[08:41:12]: Look[0m
+[92m[08:41:12]: Cell 0: player, mendiane[0m
+[92m[08:41:12]: Cell 1: linemate, linemate, sibur[0m
+[92m[08:41:12]: Cell 2: mendiane[0m
+[92m[08:41:12]: Cell 3: food, food, deraumere, mendiane, mendiane, phiras[0m
+[93m[08:41:12]: food on 3[0m
+Right
+[94m[08:41:12]: Right[0m
+[92m[08:41:12]: ok[0m
+[94m[08:41:12]: Forward[0m
+[92m[08:41:12]: ok[0m
+[94m[08:41:12]: Left[0m
+[92m[08:41:12]: ok[0m
+[94m[08:41:12]: Inventory[0m
+[92m[08:41:12]: 23, 0, 0, 0, 0, 0, 0[0m
+[93m[08:41:12]: Food level is below normal, searching some meat...[0m
+[94m[08:41:12]: Look[0m
+[92m[08:41:12]: Cell 0: player, food[0m
+[92m[08:41:12]: Cell 1: mendiane[0m
+[92m[08:41:12]: Cell 2: food, food, deraumere, mendiane, mendiane, phiras[0m
+[92m[08:41:12]: Cell 3: food, sibur[0m
+[94m[08:41:12]: Take food[0m
+[92m[08:41:12]: ok[0m
+[94m[08:41:12]: Inventory[0m
+[92m[08:41:12]: 24, 0, 0, 0, 0, 0, 0[0m
+[94m[08:41:12]: Inventory[0m
+[92m[08:41:12]: 24, 0, 0, 0, 0, 0, 0[0m
+[93m[08:41:12]: Food level is below normal, searching some meat...[0m
+[94m[08:41:12]: Look[0m
+[92m[08:41:12]: Cell 0: player[0m
+[92m[08:41:12]: Cell 1: mendiane[0m
+[92m[08:41:12]: Cell 2: food, food, deraumere, mendiane, mendiane, phiras[0m
+[92m[08:41:12]: Cell 3: food, sibur[0m
+[93m[08:41:12]: Found some food on cell 2[0m
+Forward
+[94m[08:41:12]: Forward[0m
+[92m[08:41:12]: ok[0m
+[94m[08:41:12]: Inventory[0m
+[92m[08:41:12]: 24, 0, 0, 0, 0, 0, 0[0m
+[93m[08:41:12]: Food level is below normal, searching some meat...[0m
+[94m[08:41:12]: Look[0m
+[92m[08:41:12]: Cell 0: player, food, food, deraumere, mendiane, mendiane, phiras[0m
+[92m[08:41:12]: Cell 1: food, food, food, linemate, phiras[0m
+[92m[08:41:12]: Cell 2: food, food, food, food[0m
+[92m[08:41:12]: Cell 3: food, food[0m
+[94m[08:41:12]: Take food[0m
+[92m[08:41:12]: ok[0m
+[94m[08:41:12]: Inventory[0m
+[92m[08:41:12]: 25, 0, 0, 0, 0, 0, 0[0m
+[94m[08:41:12]: Inventory[0m
+[92m[08:41:12]: 25, 0, 0, 0, 0, 0, 0[0m
+[93m[08:41:12]: Food level is below normal, searching some meat...[0m
+[94m[08:41:12]: Look[0m
+[92m[08:41:12]: Cell 0: player, food, deraumere, mendiane, mendiane, phiras[0m
+[92m[08:41:12]: Cell 1: food, food, food, linemate, phiras[0m
+[92m[08:41:12]: Cell 2: food, food, food, food[0m
+[92m[08:41:12]: Cell 3: food, food[0m
+[94m[08:41:12]: Take food[0m
+[92m[08:41:13]: ok[0m
+[94m[08:41:13]: Inventory[0m
+[92m[08:41:13]: 26, 0, 0, 0, 0, 0, 0[0m
+[94m[08:41:13]: Inventory[0m
+[92m[08:41:13]: 26, 0, 0, 0, 0, 0, 0[0m
+[93m[08:41:13]: Food level is below normal, searching some meat...[0m
+[94m[08:41:13]: Look[0m
+[92m[08:41:13]: Cell 0: player, deraumere, mendiane, mendiane, phiras[0m
+[92m[08:41:13]: Cell 1: food, food, food, linemate, phiras[0m
+[92m[08:41:13]: Cell 2: food, food, food, food[0m
+[92m[08:41:13]: Cell 3: food, food[0m
+[93m[08:41:13]: Found some food on cell 2[0m
+Forward
+[94m[08:41:13]: Forward[0m
+[92m[08:41:13]: ok[0m
+[94m[08:41:13]: Inventory[0m
+[92m[08:41:13]: 26, 0, 0, 0, 0, 0, 0[0m
+[93m[08:41:13]: Food level is below normal, searching some meat...[0m
+[94m[08:41:13]: Look[0m
+[92m[08:41:13]: Cell 0: player, food, food, food, food[0m
+[92m[08:41:13]: Cell 1: food, phiras[0m
+[92m[08:41:13]: Cell 2: food, sibur, mendiane[0m
+[92m[08:41:13]: Cell 3: food, food[0m
+[94m[08:41:13]: Take food[0m
+[92m[08:41:13]: ok[0m
+[94m[08:41:13]: Inventory[0m
+[92m[08:41:13]: 26, 0, 0, 0, 0, 0, 0[0m
+[94m[08:41:13]: Inventory[0m
+[92m[08:41:13]: 26, 0, 0, 0, 0, 0, 0[0m
+[93m[08:41:13]: Food level is below normal, searching some meat...[0m
+[94m[08:41:13]: Look[0m
+[92m[08:41:13]: Cell 0: player, food, food, food[0m
+[92m[08:41:13]: Cell 1: food, phiras[0m
+[92m[08:41:13]: Cell 2: food, sibur, mendiane[0m
+[92m[08:41:13]: Cell 3: food, food[0m
+[94m[08:41:13]: Take food[0m
+[92m[08:41:13]: ok[0m
+[94m[08:41:13]: Inventory[0m
+[92m[08:41:13]: 27, 0, 0, 0, 0, 0, 0[0m
+[94m[08:41:13]: Inventory[0m
+[92m[08:41:13]: 27, 0, 0, 0, 0, 0, 0[0m
+[93m[08:41:13]: Food level is below normal, searching some meat...[0m
+[94m[08:41:13]: Look[0m
+[92m[08:41:13]: Cell 0: player, food, food[0m
+[92m[08:41:13]: Cell 1: food, phiras[0m
+[92m[08:41:13]: Cell 2: food, sibur, mendiane[0m
+[92m[08:41:13]: Cell 3: food, food[0m
+[94m[08:41:13]: Take food[0m
+[92m[08:41:13]: ok[0m
+[94m[08:41:13]: Inventory[0m
+[92m[08:41:13]: 28, 0, 0, 0, 0, 0, 0[0m
+[94m[08:41:13]: Inventory[0m
+[92m[08:41:13]: Cell 1: food, food, sibur, mendiane[0m
+[92m[08:41:13]: Cell 2: food, food, food, linemate, deraumere[0m
+[92m[08:41:13]: Cell 3: food, food, food, deraumere, sibur, sibur, phiras[0m
+[92m[08:41:13]: Cell 4: food[0m
+[92m[08:41:13]: Cell 5: food, food, linemate, phiras[0m
+[92m[08:41:13]: Cell 6: food, food, food, mendiane[0m
+[92m[08:41:13]: Cell 7: food[0m
+[92m[08:41:13]: Cell 8: food, food, linemate, deraumere[0m
+2 1 1
+[93m[08:41:13]: Lem smash Bobby![0m
+[94m[08:41:13]: Fork[0m
+[92m[08:41:13]: ok[0m
+[94m[08:41:13]: Inventory[0m
+[92m[08:41:13]: 23, 1, 1, 1, 0, 0, 0[0m
+[93m[08:41:13]: It's time to level up Bobby![0m
+[94m[08:41:13]: Look[0m
+[92m[08:41:13]: Cell 0: player, food, food, food, food[0m
+[92m[08:41:13]: Cell 1: food, food, sibur, mendiane[0m
+[92m[08:41:13]: Cell 2: food, food, food, linemate, deraumere[0m
+[92m[08:41:13]: Cell 3: food, food, food, deraumere, sibur, sibur, phiras[0m
+[92m[08:41:13]: Cell 4: food[0m
+[92m[08:41:13]: Cell 5: food, food, food, linemate, phiras[0m
+[92m[08:41:13]: Cell 6: food, food, food, mendiane[0m
+[92m[08:41:13]: Cell 7: food[0m
+[92m[08:41:13]: Cell 8: food, food, linemate, deraumere[0m
+2 1 1
+[94m[08:41:13]: Inventory[0m
+[92m[08:41:13]: 23, 1, 1, 1, 0, 0, 0[0m
+[93m[08:41:13]: It's time to level up Bobby![0m
+[94m[08:41:13]: Look[0m
+[92m[08:41:13]: Cell 0: player, food, food, food, food[0m
+[92m[08:41:13]: Cell 1: food, food, sibur, mendiane[0m
+[92m[08:41:13]: Cell 2: food, food, food, linemate, deraumere[0m
+[92m[08:41:13]: Cell 3: food, food, food, deraumere, sibur, sibur, phiras[0m
+[92m[08:41:13]: Cell 4: food[0m
+[92m[08:41:13]: Cell 5: food, food, food, linemate, phiras[0m
+[92m[08:41:13]: Cell 6: food, food, food, mendiane[0m
+[92m[08:41:13]: Cell 7: food[0m
+[92m[08:41:13]: Cell 8: food, food, linemate, deraumere[0m
+2 1 1
+[94m[08:41:13]: Inventory[0m
+[92m[08:41:13]: 23, 1, 1, 1, 0, 0, 0[0m
+[93m[08:41:13]: It's time to level up Bobby![0m
+[94m[08:41:13]: Look[0m
+[92m[08:41:14]: Cell 0: player, food, food, food, food[0m
+[92m[08:41:14]: Cell 1: food, food, sibur, mendiane[0m
+[92m[08:41:14]: Cell 2: food, food, food, linemate, deraumere[0m
+[92m[08:41:14]: Cell 3: food, food, food, deraumere, sibur, sibur, phiras[0m
+[92m[08:41:14]: Cell 4: food[0m
+[92m[08:41:14]: Cell 5: food, food, food, linemate, phiras[0m
+[92m[08:41:14]: Cell 6: food, food, food, mendiane[0m
+[92m[08:41:14]: Cell 7: food[0m
+[92m[08:41:14]: Cell 8: food, food, linemate, deraumere[0m
+2 1 1
+[94m[08:41:14]: Inventory[0m
+[92m[08:41:14]: 23, 1, 1, 1, 0, 0, 0[0m
+[93m[08:41:14]: It's time to level up Bobby![0m
+[94m[08:41:14]: Look[0m
+[92m[08:41:14]: Cell 0: player, food, food, food, food[0m
+[92m[08:41:14]: Cell 1: food, food, sibur, mendiane[0m
+[92m[08:41:14]: Cell 2: food, food, food, linemate, deraumere[0m
+[92m[08:41:14]: Cell 3: food, food, food, deraumere, sibur, sibur, phiras[0m
+[92m[08:41:14]: Cell 4: food[0m
+[92m[08:41:14]: Cell 5: food, food, food, linemate, phiras[0m
+[92m[08:41:14]: Cell 6: food, food, food, mendiane[0m
+[92m[08:41:14]: Cell 7: food[0m
+[92m[08:41:14]: Cell 8: player, food, food, linemate, deraumere[0m
+2 1 1
+[94m[08:41:14]: Inventory[0m
+[92m[08:41:14]: 23, 1, 1, 1, 0, 0, 0[0m
+[93m[08:41:14]: It's time to level up Bobby![0m
+[94m[08:41:14]: Look[0m
+[92m[08:41:14]: Cell 0: player, food, food, food, food[0m
+[92m[08:41:14]: Cell 1: food, food, sibur, mendiane[0m
+[92m[08:41:14]: Cell 2: food, food, food, linemate, deraumere[0m
+[92m[08:41:14]: Cell 3: food, food, food, deraumere, sibur, sibur, phiras[0m
+[92m[08:41:14]: Cell 4: food[0m
+[92m[08:41:14]: Cell 5: food, food, food, linemate, phiras[0m
+[92m[08:41:14]: Cell 6: food, food, food, mendiane[0m
+[92m[08:41:14]: Cell 7: food[0m
+[92m[08:41:14]: Cell 8: player, food, food, linemate, deraumere[0m
+2 1 1
+[94m[08:41:14]: Inventory[0m
+[92m[08:41:14]: 23, 1, 1, 1, 0, 0, 0[0m
+[93m[08:41:14]: It's time to level up Bobby![0m
+[94m[08:41:14]: Look[0m
+[92m[08:41:14]: Cell 0: player, food, food, food, food[0m
+[92m[08:41:14]: Cell 1: food, food, sibur, mendiane[0m
+[92m[08:41:14]: Cell 2: food, food, food, linemate, deraumere[0m
+[92m[08:41:14]: Cell 3: food, food, food, deraumere, sibur, sibur, phiras[0m
+[92m[08:41:14]: Cell 4: food[0m
+[92m[08:41:14]: Cell 5: food, food, food, linemate, phiras[0m
+[92m[08:41:14]: Cell 6: food, food, food, mendiane[0m
+[92m[08:41:14]: Cell 7: food[0m
+[92m[08:41:14]: Cell 8: player, food, linemate, deraumere[0m
+2 1 1
+[94m[08:41:14]: Inventory[0m
+[92m[08:41:14]: 23, 1, 1, 1, 0, 0, 0[0m
+[93m[08:41:14]: It's time to level up Bobby![0m
+[94m[08:41:14]: Look[0m
+[92m[08:41:14]: Cell 0: player, food, food, food, food[0m
+[92m[08:41:14]: Cell 1: food, food, sibur, mendiane[0m
+[92m[08:41:14]: Cell 2: food, food, food, linemate, deraumere[0m
+[92m[08:41:14]: Cell 3: food, food, food, deraumere, sibur, sibur, phiras[0m
+[92m[08:41:14]: Cell 4: food[0m
+[92m[08:41:14]: Cell 5: food, food, food, linemate, phiras[0m
+[92m[08:41:14]: Cell 6: food, food, food, mendiane[0m
+[92m[08:41:14]: Cell 7: food[0m
+[92m[08:41:14]: Cell 8: player, food, linemate, deraumere[0m
+2 1 1
+[94m[08:41:14]: Inventory[0m
+[92m[08:41:14]: 23, 1, 1, 1, 0, 0, 0[0m
+[93m[08:41:14]: It's time to level up Bobby![0m
+[94m[08:41:14]: Look[0m
+[92m[08:41:14]: Cell 0: player, food, food, food, food[0m
+[92m[08:41:14]: Cell 1: food, food, sibur, mendiane[0m
+[92m[08:41:14]: Cell 2: food, food, food, linemate, deraumere[0m
+[92m[08:41:14]: Cell 3: food, food, food, deraumere, sibur, sibur, phiras[0m
+[92m[08:41:14]: Cell 4: food[0m
+[92m[08:41:14]: Cell 5: food, food, food, linemate, phiras[0m
+[92m[08:41:14]: Cell 6: food, food, food, mendiane[0m
+[92m[08:41:14]: Cell 7: food[0m
+[92m[08:41:14]: Cell 8: player, linemate, deraumere[0m
+2 1 1
+[94m[08:41:14]: Inventory[0m
+[92m[08:41:14]: 23, 1, 1, 1, 0, 0, 0[0m
+[93m[08:41:14]: It's time to level up Bobby![0m
+[94m[08:41:14]: Look[0m
+[92m[08:41:14]: Cell 0: player, food, food, food, food[0m
+[92m[08:41:14]: Cell 1: food, food, sibur, mendiane[0m
+[92m[08:41:14]: Cell 2: food, food, food, linemate, deraumere[0m
+[92m[08:41:14]: Cell 3: food, food, food, deraumere, sibur, sibur, phiras[0m
+[92m[08:41:14]: Cell 4: food[0m
+[92m[08:41:14]: Cell 5: food, food, food, linemate, phiras[0m
+[92m[08:41:14]: Cell 6: food, food, food, mendiane[0m
+[92m[08:41:14]: Cell 7: food[0m
+[92m[08:41:14]: Cell 8: player, linemate, deraumere[0m
+2 1 1
+[94m[08:41:14]: Inventory[0m
+[92m[08:41:14]: 23, 1, 1, 1, 0, 0, 0[0m
+[93m[08:41:14]: It's time to level up Bobby![0m
+[94m[08:41:14]: Look[0m
+[92m[08:41:14]: Cell 0: player, food, food, food, food[0m
+[92m[08:41:14]: Cell 1: food, food, sibur, mendiane[0m
+[92m[08:41:14]: Cell 2: food, food, food, linemate, deraumere[0m
+[92m[08:41:14]: Cell 3: food, food, food, deraumere, sibur, sibur, phiras[0m
+[92m[08:41:14]: Cell 4: food[0m
+[92m[08:41:14]: Cell 5: food, food, food, linemate, phiras[0m
+[92m[08:41:14]: Cell 6: food, food, food, mendiane[0m
+[92m[08:41:14]: Cell 7: player, food[0m
+[92m[08:41:14]: Cell 8: linemate, deraumere[0m
+2 1 1
+[94m[08:41:14]: Inventory[0m
+[92m[08:41:14]: 22, 1, 1, 1, 0, 0, 0[0m
+[93m[08:41:14]: It's time to level up Bobby![0m
+[94m[08:41:14]: Look[0m
+[92m[08:41:14]: Cell 0: player, food, food, food, food[0m
+[92m[08:41:14]: Cell 1: food, food, sibur, mendiane[0m
+[92m[08:41:14]: Cell 2: food, food, food, linemate, deraumere[0m
+[92m[08:41:14]: Cell 3: food, food, food, deraumere, sibur, sibur, phiras[0m
+[92m[08:41:14]: Cell 4: food[0m
+[92m[08:41:14]: Cell 5: food, food, food, linemate, phiras[0m
+[92m[08:41:14]: Cell 6: food, food, food, mendiane[0m
+[92m[08:41:14]: Cell 7: player, food[0m
+[92m[08:41:14]: Cell 8: linemate, deraumere[0m
+2 1 1
+[94m[08:41:14]: Inventory[0m
+[92m[08:41:14]: 22, 1, 1, 1, 0, 0, 0[0m
+[93m[08:41:14]: It's time to level up Bobby![0m
+[94m[08:41:14]: Look[0m
+[92m[08:41:14]: Cell 0: player, food, food, food, food[0m
+[92m[08:41:14]: Cell 1: food, food, sibur, mendiane[0m
+[92m[08:41:14]: Cell 2: food, food, food, linemate, deraumere[0m
+[92m[08:41:12]: Cell 2: food, deraumere, phiras[0m
+[92m[08:41:12]: Cell 3: food, food, food, food, phiras[0m
+[94m[08:41:12]: Take food[0m
+[92m[08:41:12]: ok[0m
+[94m[08:41:12]: Inventory[0m
+[92m[08:41:12]: 18, 0, 0, 0, 0, 0, 0[0m
+[94m[08:41:12]: Inventory[0m
+[92m[08:41:12]: 18, 0, 0, 0, 0, 0, 0[0m
+[93m[08:41:12]: Food level is below normal, searching some meat...[0m
+[94m[08:41:12]: Look[0m
+[92m[08:41:12]: Cell 0: player, food, sibur[0m
+[92m[08:41:12]: Cell 1: food, thystame[0m
+[92m[08:41:12]: Cell 2: food, deraumere, phiras[0m
+[92m[08:41:12]: Cell 3: food, food, food, food, phiras[0m
+[94m[08:41:12]: Take food[0m
+[92m[08:41:12]: ok[0m
+[94m[08:41:12]: Inventory[0m
+[92m[08:41:12]: 19, 0, 0, 0, 0, 0, 0[0m
+[94m[08:41:12]: Inventory[0m
+[92m[08:41:12]: 19, 0, 0, 0, 0, 0, 0[0m
+[93m[08:41:12]: Food level is below normal, searching some meat...[0m
+[94m[08:41:12]: Look[0m
+[92m[08:41:12]: Cell 0: player, sibur[0m
+[92m[08:41:12]: Cell 1: food, thystame[0m
+[92m[08:41:12]: Cell 2: food, deraumere, phiras[0m
+[92m[08:41:12]: Cell 3: food, food, food, food, phiras[0m
+[93m[08:41:12]: Found some food on cell 2[0m
+Forward
+[94m[08:41:12]: Forward[0m
+[92m[08:41:13]: ok[0m
+[94m[08:41:13]: Inventory[0m
+[92m[08:41:13]: 19, 0, 0, 0, 0, 0, 0[0m
+[93m[08:41:13]: Food level is below normal, searching some meat...[0m
+[94m[08:41:13]: Look[0m
+[92m[08:41:13]: Cell 0: player, food, deraumere, phiras[0m
+[92m[08:41:13]: Cell 1: food, food, linemate, deraumere[0m
+[92m[08:41:13]: Cell 2: food, food, food[0m
+[92m[08:41:13]: Cell 3: food, food, deraumere, deraumere, phiras[0m
+[94m[08:41:13]: Take food[0m
+[92m[08:41:13]: ok[0m
+[94m[08:41:13]: Inventory[0m
+[92m[08:41:13]: 20, 0, 0, 0, 0, 0, 0[0m
+[94m[08:41:13]: Inventory[0m
+[92m[08:41:13]: 20, 0, 0, 0, 0, 0, 0[0m
+[93m[08:41:13]: Food level is below normal, searching some meat...[0m
+[94m[08:41:13]: Look[0m
+[92m[08:41:13]: Cell 0: player, deraumere, phiras[0m
+[92m[08:41:13]: Cell 1: food, food, linemate, deraumere[0m
+[92m[08:41:13]: Cell 2: food, food, food[0m
+[92m[08:41:13]: Cell 3: food, food, deraumere, deraumere, phiras[0m
+[93m[08:41:13]: Found some food on cell 2[0m
+Forward
+[94m[08:41:13]: Forward[0m
+[92m[08:41:13]: ok[0m
+[94m[08:41:13]: Inventory[0m
+[92m[08:41:13]: 20, 0, 0, 0, 0, 0, 0[0m
+[93m[08:41:13]: Food level is below normal, searching some meat...[0m
+[94m[08:41:13]: Look[0m
+[92m[08:41:13]: Cell 0: player, food, food, food[0m
+[92m[08:41:13]: Cell 1: food[0m
+[92m[08:41:13]: Cell 2: linemate[0m
+[92m[08:41:13]: Cell 3: food, phiras[0m
+[94m[08:41:13]: Take food[0m
+[92m[08:41:13]: ok[0m
+[94m[08:41:13]: Inventory[0m
+[92m[08:41:13]: 21, 0, 0, 0, 0, 0, 0[0m
+[94m[08:41:13]: Inventory[0m
+[92m[08:41:13]: 21, 0, 0, 0, 0, 0, 0[0m
+[93m[08:41:13]: Food level is below normal, searching some meat...[0m
+[94m[08:41:13]: Look[0m
+[92m[08:41:13]: Cell 0: player, food, food[0m
+[92m[08:41:13]: Cell 1: food[0m
+[92m[08:41:13]: Cell 2: linemate[0m
+[92m[08:41:13]: Cell 3: food, phiras[0m
+[94m[08:41:13]: Take food[0m
+[92m[08:41:13]: ok[0m
+[94m[08:41:13]: Inventory[0m
+[92m[08:41:13]: 22, 0, 0, 0, 0, 0, 0[0m
+[94m[08:41:13]: Inventory[0m
+[92m[08:41:13]: 22, 0, 0, 0, 0, 0, 0[0m
+[93m[08:41:13]: Food level is below normal, searching some meat...[0m
+[94m[08:41:13]: Look[0m
+[92m[08:41:13]: Cell 0: player, food[0m
+[92m[08:41:13]: Cell 1: food[0m
+[92m[08:41:13]: Cell 2: linemate[0m
+[92m[08:41:13]: Cell 3: food, phiras[0m
+[94m[08:41:13]: Take food[0m
+[92m[08:41:13]: ok[0m
+[94m[08:41:13]: Inventory[0m
+[92m[08:41:13]: 22, 0, 0, 0, 0, 0, 0[0m
+[94m[08:41:13]: Inventory[0m
+[92m[08:41:13]: 22, 0, 0, 0, 0, 0, 0[0m
+[93m[08:41:13]: Food level is below normal, searching some meat...[0m
+[94m[08:41:13]: Look[0m
+[92m[08:41:13]: Cell 0: player[0m
+[92m[08:41:13]: Cell 1: food[0m
+[92m[08:41:13]: Cell 2: linemate[0m
+[92m[08:41:13]: Cell 3: food, phiras[0m
+[93m[08:41:13]: food on 1[0m
+Left
+[94m[08:41:13]: Left[0m
+[92m[08:41:13]: ok[0m
+[94m[08:41:13]: Forward[0m
+[92m[08:41:14]: ok[0m
+[94m[08:41:14]: Right[0m
+[92m[08:41:14]: ok[0m
+[94m[08:41:14]: Inventory[0m
+[92m[08:41:14]: 22, 0, 0, 0, 0, 0, 0[0m
+[93m[08:41:14]: Food level is below normal, searching some meat...[0m
+[94m[08:41:14]: Look[0m
+[92m[08:41:14]: Cell 0: player, food, food, linemate, deraumere[0m
+[92m[08:41:14]: Cell 1: food, food, food, deraumere, sibur, sibur, phiras[0m
+[92m[08:41:14]: Cell 2: food[0m
+[92m[08:41:14]: Cell 3: linemate[0m
+[94m[08:41:14]: Take food[0m
+[92m[08:41:14]: ok[0m
+[94m[08:41:14]: Inventory[0m
+[92m[08:41:14]: 23, 0, 0, 0, 0, 0, 0[0m
+[94m[08:41:14]: Inventory[0m
+[92m[08:41:14]: 23, 0, 0, 0, 0, 0, 0[0m
+[93m[08:41:14]: Food level is below normal, searching some meat...[0m
+[94m[08:41:14]: Look[0m
+[92m[08:41:14]: Cell 0: player, food, linemate, deraumere[0m
+[92m[08:41:14]: Cell 1: food, food, food, deraumere, sibur, sibur, phiras[0m
+[92m[08:41:14]: Cell 2: food[0m
+[92m[08:41:14]: Cell 3: linemate[0m
+[94m[08:41:14]: Take food[0m
+[92m[08:41:14]: ok[0m
+[94m[08:41:14]: Inventory[0m
+[92m[08:41:14]: 24, 0, 0, 0, 0, 0, 0[0m
+[94m[08:41:14]: Inventory[0m
+[92m[08:41:14]: 24, 0, 0, 0, 0, 0, 0[0m
+[93m[08:41:14]: Food level is below normal, searching some meat...[0m
+[94m[08:41:14]: Look[0m
+[92m[08:41:14]: Cell 0: player, linemate, deraumere[0m
+[92m[08:41:14]: Cell 1: food, food, food, deraumere, sibur, sibur, phiras[0m
+[92m[08:41:14]: Cell 2: food[0m
+[92m[08:41:14]: Cell 3: linemate[0m
+[93m[08:41:14]: Found some food on cell 2[0m
+Forward
+[94m[08:41:14]: Forward[0m
+[92m[08:41:14]: ok[0m
+[94m[08:41:14]: Inventory[0m
+[92m[08:41:14]: 24, 0, 0, 0, 0, 0, 0[0m
+[93m[08:41:14]: Food level is below normal, searching some meat...[0m
+[94m[08:41:14]: Look[0m
+[92m[08:41:14]: Cell 0: player, food[0m
+[92m[08:41:14]: Cell 1: food, food, food, linemate, deraumere[0m
+[92m[08:41:14]: Cell 2: food, food, food, mendiane[0m
+[92m[08:41:14]: Cell 3: food, food, food, food[0m
+[94m[08:41:14]: Take food[0m
+[92m[08:41:14]: ok[0m
+[94m[08:41:14]: Inventory[0m
+[92m[08:41:14]: 25, 0, 0, 0, 0, 0, 0[0m
+[94m[08:41:14]: Inventory[0m
+[92m[08:41:14]: 25, 0, 0, 0, 0, 0, 0[0m
+[93m[08:41:14]: Food level is below normal, searching some meat...[0m
+[94m[08:41:14]: Look[0m
+[92m[08:41:14]: Cell 0: player[0m
+[92m[08:41:14]: Cell 1: food, food, food, linemate, deraumere[0m
+[92m[08:41:14]: Cell 2: food, food, food, mendiane[0m
+[92m[08:41:14]: Cell 3: food, food, food, food[0m
+[93m[08:41:14]: Found some food on cell 2[0m
+Forward
+[94m[08:41:14]: Forward[0m
+[92m[08:41:14]: ok[0m
+[94m[08:41:14]: Inventory[0m
+[92m[08:41:14]: 25, 0, 0, 0, 0, 0, 0[0m
+[93m[08:41:14]: Food level is below normal, searching some meat...[0m
+[94m[08:41:14]: Look[0m
+[92m[08:41:14]: Cell 0: player, food, food, food, mendiane[0m
+[92m[08:41:14]: Cell 1: food, food, sibur, mendiane[0m
+[92m[08:41:14]: Cell 2: food, food, food, linemate, phiras[0m
+[92m[08:41:14]: Cell 3: [0m
+[94m[08:41:14]: Take food[0m
+[92m[08:41:15]: ok[0m
+[94m[08:41:15]: Inventory[0m
+[92m[08:41:15]: 25, 0, 0, 0, 0, 0, 0[0m
+[94m[08:41:15]: Inventory[0m
+[92m[08:41:15]: 25, 0, 0, 0, 0, 0, 0[0m
+[93m[08:41:15]: Food level is below normal, searching some meat...[0m
+[94m[08:41:15]: Look[0m
+[92m[08:41:15]: Cell 0: player, food, food, mendiane[0m
+[92m[08:41:15]: Cell 1: food, food, sibur, mendiane[0m
+[92m[08:41:15]: Cell 2: food, food, food, linemate, phiras[0m
+[92m[08:41:15]: Cell 3: [0m
+[94m[08:41:15]: Take food[0m
+[92m[08:41:15]: ok[0m
+[94m[08:41:15]: Inventory[0m
+[92m[08:41:15]: 26, 0, 0, 0, 0, 0, 0[0m
+[94m[08:41:15]: Inventory[0m
+[92m[08:41:15]: 26, 0, 0, 0, 0, 0, 0[0m
+[93m[08:41:15]: Food level is below normal, searching some meat...[0m
+[94m[08:41:15]: Look[0m
+[92m[08:41:15]: Cell 0: player, food, mendiane[0m
+[92m[08:41:15]: Cell 1: food, food, sibur, mendiane[0m
+[92m[08:41:15]: Cell 2: food, food, food, food, linemate, phiras[0m
+[92m[08:41:15]: Cell 3: food, food[0m
+[94m[08:41:15]: Take food[0m
+[92m[08:41:15]: ok[0m
+[94m[08:41:15]: Inventory[0m
+[92m[08:41:15]: 27, 0, 0, 0, 0, 0, 0[0m
+[92m[08:41:13]: 28, 0, 0, 0, 0, 0, 0[0m
+[93m[08:41:13]: Food level is below normal, searching some meat...[0m
+[94m[08:41:13]: Look[0m
+[92m[08:41:13]: Cell 0: player, food[0m
+[92m[08:41:13]: Cell 1: food, phiras[0m
+[92m[08:41:13]: Cell 2: food, sibur, mendiane[0m
+[92m[08:41:13]: Cell 3: food, food[0m
+[94m[08:41:13]: Take food[0m
+[92m[08:41:13]: ok[0m
+[94m[08:41:13]: Inventory[0m
+[92m[08:41:13]: 29, 0, 0, 0, 0, 0, 0[0m
+[94m[08:41:13]: Inventory[0m
+[92m[08:41:13]: 29, 0, 0, 0, 0, 0, 0[0m
+[93m[08:41:13]: Food level is below normal, searching some meat...[0m
+[94m[08:41:13]: Look[0m
+[92m[08:41:13]: Cell 0: player[0m
+[92m[08:41:13]: Cell 1: food, phiras[0m
+[92m[08:41:13]: Cell 2: food, sibur, mendiane[0m
+[92m[08:41:13]: Cell 3: food, food[0m
+[93m[08:41:13]: Found some food on cell 2[0m
+Forward
+[94m[08:41:13]: Forward[0m
+[92m[08:41:13]: ok[0m
+[94m[08:41:13]: Inventory[0m
+[92m[08:41:13]: 29, 0, 0, 0, 0, 0, 0[0m
+[93m[08:41:13]: Food level is below normal, searching some meat...[0m
+[94m[08:41:13]: Look[0m
+[92m[08:41:14]: Cell 0: player, food, sibur, mendiane[0m
+[92m[08:41:14]: Cell 1: food, food[0m
+[92m[08:41:14]: Cell 2: food, food, food[0m
+[92m[08:41:14]: Cell 3: food, food, food, food, food[0m
+[94m[08:41:14]: Take food[0m
+[92m[08:41:14]: ok[0m
+[94m[08:41:14]: Inventory[0m
+[92m[08:41:14]: 30, 0, 0, 0, 0, 0, 0[0m
+[94m[08:41:14]: Inventory[0m
+[92m[08:41:14]: 30, 0, 0, 0, 0, 0, 0[0m
+[93m[08:41:14]: Food level is below normal, searching some meat...[0m
+[94m[08:41:14]: Look[0m
+[92m[08:41:14]: Cell 0: player, sibur, mendiane[0m
+[92m[08:41:14]: Cell 1: food, food[0m
+[92m[08:41:14]: Cell 2: food, food, food[0m
+[92m[08:41:14]: Cell 3: food, food, food, food, food[0m
+[93m[08:41:14]: Found some food on cell 2[0m
+Forward
+[94m[08:41:14]: Forward[0m
+[92m[08:41:14]: ok[0m
+[94m[08:41:14]: Inventory[0m
+[92m[08:41:14]: 30, 0, 0, 0, 0, 0, 0[0m
+[93m[08:41:14]: Food level is below normal, searching some meat...[0m
+[94m[08:41:14]: Look[0m
+[92m[08:41:14]: Cell 0: player, food, food, food[0m
+[92m[08:41:14]: Cell 1: deraumere, phiras[0m
+[92m[08:41:14]: Cell 2: food, food[0m
+[92m[08:41:14]: Cell 3: sibur, sibur[0m
+[94m[08:41:14]: Take food[0m
+[92m[08:41:14]: ok[0m
+[94m[08:41:14]: Inventory[0m
+[92m[08:41:14]: 31, 0, 0, 0, 0, 0, 0[0m
+[94m[08:41:14]: Inventory[0m
+[92m[08:41:14]: 31, 0, 0, 0, 0, 0, 0[0m
+[93m[08:41:14]: Need some ressource (1, 0, 0, 0, 0, 0)[0m
+[94m[08:41:14]: Look[0m
+[92m[08:41:14]: Cell 0: player, food, food[0m
+[92m[08:41:14]: Cell 1: deraumere, phiras[0m
+[92m[08:41:14]: Cell 2: food, food[0m
+[92m[08:41:14]: Cell 3: sibur, sibur[0m
+[93m[08:41:14]: Can't find appropriate ressource here, going to a random position[0m
+[94m[08:41:14]: Left[0m
+[92m[08:41:14]: ok[0m
+[94m[08:41:14]: Inventory[0m
+[92m[08:41:14]: 30, 0, 0, 0, 0, 0, 0[0m
+[93m[08:41:14]: Need some ressource (1, 0, 0, 0, 0, 0)[0m
+[94m[08:41:14]: Look[0m
+[92m[08:41:14]: Cell 0: player, food, food[0m
+[92m[08:41:14]: Cell 1: food, food, food, phiras[0m
+[92m[08:41:14]: Cell 2: food, food[0m
+[92m[08:41:14]: Cell 3: deraumere, phiras[0m
+[93m[08:41:14]: Can't find appropriate ressource here, going to a random position[0m
+[94m[08:41:14]: Right[0m
+[92m[08:41:14]: ok[0m
+[94m[08:41:14]: Inventory[0m
+[92m[08:41:14]: 30, 0, 0, 0, 0, 0, 0[0m
+[93m[08:41:14]: Need some ressource (1, 0, 0, 0, 0, 0)[0m
+[94m[08:41:14]: Look[0m
+[92m[08:41:14]: Cell 0: player, food, food[0m
+[92m[08:41:14]: Cell 1: food, deraumere, phiras[0m
+[92m[08:41:14]: Cell 2: food, food[0m
+[92m[08:41:14]: Cell 3: sibur, sibur[0m
+[93m[08:41:14]: Can't find appropriate ressource here, going to a random position[0m
+[94m[08:41:14]: Left[0m
+[92m[08:41:14]: ok[0m
+[94m[08:41:14]: Inventory[0m
+[92m[08:41:14]: 30, 0, 0, 0, 0, 0, 0[0m
+[93m[08:41:14]: Need some ressource (1, 0, 0, 0, 0, 0)[0m
+[94m[08:41:14]: Look[0m
+[92m[08:41:14]: Cell 0: player, food, food[0m
+[92m[08:41:14]: Cell 1: food, food, food, phiras[0m
+[92m[08:41:14]: Cell 2: food, food[0m
+[92m[08:41:14]: Cell 3: food, deraumere, phiras[0m
+[93m[08:41:14]: Can't find appropriate ressource here, going to a random position[0m
+[94m[08:41:14]: Left[0m
+[92m[08:41:15]: ok[0m
+[94m[08:41:15]: Inventory[0m
+[92m[08:41:15]: 30, 0, 0, 0, 0, 0, 0[0m
+[93m[08:41:15]: Need some ressource (1, 0, 0, 0, 0, 0)[0m
+[94m[08:41:15]: Look[0m
+[92m[08:41:15]: Cell 0: player, food, food[0m
+[92m[08:41:15]: Cell 1: food, food[0m
+[92m[08:41:15]: Cell 2: sibur, mendiane[0m
+[92m[08:41:15]: Cell 3: food, food, food, phiras[0m
+[93m[08:41:15]: Can't find appropriate ressource here, going to a random position[0m
+[94m[08:41:15]: Forward[0m
+[92m[08:41:15]: ok[0m
+[94m[08:41:15]: Inventory[0m
+[92m[08:41:15]: 30, 0, 0, 0, 0, 0, 0[0m
+[93m[08:41:15]: Need some ressource (1, 0, 0, 0, 0, 0)[0m
+[94m[08:41:15]: Look[0m
+[92m[08:41:15]: Cell 0: player, sibur, mendiane[0m
+[92m[08:41:15]: Cell 1: food, food, food, food[0m
+[92m[08:41:15]: Cell 2: [0m
+[92m[08:41:15]: Cell 3: food, food, food, food, linemate, phiras[0m
+[93m[08:41:15]: linemate on 3[0m
+[93m[08:41:15]: Going Right to steal some linemate[0m
+[94m[08:41:15]: Right[0m
+[92m[08:41:15]: ok[0m
+[94m[08:41:15]: Forward[0m
+[92m[08:41:15]: ok[0m
+[94m[08:41:15]: Left[0m
+[92m[08:41:15]: ok[0m
+[94m[08:41:15]: Inventory[0m
+[92m[08:41:15]: 30, 0, 0, 0, 0, 0, 0[0m
+[93m[08:41:15]: Need some ressource (1, 0, 0, 0, 0, 0)[0m
+[94m[08:41:15]: Look[0m
+[92m[08:41:15]: Cell 0: player, food, food, food, phiras[0m
+[92m[08:41:15]: Cell 1: [0m
+[92m[08:41:15]: Cell 2: food, food, food, food, linemate, phiras[0m
+[92m[08:41:15]: Cell 3: food, food, food, food, deraumere, mendiane[0m
+[93m[08:41:15]: Found some food on cell 2[0m
+[93m[08:41:15]: Going Forward to steal some linemate[0m
+[94m[08:41:15]: Forward[0m
+[92m[08:41:15]: ok[0m
+[94m[08:41:15]: Inventory[0m
+[92m[08:41:15]: 30, 0, 0, 0, 0, 0, 0[0m
+[93m[08:41:15]: Need some ressource (1, 0, 0, 0, 0, 0)[0m
+[94m[08:41:15]: Look[0m
+[92m[08:41:15]: Cell 0: player, food, food, food, food, linemate, phiras[0m
+[92m[08:41:15]: Cell 1: deraumere, mendiane, mendiane, phiras[0m
+[92m[08:41:15]: Cell 2: food, mendiane[0m
+[92m[08:41:15]: Cell 3: food, food, linemate, linemate, sibur[0m
+[94m[08:41:15]: Take linemate[0m
+[92m[08:41:15]: ok[0m
+[94m[08:41:15]: Inventory[0m
+[92m[08:41:15]: 30, 1, 0, 0, 0, 0, 0[0m
+[94m[08:41:15]: Inventory[0m
+[92m[08:41:15]: 30, 1, 0, 0, 0, 0, 0[0m
+[93m[08:41:15]: It's time to level up Bobby![0m
+[94m[08:41:15]: Look[0m
+[92m[08:41:15]: Cell 0: player, food, food, food, food, phiras[0m
+[92m[08:41:15]: Cell 1: deraumere, mendiane, mendiane, phiras[0m
+[92m[08:41:15]: Cell 2: food, mendiane[0m
+[92m[08:41:15]: Cell 3: food, food, linemate, linemate, sibur[0m
+1 1 0
+[94m[08:41:15]: Look[0m
+[92m[08:41:15]: Cell 0: player, food, food, food, food, phiras[0m
+[92m[08:41:15]: Cell 1: deraumere, mendiane, mendiane, phiras[0m
+[92m[08:41:15]: Cell 2: food, mendiane[0m
+[92m[08:41:15]: Cell 3: food, food, linemate, linemate, sibur[0m
+[94m[08:41:15]: Take phiras[0m
+[92m[08:41:16]: ok[0m
+[94m[08:41:16]: Inventory[0m
+[92m[08:41:16]: 29, 1, 0, 0, 0, 1, 0[0m
+[94m[08:41:16]: Look[0m
+[92m[08:41:16]: Cell 0: player, food, food, food, food[0m
+[92m[08:41:16]: Cell 1: deraumere, mendiane, mendiane, phiras[0m
+[92m[08:41:16]: Cell 2: food, mendiane[0m
+[92m[08:41:16]: Cell 3: food, food, linemate, linemate, sibur[0m
+[94m[08:41:16]: Take food[0m
+[92m[08:41:16]: ok[0m
+[94m[08:41:16]: Inventory[0m
+[92m[08:41:16]: 30, 1, 0, 0, 0, 1, 0[0m
+[94m[08:41:16]: Look[0m
+[92m[08:41:16]: Cell 0: player, food, food, food[0m
+[92m[08:41:16]: Cell 1: deraumere, mendiane, mendiane, phiras[0m
+[92m[08:41:16]: Cell 2: food, mendiane[0m
+[92m[08:41:16]: Cell 3: food, food, linemate, linemate, sibur[0m
+[94m[08:41:16]: Take food[0m
+[92m[08:41:16]: ok[0m
+[94m[08:41:16]: Inventory[0m
+[92m[08:41:16]: 31, 1, 0, 0, 0, 1, 0[0m
+[94m[08:41:16]: Look[0m
+[92m[08:41:16]: Cell 0: player, food, food[0m
+[92m[08:41:16]: Cell 1: deraumere, mendiane, mendiane, phiras[0m[94m[08:41:15]: Associating localhost to 127.0.0.1[0m
+[94m[08:41:15]: Connected to 127.0.0.1:4242 [localhost][0m
+[95m[08:41:15]: WELCOME[0m
+[93m[08:41:15]: Retrieving player infos...[0m
+[93m[08:41:15]: Player team: jean-sebastien.herbaux@epitech.eu[0m
+[94m[08:41:15]: Inventory[0m
+[92m[08:41:15]: 9, 0, 0, 0, 0, 0, 0[0m
+[93m[08:41:15]: Food level is below normal, searching some meat...[0m
+[94m[08:41:15]: Look[0m
+[92m[08:41:15]: Cell 0: player, player, food, food, food, food[0m
+[92m[08:41:15]: Cell 1: food, food, sibur, mendiane[0m
+[92m[08:41:15]: Cell 2: food, food, food, food, food, linemate, deraumere[0m
+[92m[08:41:15]: Cell 3: food, food, food, deraumere, sibur, sibur, phiras[0m
+[94m[08:41:15]: Take food[0m
+[92m[08:41:15]: ok[0m
+[94m[08:41:15]: Inventory[0m
+[92m[08:41:15]: 10, 0, 0, 0, 0, 0, 0[0m
+[94m[08:41:15]: Inventory[0m
+[92m[08:41:15]: 10, 0, 0, 0, 0, 0, 0[0m
+[93m[08:41:15]: Food level is below normal, searching some meat...[0m
+[94m[08:41:15]: Look[0m
+[92m[08:41:15]: Cell 0: player, player, food, food, food[0m
+[92m[08:41:15]: Cell 1: food, food, sibur, mendiane[0m
+[92m[08:41:15]: Cell 2: food, food, food, food, food, linemate, deraumere[0m
+[92m[08:41:15]: Cell 3: food, food, food, deraumere, sibur, sibur, phiras[0m
+[94m[08:41:15]: Take food[0m
+[92m[08:41:15]: ok[0m
+[94m[08:41:15]: Inventory[0m
+[92m[08:41:15]: 11, 0, 0, 0, 0, 0, 0[0m
+[94m[08:41:15]: Inventory[0m
+[92m[08:41:15]: 11, 0, 0, 0, 0, 0, 0[0m
+[93m[08:41:15]: Food level is below normal, searching some meat...[0m
+[94m[08:41:15]: Look[0m
+[92m[08:41:15]: Cell 0: player, player, food, food[0m
+[92m[08:41:15]: Cell 1: food, food, sibur, mendiane[0m
+[92m[08:41:15]: Cell 2: food, food, food, food, food, linemate, deraumere[0m
+[92m[08:41:15]: Cell 3: food, food, food, deraumere, sibur, sibur, phiras[0m
+[94m[08:41:15]: Take food[0m
+[92m[08:41:15]: ok[0m
+[94m[08:41:15]: Inventory[0m
+[92m[08:41:15]: 12, 0, 0, 0, 0, 0, 0[0m
+[94m[08:41:15]: Inventory[0m
+[92m[08:41:15]: 12, 0, 0, 0, 0, 0, 0[0m
+[93m[08:41:15]: Food level is below normal, searching some meat...[0m
+[94m[08:41:15]: Look[0m
+[92m[08:41:15]: Cell 0: player, player[0m
+[92m[08:41:15]: Cell 1: food, food, sibur, mendiane[0m
+[92m[08:41:15]: Cell 2: food, food, food, food, food, linemate, deraumere[0m
+[92m[08:41:15]: Cell 3: food, food, food, deraumere, sibur, sibur, phiras[0m
+[93m[08:41:15]: Found some food on cell 2[0m
+Forward
+[94m[08:41:15]: Forward[0m
+[92m[08:41:15]: ok[0m
+[94m[08:41:15]: Inventory[0m
+[92m[08:41:15]: 12, 0, 0, 0, 0, 0, 0[0m
+[93m[08:41:15]: Food level is below normal, searching some meat...[0m
+[94m[08:41:15]: Look[0m
+[92m[08:41:15]: Cell 0: player, food, food, food, food, food, linemate, deraumere[0m
+[92m[08:41:15]: Cell 1: player, food, food, linemate, phiras[0m
+[92m[08:41:15]: Cell 2: mendiane[0m
+[92m[08:41:15]: Cell 3: food, food[0m
+[94m[08:41:15]: Take food[0m
+[92m[08:41:15]: ok[0m
+[94m[08:41:15]: Inventory[0m
+[92m[08:41:15]: 13, 0, 0, 0, 0, 0, 0[0m
+[94m[08:41:15]: Inventory[0m
+[92m[08:41:15]: 13, 0, 0, 0, 0, 0, 0[0m
+[93m[08:41:15]: Food level is below normal, searching some meat...[0m
+[94m[08:41:15]: Look[0m
+[92m[08:41:16]: Cell 0: player, food, food, food, food, linemate, deraumere, phiras[0m
+[92m[08:41:16]: Cell 1: player, food, linemate, phiras[0m
+[92m[08:41:16]: Cell 2: mendiane[0m
+[92m[08:41:16]: Cell 3: food, food[0m
+[94m[08:41:16]: Take food[0m
+[92m[08:41:16]: ok[0m
+[94m[08:41:16]: Inventory[0m
+[92m[08:41:16]: 14, 0, 0, 0, 0, 0, 0[0m
+[94m[08:41:16]: Inventory[0m
+[92m[08:41:16]: 14, 0, 0, 0, 0, 0, 0[0m
+[93m[08:41:16]: Food level is below normal, searching some meat...[0m
+[94m[08:41:16]: Look[0m
+[92m[08:41:16]: Cell 0: player, food, food, food, linemate, deraumere, phiras[0m
+[92m[08:41:16]: Cell 1: player, food, linemate, phiras[0m
+[92m[08:41:16]: Cell 2: mendiane[0m
+[92m[08:41:16]: Cell 3: food, food[0m
+[94m[08:41:16]: Take food[0m
+[92m[08:41:16]: ok[0m
+[94m[08:41:16]: Inventory[0m
+[92m[08:41:16]: 15, 0, 0, 0, 0, 0, 0[0m
+[94m[08:41:16]: Inventory[0m
+[92m[08:41:16]: 15, 0, 0, 0, 0, 0, 0[0m
+[93m[08:41:16]: Food level is below normal, searching some meat...[0m
+[94m[08:41:16]: Look[0m
+[92m[08:41:16]: Cell 0: player, food, food, linemate, deraumere, phiras[0m
+[92m[08:41:16]: Cell 1: player, food, phiras[0m
+[92m[08:41:16]: Cell 2: mendiane[0m
+[92m[08:41:16]: Cell 3: food, food[0m
+[94m[08:41:16]: Take food[0m
+[92m[08:41:16]: ok[0m
+[94m[08:41:16]: Inventory[0m
+[92m[08:41:16]: 15, 0, 0, 0, 0, 0, 0[0m
+[94m[08:41:16]: Inventory[0m
+[92m[08:41:16]: 15, 0, 0, 0, 0, 0, 0[0m
+[93m[08:41:16]: Food level is below normal, searching some meat...[0m
+[94m[08:41:16]: Look[0m
+[92m[08:41:16]: Cell 0: player, food, linemate, deraumere, phiras[0m
+[92m[08:41:16]: Cell 1: player, food, phiras[0m
+[92m[08:41:16]: Cell 2: mendiane[0m
+[92m[08:41:16]: Cell 3: food, food, food[0m
+[94m[08:41:16]: Take food[0m
+[92m[08:41:16]: ok[0m
+[94m[08:41:16]: Inventory[0m
+[92m[08:41:16]: 16, 0, 0, 0, 0, 0, 0[0m
+[94m[08:41:16]: Inventory[0m
+[92m[08:41:16]: 16, 0, 0, 0, 0, 0, 0[0m
+[93m[08:41:16]: Food level is below normal, searching some meat...[0m
+[94m[08:41:16]: Look[0m
+[92m[08:41:16]: Cell 0: player, linemate, deraumere, phiras[0m
+[92m[08:41:16]: Cell 1: player, food[0m
+[92m[08:41:16]: Cell 2: mendiane[0m
+[92m[08:41:16]: Cell 3: food, food, food[0m
+[93m[08:41:16]: food on 1[0m
+Left
+[94m[08:41:16]: Left[0m
+[92m[08:41:16]: ok[0m
+[94m[08:41:16]: Forward[0m
+[92m[08:41:16]: ok[0m
+[94m[08:41:16]: Right[0m
+[92m[08:41:16]: ok[0m
+[94m[08:41:16]: Inventory[0m
+[92m[08:41:16]: 16, 0, 0, 0, 0, 0, 0[0m
+[93m[08:41:16]: Food level is below normal, searching some meat...[0m
+[94m[08:41:16]: Look[0m
+[92m[08:41:16]: Cell 0: player, food, food, sibur, mendiane[0m
+[92m[08:41:16]: Cell 1: food, food[0m
+[92m[08:41:16]: Cell 2: player, linemate[0m
+[92m[08:41:16]: Cell 3: mendiane[0m
+[94m[08:41:16]: Take food[0m
+[92m[08:41:17]: ok[0m
+[94m[08:41:17]: Inventory[0m
+[92m[08:41:17]: 17, 0, 0, 0, 0, 0, 0[0m
+[94m[08:41:17]: Inventory[0m
+[92m[08:41:17]: 17, 0, 0, 0, 0, 0, 0[0m
+[93m[08:41:17]: Food level is below normal, searching some meat...[0m
+[94m[08:41:17]: Look[0m
+[92m[08:41:17]: Cell 0: player, food, sibur, mendiane[0m
+[92m[08:41:17]: Cell 1: food, food[0m
+[92m[08:41:17]: Cell 2: player, linemate[0m
+[92m[08:41:17]: Cell 3: mendiane[0m
+[94m[08:41:17]: Take food[0m
+[92m[08:41:17]: ok[0m
+[94m[08:41:17]: Inventory[0m
+[92m[08:41:17]: 18, 0, 0, 0, 0, 0, 0[0m
+[94m[08:41:17]: Inventory[0m
+[92m[08:41:17]: 18, 0, 0, 0, 0, 0, 0[0m
+[93m[08:41:17]: Food level is below normal, searching some meat...[0m
+[94m[08:41:17]: Look[0m
+[92m[08:41:17]: Cell 0: player, sibur, mendiane[0m
+[92m[08:41:17]: Cell 1: food, food[0m
+[92m[08:41:17]: Cell 2: player, linemate[0m
+[92m[08:41:17]: Cell 3: mendiane[0m
+[93m[08:41:17]: food on 1[0m
+Left
+[94m[08:41:17]: Left[0m
+[92m[08:41:17]: ok[0m
+[94m[08:41:17]: Forward[0m
+[92m[08:41:17]: ok[0m
+[94m[08:41:17]: Right[0m
+[92m[08:41:17]: ok[0m
+[94m[08:41:17]: Inventory[0m
+[92m[08:41:17]: 18, 0, 0, 0, 0, 0, 0[0m
+[93m[08:41:17]: Food level is below normal, searching some meat...[0m
+[94m[08:41:17]: Look[0m
+[92m[08:41:17]: Cell 0: player, food, deraumere, phiras[0m
+[92m[08:41:17]: Cell 1: food, sibur, sibur[0m
+[92m[08:41:17]: Cell 2: food, food[0m
+[92m[08:41:17]: Cell 3: player, linemate[0m
+[94m[08:41:17]: Take food[0m
+[92m[08:41:17]: ok[0m
+[94m[08:41:17]: Inventory[0m
+[92m[08:41:17]: 19, 0, 0, 0, 0, 0, 0[0m
+[94m[08:41:17]: Inventory[0m
+[92m[08:41:17]: 18, 0, 0, 0, 0, 0, 0[0m
+[93m[08:41:17]: Food level is below normal, searching some meat...[0m
+[94m[08:41:17]: Look[0m
+[92m[08:41:17]: Cell 0: player, deraumere, phiras[0m
+[92m[08:41:17]: Cell 1: food, sibur, sibur[0m
+[92m[08:41:17]: Cell 2: food, food[0m
+[92m[08:41:17]: Cell 3: player, linemate[0m
+[93m[08:41:17]: Found some food on cell 2[0m
+Forward
+[94m[08:41:17]: Forward[0m
+[92m[08:41:17]: ok[0m
+[94m[08:41:17]: Inventory[0m
+[92m[08:41:17]: 18, 0, 0, 0, 0, 0, 0[0m
+[92m[08:41:14]: Cell 3: food, food, food, deraumere, sibur, sibur, phiras[0m
+[92m[08:41:14]: Cell 4: food[0m
+[92m[08:41:14]: Cell 5: food, food, food, linemate, phiras[0m
+[92m[08:41:14]: Cell 6: food, food, food, mendiane[0m
+[92m[08:41:14]: Cell 7: player[0m
+[92m[08:41:14]: Cell 8: linemate, deraumere[0m
+2 1 1
+[94m[08:41:14]: Inventory[0m
+[92m[08:41:14]: 22, 1, 1, 1, 0, 0, 0[0m
+[93m[08:41:14]: It's time to level up Bobby![0m
+[94m[08:41:14]: Look[0m
+[92m[08:41:14]: Cell 0: player, food, food, food, food[0m
+[92m[08:41:14]: Cell 1: food, food, sibur, mendiane[0m
+[92m[08:41:14]: Cell 2: food, food, food, linemate, deraumere[0m
+[92m[08:41:14]: Cell 3: food, food, food, deraumere, sibur, sibur, phiras[0m
+[92m[08:41:14]: Cell 4: food[0m
+[92m[08:41:14]: Cell 5: food, food, food, linemate, phiras[0m
+[92m[08:41:14]: Cell 6: food, food, food, mendiane[0m
+[92m[08:41:14]: Cell 7: player[0m
+[92m[08:41:14]: Cell 8: linemate, deraumere[0m
+2 1 1
+[94m[08:41:14]: Inventory[0m
+[92m[08:41:14]: 22, 1, 1, 1, 0, 0, 0[0m
+[93m[08:41:14]: It's time to level up Bobby![0m
+[94m[08:41:14]: Look[0m
+[92m[08:41:14]: Cell 0: player, food, food, food, food[0m
+[92m[08:41:14]: Cell 1: food, food, sibur, mendiane[0m
+[92m[08:41:14]: Cell 2: food, food, food, linemate, deraumere[0m
+[92m[08:41:14]: Cell 3: food, food, food, deraumere, sibur, sibur, phiras[0m
+[92m[08:41:14]: Cell 4: food[0m
+[92m[08:41:14]: Cell 5: food, food, food, linemate, phiras[0m
+[92m[08:41:14]: Cell 6: player, food, food, food, mendiane[0m
+[92m[08:41:14]: Cell 7: [0m
+[92m[08:41:14]: Cell 8: linemate, deraumere[0m
+2 1 1
+[94m[08:41:14]: Inventory[0m
+[92m[08:41:14]: 22, 1, 1, 1, 0, 0, 0[0m
+[93m[08:41:14]: It's time to level up Bobby![0m
+[94m[08:41:14]: Look[0m
+[92m[08:41:14]: Cell 0: player, food, food, food, food[0m
+[92m[08:41:14]: Cell 1: food, food, sibur, mendiane[0m
+[92m[08:41:14]: Cell 2: food, food, food, linemate, deraumere[0m
+[92m[08:41:14]: Cell 3: food, food, food, deraumere, sibur, sibur, phiras[0m
+[92m[08:41:14]: Cell 4: food[0m
+[92m[08:41:14]: Cell 5: food, food, food, linemate, phiras[0m
+[92m[08:41:14]: Cell 6: player, food, food, food, mendiane[0m
+[92m[08:41:14]: Cell 7: [0m
+[92m[08:41:14]: Cell 8: linemate, deraumere[0m
+2 1 1
+[94m[08:41:14]: Inventory[0m
+[92m[08:41:15]: 22, 1, 1, 1, 0, 0, 0[0m
+[93m[08:41:15]: It's time to level up Bobby![0m
+[94m[08:41:15]: Look[0m
+[92m[08:41:15]: Cell 0: player, food, food, food, food[0m
+[92m[08:41:15]: Cell 1: food, food, sibur, mendiane[0m
+[92m[08:41:15]: Cell 2: food, food, food, linemate, deraumere[0m
+[92m[08:41:15]: Cell 3: food, food, food, deraumere, sibur, sibur, phiras[0m
+[92m[08:41:15]: Cell 4: food[0m
+[92m[08:41:15]: Cell 5: food, food, food, linemate, phiras[0m
+[92m[08:41:15]: Cell 6: player, food, food, mendiane[0m
+[92m[08:41:15]: Cell 7: [0m
+[92m[08:41:15]: Cell 8: linemate, deraumere[0m
+2 1 1
+[93m[08:41:15]: Lem smash Bobby![0m
+[94m[08:41:15]: Fork[0m
+[92m[08:41:15]: ok[0m
+[94m[08:41:15]: Inventory[0m
+[92m[08:41:15]: 22, 1, 1, 1, 0, 0, 0[0m
+[93m[08:41:15]: It's time to level up Bobby![0m
+[94m[08:41:15]: Look[0m
+[92m[08:41:15]: Cell 0: player, player, food, food[0m
+[92m[08:41:15]: Cell 1: food, food, sibur, mendiane[0m
+[92m[08:41:15]: Cell 2: food, food, food, food, food, linemate, deraumere[0m
+[92m[08:41:15]: Cell 3: food, food, food, deraumere, sibur, sibur, phiras[0m
+[92m[08:41:15]: Cell 4: food, food[0m
+[92m[08:41:15]: Cell 5: player, food, food, food, food, linemate, phiras[0m
+[92m[08:41:15]: Cell 6: mendiane[0m
+[92m[08:41:15]: Cell 7: food[0m
+[92m[08:41:15]: Cell 8: food, linemate, deraumere[0m
+2 2 0
+[94m[08:41:15]: Look[0m
+[92m[08:41:15]: Cell 0: player, player, food[0m
+[92m[08:41:15]: Cell 1: food, food, sibur, mendiane[0m
+[92m[08:41:15]: Cell 2: food, food, food, food, food, linemate, deraumere[0m
+[92m[08:41:15]: Cell 3: food, food, food, deraumere, sibur, sibur, phiras[0m
+[92m[08:41:15]: Cell 4: food, food[0m
+[92m[08:41:15]: Cell 5: player, food, food, food, food, linemate, phiras[0m
+[92m[08:41:15]: Cell 6: mendiane[0m
+[92m[08:41:15]: Cell 7: food[0m
+[92m[08:41:15]: Cell 8: food, linemate, deraumere[0m
+[94m[08:41:15]: Take food[0m
+[92m[08:41:15]: ok[0m
+[94m[08:41:15]: Inventory[0m
+[92m[08:41:15]: 23, 1, 1, 1, 0, 0, 0[0m
+[94m[08:41:15]: Look[0m
+[92m[08:41:15]: Cell 0: player, player[0m
+[92m[08:41:15]: Cell 1: food, food, sibur, mendiane[0m
+[92m[08:41:15]: Cell 2: food, food, food, food, food, linemate, deraumere[0m
+[92m[08:41:15]: Cell 3: food, food, food, deraumere, sibur, sibur, phiras[0m
+[92m[08:41:15]: Cell 4: food, food[0m
+[92m[08:41:15]: Cell 5: player, food, food, food, linemate, phiras[0m
+[92m[08:41:15]: Cell 6: mendiane[0m
+[92m[08:41:15]: Cell 7: food[0m
+[92m[08:41:15]: Cell 8: food, linemate, deraumere[0m
+[94m[08:41:15]: Set linemate[0m
+[92m[08:41:15]: ok[0m
+[94m[08:41:15]: Inventory[0m
+[92m[08:41:15]: 22, 0, 1, 1, 0, 0, 0[0m
+[94m[08:41:15]: Set deraumere[0m
+[92m[08:41:15]: ok[0m
+[94m[08:41:15]: Inventory[0m
+[92m[08:41:15]: 22, 0, 0, 1, 0, 0, 0[0m
+[94m[08:41:15]: Set sibur[0m
+[92m[08:41:16]: ok[0m
+[94m[08:41:16]: Inventory[0m
+[92m[08:41:16]: 22, 0, 0, 0, 0, 0, 0[0m
+[94m[08:41:16]: Incantation[0m
+[92m[08:41:16]: ko[0m
+[94m[08:41:19]: Inventory[0m
+[92m[08:41:19]: 20, 0, 0, 0, 0, 0, 0[0m
+[93m[08:41:19]: Need some ressource (1, 1, 1, 0, 0, 0)[0m
+[94m[08:41:19]: Look[0m
+[92m[08:41:19]: Cell 0: player, linemate, deraumere, sibur[0m
+[92m[08:41:19]: Cell 1: sibur, mendiane[0m
+[92m[08:41:19]: Cell 2: food, linemate, deraumere, phiras[0m
+[92m[08:41:19]: Cell 3: food, food, food, food, deraumere, sibur, sibur, phiras[0m
+[92m[08:41:19]: Cell 4: [0m
+[92m[08:41:19]: Cell 5: player, linemate[0m
+[92m[08:41:19]: Cell 6: mendiane[0m
+[92m[08:41:19]: Cell 7: food, food, food[0m
+[92m[08:41:19]: Cell 8: food, linemate, deraumere[0m
+[94m[08:41:19]: Take linemate[0m
+[92m[08:41:19]: ok[0m
+[94m[08:41:19]: Inventory[0m
+[92m[08:41:19]: 20, 1, 0, 0, 0, 0, 0[0m
+[94m[08:41:19]: Inventory[0m
+[92m[08:41:19]: 20, 1, 0, 0, 0, 0, 0[0m
+[93m[08:41:19]: Need some ressource (0, 1, 1, 0, 0, 0)[0m
+[94m[08:41:19]: Look[0m
+[92m[08:41:19]: Cell 0: player, deraumere, sibur[0m
+[92m[08:41:19]: Cell 1: sibur, mendiane[0m
+[92m[08:41:19]: Cell 2: food, linemate, deraumere, phiras[0m
+[92m[08:41:19]: Cell 3: food, food, food, food, deraumere, sibur, sibur, phiras[0m
+[92m[08:41:19]: Cell 4: food[0m
+[92m[08:41:19]: Cell 5: player, linemate[0m
+[92m[08:41:19]: Cell 6: mendiane[0m
+[92m[08:41:19]: Cell 7: food, food, food[0m
+[92m[08:41:19]: Cell 8: food, linemate, deraumere[0m
+[94m[08:41:19]: Take deraumere[0m
+[92m[08:41:19]: ok[0m
+[94m[08:41:19]: Inventory[0m
+[92m[08:41:19]: 20, 1, 1, 0, 0, 0, 0[0m
+[94m[08:41:19]: Inventory[0m
+[92m[08:41:19]: 20, 1, 1, 0, 0, 0, 0[0m
+[93m[08:41:19]: Need some ressource (0, 0, 1, 0, 0, 0)[0m
+[94m[08:41:19]: Look[0m
+[92m[08:41:19]: Cell 0: player, sibur[0m
+[92m[08:41:19]: Cell 1: sibur, mendiane[0m
+[92m[08:41:19]: Cell 2: food, food, linemate, deraumere, phiras[0m
+[92m[08:41:19]: Cell 3: food, food, food, food, deraumere, sibur, sibur, phiras[0m
+[92m[08:41:19]: Cell 4: food[0m
+[92m[08:41:19]: Cell 5: player, linemate[0m
+[92m[08:41:19]: Cell 6: mendiane[0m
+[92m[08:41:19]: Cell 7: food, food, food[0m
+[92m[08:41:19]: Cell 8: food, linemate, deraumere[0m
+[94m[08:41:19]: Take sibur[0m
+[92m[08:41:19]: ok[0m
+[94m[08:41:19]: Inventory[0m
+[92m[08:41:19]: 20, 1, 1, 1, 0, 0, 0[0m
+[94m[08:41:19]: Inventory[0m
+[92m[08:41:19]: 20, 1, 1, 1, 0, 0, 0[0m
+[93m[08:41:19]: It's time to level up Bobby![0m
+[94m[08:41:19]: Look[0m
+[92m[08:41:19]: Cell 0: player[0m
+[92m[08:41:19]: Cell 1: sibur, mendiane[0m
+[92m[08:41:19]: Cell 2: food, food, linemate, deraumere, phiras[0m
+[92m[08:41:19]: Cell 3: food, food, food, food, deraumere, sibur, sibur, phiras[0m
+[92m[08:41:19]: Cell 4: food[0m
+[92m[08:41:19]: Cell 5: player, linemate[0m
+[92m[08:41:19]: Cell 6: mendiane[0m
+[92m[08:41:19]: Cell 7: food, food, food[0m
+[92m[08:41:19]: Cell 8: food, linemate, deraumere[0m
+[93m[08:41:17]: Food level is below normal, searching some meat...[0m
+[94m[08:41:17]: Look[0m
+[92m[08:41:17]: Cell 0: player, food, food[0m
+[92m[08:41:17]: Cell 1: [0m
+[92m[08:41:17]: Cell 2: food, mendiane[0m
+[92m[08:41:17]: Cell 3: food, food[0m
+[94m[08:41:17]: Take food[0m
+[92m[08:41:17]: ok[0m
+[94m[08:41:17]: Inventory[0m
+[92m[08:41:17]: 19, 0, 0, 0, 0, 0, 0[0m
+[94m[08:41:17]: Inventory[0m
+[92m[08:41:18]: 19, 0, 0, 0, 0, 0, 0[0m
+[93m[08:41:18]: Food level is below normal, searching some meat...[0m
+[94m[08:41:18]: Look[0m
+[92m[08:41:18]: Cell 0: player, food[0m
+[92m[08:41:18]: Cell 1: [0m
+[92m[08:41:18]: Cell 2: food, mendiane[0m
+[92m[08:41:18]: Cell 3: food, food[0m
+[94m[08:41:18]: Take food[0m
+[92m[08:41:18]: ok[0m
+[94m[08:41:18]: Inventory[0m
+[92m[08:41:18]: 20, 0, 0, 0, 0, 0, 0[0m
+[94m[08:41:18]: Inventory[0m
+[92m[08:41:18]: 20, 0, 0, 0, 0, 0, 0[0m
+[93m[08:41:18]: Food level is below normal, searching some meat...[0m
+[94m[08:41:18]: Look[0m
+[92m[08:41:18]: Cell 0: player[0m
+[92m[08:41:18]: Cell 1: [0m
+[92m[08:41:18]: Cell 2: food, mendiane[0m
+[92m[08:41:18]: Cell 3: food, food[0m
+[93m[08:41:18]: Found some food on cell 2[0m
+Forward
+[94m[08:41:18]: Forward[0m
+[92m[08:41:18]: ok[0m
+[94m[08:41:18]: Inventory[0m
+[92m[08:41:18]: 20, 0, 0, 0, 0, 0, 0[0m
+[93m[08:41:18]: Food level is below normal, searching some meat...[0m
+[94m[08:41:18]: Look[0m
+[92m[08:41:18]: Cell 0: player, food, mendiane[0m
+[92m[08:41:18]: Cell 1: food, food, linemate, linemate, sibur[0m
+[92m[08:41:18]: Cell 2: food, mendiane[0m
+[92m[08:41:18]: Cell 3: deraumere, mendiane, mendiane, phiras[0m
+[94m[08:41:18]: Take food[0m
+[92m[08:41:18]: ok[0m
+[94m[08:41:18]: Inventory[0m
+[92m[08:41:18]: 21, 0, 0, 0, 0, 0, 0[0m
+[94m[08:41:18]: Inventory[0m
+[92m[08:41:18]: 21, 0, 0, 0, 0, 0, 0[0m
+[93m[08:41:18]: Food level is below normal, searching some meat...[0m
+[94m[08:41:18]: Look[0m
+[92m[08:41:18]: Cell 0: player, mendiane[0m
+[92m[08:41:18]: Cell 1: food, food, linemate, linemate, sibur[0m
+[92m[08:41:18]: Cell 2: food, mendiane[0m
+[92m[08:41:18]: Cell 3: deraumere, mendiane, mendiane, phiras[0m
+[93m[08:41:18]: Found some food on cell 2[0m
+Forward
+[94m[08:41:18]: Forward[0m
+[92m[08:41:18]: ok[0m
+[94m[08:41:18]: Inventory[0m
+[92m[08:41:18]: 21, 0, 0, 0, 0, 0, 0[0m
+[93m[08:41:18]: Food level is below normal, searching some meat...[0m
+[94m[08:41:18]: Look[0m
+[92m[08:41:18]: Cell 0: player, food, mendiane[0m
+[92m[08:41:18]: Cell 1: food, food, food, food, food, deraumere, mendiane[0m
+[92m[08:41:18]: Cell 2: player, linemate[0m
+[92m[08:41:18]: Cell 3: linemate[0m
+[94m[08:41:18]: Take food[0m
+[92m[08:41:18]: ok[0m
+[94m[08:41:18]: Inventory[0m
+[92m[08:41:18]: 22, 0, 0, 0, 0, 0, 0[0m
+[94m[08:41:18]: Inventory[0m
+[92m[08:41:18]: 22, 0, 0, 0, 0, 0, 0[0m
+[93m[08:41:18]: Food level is below normal, searching some meat...[0m
+[94m[08:41:18]: Look[0m
+[92m[08:41:18]: Cell 0: player, mendiane[0m
+[92m[08:41:18]: Cell 1: food, food, food, food, food, deraumere, mendiane[0m
+[92m[08:41:18]: Cell 2: player, linemate[0m
+[92m[08:41:18]: Cell 3: linemate[0m
+[93m[08:41:18]: food on 1[0m
+Left
+[94m[08:41:18]: Left[0m
+[92m[08:41:18]: ok[0m
+[94m[08:41:18]: Forward[0m
+[92m[08:41:19]: ok[0m
+[94m[08:41:19]: Right[0m
+[92m[08:41:19]: ok[0m
+[94m[08:41:19]: Inventory[0m
+[92m[08:41:19]: 21, 0, 0, 0, 0, 0, 0[0m
+[93m[08:41:19]: Food level is below normal, searching some meat...[0m
+[94m[08:41:19]: Look[0m
+[92m[08:41:19]: Cell 0: player, food, food, linemate, linemate, sibur[0m
+[92m[08:41:19]: Cell 1: food, food, food, thystame[0m
+[92m[08:41:19]: Cell 2: food, food, food, food, food, deraumere, mendiane[0m
+[92m[08:41:19]: Cell 3: player, linemate[0m
+[94m[08:41:19]: Take food[0m
+[92m[08:41:19]: ok[0m
+[94m[08:41:19]: Inventory[0m
+[92m[08:41:19]: 22, 0, 0, 0, 0, 0, 0[0m
+[94m[08:41:19]: Inventory[0m
+[92m[08:41:19]: 22, 0, 0, 0, 0, 0, 0[0m
+[93m[08:41:19]: Food level is below normal, searching some meat...[0m
+[94m[08:41:19]: Look[0m
+[92m[08:41:19]: Cell 0: player, food, linemate, linemate, sibur[0m
+[92m[08:41:19]: Cell 1: food, food, food, thystame[0m
+[92m[08:41:19]: Cell 2: food, food, food, food, food, deraumere, mendiane[0m
+[92m[08:41:19]: Cell 3: player, linemate[0m
+[94m[08:41:19]: Take food[0m
+[92m[08:41:19]: ok[0m
+[94m[08:41:19]: Inventory[0m
+[92m[08:41:19]: 23, 0, 0, 0, 0, 0, 0[0m
+[94m[08:41:19]: Inventory[0m
+[92m[08:41:19]: 23, 0, 0, 0, 0, 0, 0[0m
+[93m[08:41:19]: Food level is below normal, searching some meat...[0m
+[94m[08:41:19]: Look[0m
+[92m[08:41:19]: Cell 0: player, linemate, linemate, sibur[0m
+[92m[08:41:19]: Cell 1: food, food, food, thystame[0m
+[92m[08:41:19]: Cell 2: food, food, food, food, food, deraumere, mendiane[0m
+[92m[08:41:19]: Cell 3: player, linemate[0m
+[93m[08:41:19]: Found some food on cell 2[0m
+Forward
+[94m[08:41:19]: Forward[0m
+[92m[08:41:19]: ok[0m
+[94m[08:41:19]: Inventory[0m
+[92m[08:41:19]: 23, 0, 0, 0, 0, 0, 0[0m
+[93m[08:41:19]: Food level is below normal, searching some meat...[0m
+[94m[08:41:19]: Look[0m
+[92m[08:41:19]: Cell 0: player, food, food, food, food, food, deraumere, mendiane[0m
+[92m[08:41:19]: Cell 1: food[0m
+[92m[08:41:19]: Cell 2: food, food, food, food, thystame[0m
+[92m[08:41:19]: Cell 3: food, food, food, food, food, phiras[0m
+[94m[08:41:19]: Take food[0m
+[92m[08:41:19]: ok[0m
+[94m[08:41:19]: Inventory[0m
+[92m[08:41:19]: 24, 0, 0, 0, 0, 0, 0[0m
+[94m[08:41:19]: Inventory[0m
+[92m[08:41:19]: 24, 0, 0, 0, 0, 0, 0[0m
+[93m[08:41:19]: Food level is below normal, searching some meat...[0m
+[94m[08:41:19]: Look[0m
+[92m[08:41:19]: Cell 0: player, food, food, food, food, deraumere, mendiane[0m
+[92m[08:41:19]: Cell 1: food[0m
+[92m[08:41:19]: Cell 2: food, food, food, food, thystame[0m
+[92m[08:41:19]: Cell 3: food, food, food, food, food, phiras[0m
+[94m[08:41:19]: Take food[0m
+[92m[08:41:19]: ok[0m
+[94m[08:41:19]: Inventory[0m
+[92m[08:41:19]: 25, 0, 0, 0, 0, 0, 0[0m
+[94m[08:41:19]: Inventory[0m
+[92m[08:41:19]: 25, 0, 0, 0, 0, 0, 0[0m
+[93m[08:41:19]: Food level is below normal, searching some meat...[0m
+[94m[08:41:19]: Look[0m
+[92m[08:41:19]: Cell 0: player, food, food, food, deraumere, mendiane[0m
+[92m[08:41:19]: Cell 1: food[0m
+[92m[08:41:19]: Cell 2: food, food, food, food, thystame[0m
+[92m[08:41:19]: Cell 3: food, food, food, food, food, phiras[0m
+[94m[08:41:19]: Take food[0m
+[92m[08:41:20]: ok[0m
+[94m[08:41:20]: Inventory[0m
+[92m[08:41:20]: 26, 0, 0, 0, 0, 0, 0[0m
+[94m[08:41:20]: Inventory[0m
+[92m[08:41:20]: 26, 0, 0, 0, 0, 0, 0[0m
+[93m[08:41:20]: Food level is below normal, searching some meat...[0m
+[94m[08:41:20]: Look[0m
+[92m[08:41:20]: Cell 0: player, food, food, deraumere, mendiane[0m
+[92m[08:41:20]: Cell 1: food[0m
+[92m[08:41:20]: Cell 2: food, food, food, food, thystame[0m
+[92m[08:41:20]: Cell 3: food, food, food, food, food, phiras[0m
+[94m[08:41:20]: Take food[0m
+[92m[08:41:20]: ok[0m
+[94m[08:41:20]: Inventory[0m
+[92m[08:41:20]: 27, 0, 0, 0, 0, 0, 0[0m
+[94m[08:41:20]: Inventory[0m
+[92m[08:41:20]: 26, 0, 0, 0, 0, 0, 0[0m
+[93m[08:41:20]: Food level is below normal, searching some meat...[0m
+[94m[08:41:20]: Look[0m
+[92m[08:41:20]: Cell 0: player, food, deraumere, mendiane[0m
+[92m[08:41:20]: Cell 1: food[0m
+[92m[08:41:20]: Cell 2: food, food, food, food, thystame[0m
+[92m[08:41:20]: Cell 3: food, food, food, food, food, phiras[0m
+[94m[08:41:20]: Take food[0m
+[92m[08:41:20]: ok[0m
+[94m[08:41:20]: Inventory[0m
+[92m[08:41:20]: 27, 0, 0, 0, 0, 0, 0[0m
+[94m[08:41:20]: Inventory[0m
+[92m[08:41:20]: 27, 0, 0, 0, 0, 0, 0[0m
+[93m[08:41:20]: Food level is below normal, searching some meat...[0m
+[94m[08:41:20]: Look[0m
+[92m[08:41:20]: Cell 0: player, deraumere, mendiane[0m
+[92m[08:41:20]: Cell 1: food[0m
+[92m[08:41:20]: Cell 2: food, food, food, food, thystame[0m
+[92m[08:41:20]: Cell 3: food, food, food, food, food, phiras[0m
+[93m[08:41:20]: Found some food on cell 2[0m
+Forward
+[94m[08:41:20]: Forward[0m
+[92m[08:41:20]: ok[0m
+2 1 1
+[94m[08:41:19]: Inventory[0m
+[92m[08:41:19]: 19, 1, 1, 1, 0, 0, 0[0m
+[93m[08:41:19]: It's time to level up Bobby![0m
+[94m[08:41:19]: Look[0m
+[92m[08:41:19]: Cell 0: player[0m
+[92m[08:41:19]: Cell 1: sibur, mendiane[0m
+[92m[08:41:19]: Cell 2: food, food, linemate, deraumere, phiras[0m
+[92m[08:41:19]: Cell 3: food, food, food, food, deraumere, sibur, sibur, phiras[0m
+[92m[08:41:19]: Cell 4: food[0m
+[92m[08:41:19]: Cell 5: player, linemate[0m
+[92m[08:41:19]: Cell 6: mendiane[0m
+[92m[08:41:19]: Cell 7: food, food, food[0m
+[92m[08:41:19]: Cell 8: food, linemate, deraumere[0m
+2 1 1
+[94m[08:41:19]: Inventory[0m
+[92m[08:41:19]: 19, 1, 1, 1, 0, 0, 0[0m
+[93m[08:41:19]: It's time to level up Bobby![0m
+[94m[08:41:19]: Look[0m
+[92m[08:41:19]: Cell 0: player[0m
+[92m[08:41:19]: Cell 1: sibur, mendiane[0m
+[92m[08:41:19]: Cell 2: food, food, linemate, deraumere, phiras[0m
+[92m[08:41:19]: Cell 3: food, food, food, food, deraumere, sibur, sibur, phiras[0m
+[92m[08:41:19]: Cell 4: food[0m
+[92m[08:41:19]: Cell 5: player, linemate[0m
+[92m[08:41:19]: Cell 6: mendiane[0m
+[92m[08:41:19]: Cell 7: food, food, food[0m
+[92m[08:41:19]: Cell 8: food, linemate, deraumere[0m
+2 1 1
+[94m[08:41:19]: Inventory[0m
+[92m[08:41:19]: 19, 1, 1, 1, 0, 0, 0[0m
+[93m[08:41:19]: It's time to level up Bobby![0m
+[94m[08:41:19]: Look[0m
+[92m[08:41:19]: Cell 0: player[0m
+[92m[08:41:19]: Cell 1: sibur, mendiane[0m
+[92m[08:41:19]: Cell 2: food, food, linemate, deraumere, phiras[0m
+[92m[08:41:19]: Cell 3: food, food, food, food, deraumere, sibur, sibur, phiras[0m
+[92m[08:41:19]: Cell 4: food[0m
+[92m[08:41:19]: Cell 5: player, linemate[0m
+[92m[08:41:19]: Cell 6: mendiane[0m
+[92m[08:41:19]: Cell 7: food, food, food[0m
+[92m[08:41:19]: Cell 8: food, linemate, deraumere[0m
+2 1 1
+[94m[08:41:19]: Inventory[0m
+[92m[08:41:19]: 19, 1, 1, 1, 0, 0, 0[0m
+[93m[08:41:19]: It's time to level up Bobby![0m
+[94m[08:41:19]: Look[0m
+[92m[08:41:19]: Cell 0: player[0m
+[92m[08:41:19]: Cell 1: sibur, mendiane[0m
+[92m[08:41:19]: Cell 2: food, food, linemate, deraumere, phiras[0m
+[92m[08:41:19]: Cell 3: food, food, food, food, deraumere, sibur, sibur, phiras[0m
+[92m[08:41:19]: Cell 4: food[0m
+[92m[08:41:19]: Cell 5: player, linemate[0m
+[92m[08:41:19]: Cell 6: mendiane[0m
+[92m[08:41:19]: Cell 7: food, food, food[0m
+[92m[08:41:19]: Cell 8: food, linemate, deraumere[0m
+2 1 1
+[94m[08:41:19]: Inventory[0m
+[92m[08:41:19]: 19, 1, 1, 1, 0, 0, 0[0m
+[93m[08:41:19]: It's time to level up Bobby![0m
+[94m[08:41:19]: Look[0m
+[92m[08:41:20]: Cell 0: player[0m
+[92m[08:41:20]: Cell 1: sibur, mendiane[0m
+[92m[08:41:20]: Cell 2: food, food, linemate, deraumere, phiras[0m
+[92m[08:41:20]: Cell 3: food, food, food, food, deraumere, sibur, sibur, phiras[0m
+[92m[08:41:20]: Cell 4: food[0m
+[92m[08:41:20]: Cell 5: player, linemate[0m
+[92m[08:41:20]: Cell 6: mendiane[0m
+[92m[08:41:20]: Cell 7: food, food, food[0m
+[92m[08:41:20]: Cell 8: food, linemate, deraumere[0m
+2 1 1
+[94m[08:41:20]: Inventory[0m
+[92m[08:41:20]: 19, 1, 1, 1, 0, 0, 0[0m
+[93m[08:41:20]: It's time to level up Bobby![0m
+[94m[08:41:20]: Look[0m
+[92m[08:41:20]: Cell 0: player[0m
+[92m[08:41:20]: Cell 1: sibur, mendiane[0m
+[92m[08:41:20]: Cell 2: food, food, linemate, deraumere, phiras[0m
+[92m[08:41:20]: Cell 3: food, food, food, food, deraumere, sibur, sibur, phiras[0m
+[92m[08:41:20]: Cell 4: food[0m
+[92m[08:41:20]: Cell 5: player[0m
+[92m[08:41:20]: Cell 6: mendiane[0m
+[92m[08:41:20]: Cell 7: food, food, food[0m
+[92m[08:41:20]: Cell 8: food, linemate, deraumere[0m
+2 1 1
+[94m[08:41:20]: Inventory[0m
+[92m[08:41:20]: 19, 1, 1, 1, 0, 0, 0[0m
+[93m[08:41:20]: It's time to level up Bobby![0m
+[94m[08:41:20]: Look[0m
+[92m[08:41:20]: Cell 0: player[0m
+[92m[08:41:20]: Cell 1: sibur, mendiane[0m
+[92m[08:41:20]: Cell 2: food, food, linemate, deraumere, phiras[0m
+[92m[08:41:20]: Cell 3: food, food, food, food, deraumere, sibur, sibur, phiras[0m
+[92m[08:41:20]: Cell 4: food[0m
+[92m[08:41:20]: Cell 5: player[0m
+[92m[08:41:20]: Cell 6: mendiane[0m
+[92m[08:41:20]: Cell 7: food, food, food[0m
+[92m[08:41:20]: Cell 8: food, linemate, deraumere[0m
+2 1 1
+[94m[08:41:20]: Inventory[0m
+[92m[08:41:20]: 19, 1, 1, 1, 0, 0, 0[0m
+[93m[08:41:20]: It's time to level up Bobby![0m
+[94m[08:41:20]: Look[0m
+[92m[08:41:20]: Cell 0: player[0m
+[92m[08:41:20]: Cell 1: player, sibur, mendiane[0m
+[92m[08:41:20]: Cell 2: food, food, linemate, deraumere, phiras[0m
+[92m[08:41:20]: Cell 3: food, food, food, food, deraumere, sibur, sibur, phiras[0m
+[92m[08:41:20]: Cell 4: food[0m
+[92m[08:41:20]: Cell 5: food[0m
+[92m[08:41:20]: Cell 6: mendiane[0m
+[92m[08:41:20]: Cell 7: food, food, food[0m
+[92m[08:41:20]: Cell 8: food, linemate, deraumere[0m
+2 1 1
+[94m[08:41:20]: Inventory[0m
+[92m[08:41:20]: 19, 1, 1, 1, 0, 0, 0[0m
+[93m[08:41:20]: It's time to level up Bobby![0m
+[94m[08:41:20]: Look[0m
+[92m[08:41:20]: Cell 0: player[0m
+[92m[08:41:20]: Cell 1: player, sibur, mendiane[0m
+[92m[08:41:20]: Cell 2: food, food, linemate, deraumere, phiras[0m
+[92m[08:41:20]: Cell 3: food, food, food, food, deraumere, sibur, sibur, phiras[0m
+[92m[08:41:20]: Cell 4: food[0m
+[92m[08:41:20]: Cell 5: food[0m
+[92m[08:41:20]: Cell 6: mendiane[0m
+[92m[08:41:20]: Cell 7: food, food, food[0m
+[92m[08:41:20]: Cell 8: food, linemate, deraumere[0m
+2 1 1
+[94m[08:41:20]: Inventory[0m
+[92m[08:41:20]: 19, 1, 1, 1, 0, 0, 0[0m
+[93m[08:41:20]: It's time to level up Bobby![0m
+[94m[08:41:20]: Look[0m
+[92m[08:41:20]: Cell 0: player[0m
+[92m[08:41:20]: Cell 1: player, sibur, mendiane[0m
+[92m[08:41:20]: Cell 2: food, food, linemate, deraumere, phiras[0m
+[92m[08:41:20]: Cell 3: food, food, food, food, deraumere, sibur, sibur, phiras[0m
+[92m[08:41:20]: Cell 4: food[0m
+[92m[08:41:20]: Cell 5: food[0m
+[92m[08:41:20]: Cell 6: mendiane[0m
+[92m[08:41:20]: Cell 7: food, food, food[0m
+[92m[08:41:20]: Cell 8: food, linemate, deraumere[0m
+2 1 1
+[94m[08:41:20]: Inventory[0m
+[92m[08:41:20]: 19, 1, 1, 1, 0, 0, 0[0m
+[93m[08:41:20]: It's time to level up Bobby![0m
+[94m[08:41:20]: Look[0m
+[92m[08:41:20]: Cell 0: player[0m
+[92m[08:41:20]: Cell 1: sibur, mendiane[0m
+[92m[08:41:20]: Cell 2: food, food, linemate, deraumere, phiras[0m
+[92m[08:41:20]: Cell 3: food, food, food, food, deraumere, sibur, sibur, phiras[0m
+[92m[08:41:20]: Cell 4: food[0m
+[92m[08:41:20]: Cell 5: food[0m
+[92m[08:41:20]: Cell 6: mendiane[0m
+[92m[08:41:20]: Cell 7: food, food, food[0m
+[92m[08:41:20]: Cell 8: food, linemate, deraumere[0m
+2 1 1
+[94m[08:41:20]: Inventory[0m
+[92m[08:41:20]: 19, 1, 1, 1, 0, 0, 0[0m
+[93m[08:41:20]: It's time to level up Bobby![0m
+[94m[08:41:20]: Look[0m
+[92m[08:41:20]: Cell 0: player[0m
+[92m[08:41:20]: Cell 1: sibur, mendiane[0m
+[92m[08:41:20]: Cell 2: food, food, linemate, deraumere, phiras[0m
+[92m[08:41:20]: Cell 3: food, food, food, food, deraumere, sibur, sibur, phiras[0m
+[92m[08:41:20]: Cell 4: food[0m
+[92m[08:41:20]: Cell 5: food[0m
+[92m[08:41:20]: Cell 6: mendiane[0m
+[92m[08:41:20]: Cell 7: food, food, food[0m
+[92m[08:41:20]: Cell 8: food, linemate, deraumere[0m
+2 1 1
+[94m[08:41:20]: Inventory[0m
+[92m[08:41:20]: 19, 1, 1, 1, 0, 0, 0[0m
+[93m[08:41:20]: It's time to level up Bobby![0m
+[94m[08:41:20]: Look[0m
+[92m[08:41:20]: Cell 0: player[0m
+[92m[08:41:20]: Cell 1: sibur, mendiane[0m
+[92m[08:41:20]: Cell 2: food, food, linemate, deraumere, phiras[0m
+[92m[08:41:20]: Cell 3: food, food, food, food, deraumere, sibur, sibur, phiras[0m
+[92m[08:41:20]: Cell 4: food[0m
+[92m[08:41:20]: Cell 5: food[0m
+[92m[08:41:20]: Cell 6: mendiane[0m
+[92m[08:41:20]: Cell 7: food, food, food[0m
+[92m[08:41:20]: Cell 8: food, linemate, deraumere[0m
+2 1 1
+[94m[08:41:20]: Inventory[0m
+[92m[08:41:20]: 19, 1, 1, 1, 0, 0, 0[0m
+[93m[08:41:20]: It's time to level up Bobby![0m
+[94m[08:41:20]: Look[0m
+[92m[08:41:20]: Cell 0: player[0m
+[92m[08:41:20]: Cell 1: sibur, mendiane[0m
+[92m[08:41:20]: Cell 2: food, food, linemate, deraumere, phiras[0m
+[92m[08:41:20]: Cell 3: food, food, food, food, deraumere, sibur, sibur, phiras[0m
+[94m[08:41:15]: Inventory[0m
+[92m[08:41:15]: 27, 0, 0, 0, 0, 0, 0[0m
+[93m[08:41:15]: Food level is below normal, searching some meat...[0m
+[94m[08:41:15]: Look[0m
+[92m[08:41:15]: Cell 0: player, mendiane[0m
+[92m[08:41:15]: Cell 1: food, food, sibur, mendiane[0m
+[92m[08:41:15]: Cell 2: food, food, food, food, linemate, phiras[0m
+[92m[08:41:15]: Cell 3: food, food[0m
+[93m[08:41:15]: Found some food on cell 2[0m
+Forward
+[94m[08:41:15]: Forward[0m
+[92m[08:41:15]: ok[0m
+[94m[08:41:15]: Inventory[0m
+[92m[08:41:15]: 27, 0, 0, 0, 0, 0, 0[0m
+[93m[08:41:15]: Food level is below normal, searching some meat...[0m
+[94m[08:41:15]: Look[0m
+[92m[08:41:15]: Cell 0: player, food, food, food, food, linemate, phiras[0m
+[92m[08:41:15]: Cell 1: food, deraumere, phiras[0m
+[92m[08:41:15]: Cell 2: food, food[0m
+[92m[08:41:15]: Cell 3: food, mendiane[0m
+[94m[08:41:15]: Take food[0m
+[92m[08:41:15]: ok[0m
+[94m[08:41:15]: Inventory[0m
+[92m[08:41:15]: 28, 0, 0, 0, 0, 0, 0[0m
+[94m[08:41:15]: Inventory[0m
+[92m[08:41:15]: 28, 0, 0, 0, 0, 0, 0[0m
+[93m[08:41:15]: Food level is below normal, searching some meat...[0m
+[94m[08:41:15]: Look[0m
+[92m[08:41:15]: Cell 0: player, food, food, food, linemate, phiras[0m
+[92m[08:41:15]: Cell 1: food, deraumere, phiras[0m
+[92m[08:41:15]: Cell 2: food, food[0m
+[92m[08:41:15]: Cell 3: food, mendiane[0m
+[94m[08:41:15]: Take food[0m
+[92m[08:41:15]: ok[0m
+[94m[08:41:15]: Inventory[0m
+[92m[08:41:15]: 29, 0, 0, 0, 0, 0, 0[0m
+[94m[08:41:15]: Inventory[0m
+[92m[08:41:15]: 29, 0, 0, 0, 0, 0, 0[0m
+[93m[08:41:15]: Food level is below normal, searching some meat...[0m
+[94m[08:41:15]: Look[0m
+[92m[08:41:15]: Cell 0: player, food, food, linemate, phiras[0m
+[92m[08:41:15]: Cell 1: food, deraumere, phiras[0m
+[92m[08:41:15]: Cell 2: food, food[0m
+[92m[08:41:15]: Cell 3: food, mendiane[0m
+[94m[08:41:15]: Take food[0m
+[92m[08:41:16]: ok[0m
+[94m[08:41:16]: Inventory[0m
+[92m[08:41:16]: 30, 0, 0, 0, 0, 0, 0[0m
+[94m[08:41:16]: Inventory[0m
+[92m[08:41:16]: 30, 0, 0, 0, 0, 0, 0[0m
+[93m[08:41:16]: Food level is below normal, searching some meat...[0m
+[94m[08:41:16]: Look[0m
+[92m[08:41:16]: Cell 0: player, food, linemate, phiras[0m
+[92m[08:41:16]: Cell 1: food, deraumere, phiras[0m
+[92m[08:41:16]: Cell 2: food, food[0m
+[92m[08:41:16]: Cell 3: food, mendiane[0m
+[94m[08:41:16]: Take food[0m
+[92m[08:41:16]: ok[0m
+[94m[08:41:16]: Inventory[0m
+[92m[08:41:16]: 31, 0, 0, 0, 0, 0, 0[0m
+[94m[08:41:16]: Inventory[0m
+[92m[08:41:16]: 31, 0, 0, 0, 0, 0, 0[0m
+[93m[08:41:16]: Need some ressource (1, 0, 0, 0, 0, 0)[0m
+[94m[08:41:16]: Look[0m
+[92m[08:41:16]: Cell 0: player, food, linemate, phiras[0m
+[92m[08:41:16]: Cell 1: food, deraumere, phiras[0m
+[92m[08:41:16]: Cell 2: food, food[0m
+[92m[08:41:16]: Cell 3: food, mendiane[0m
+[94m[08:41:16]: Take linemate[0m
+[92m[08:41:16]: ok[0m
+[94m[08:41:16]: Inventory[0m
+[92m[08:41:16]: 30, 1, 0, 0, 0, 0, 0[0m
+[94m[08:41:16]: Inventory[0m
+[92m[08:41:16]: 30, 1, 0, 0, 0, 0, 0[0m
+[93m[08:41:16]: It's time to level up Bobby![0m
+[94m[08:41:16]: Look[0m
+[92m[08:41:16]: Cell 0: player, food, phiras[0m
+[92m[08:41:16]: Cell 1: food, deraumere, phiras[0m
+[92m[08:41:16]: Cell 2: food, food[0m
+[92m[08:41:16]: Cell 3: food, mendiane[0m
+1 1 0
+[94m[08:41:16]: Look[0m
+[92m[08:41:16]: Cell 0: player, food, phiras[0m
+[92m[08:41:16]: Cell 1: food, deraumere, phiras[0m
+[92m[08:41:16]: Cell 2: food, food[0m
+[92m[08:41:16]: Cell 3: food, mendiane[0m
+[94m[08:41:16]: Take phiras[0m
+[92m[08:41:16]: ok[0m
+[94m[08:41:16]: Inventory[0m
+[92m[08:41:16]: 30, 1, 0, 0, 0, 1, 0[0m
+[94m[08:41:16]: Look[0m
+[92m[08:41:16]: Cell 0: player, food[0m
+[92m[08:41:16]: Cell 1: food, deraumere, phiras[0m
+[92m[08:41:16]: Cell 2: food, food[0m
+[92m[08:41:16]: Cell 3: food, mendiane[0m
+[94m[08:41:16]: Take food[0m
+[92m[08:41:16]: ok[0m
+[94m[08:41:16]: Inventory[0m
+[92m[08:41:16]: 31, 1, 0, 0, 0, 1, 0[0m
+[94m[08:41:16]: Look[0m
+[92m[08:41:16]: Cell 0: player[0m
+[92m[08:41:16]: Cell 1: food, deraumere, phiras[0m
+[92m[08:41:16]: Cell 2: food, food[0m
+[92m[08:41:16]: Cell 3: food, mendiane[0m
+[94m[08:41:16]: Set linemate[0m
+[92m[08:41:16]: ok[0m
+[94m[08:41:16]: Inventory[0m
+[92m[08:41:16]: 31, 0, 0, 0, 0, 1, 0[0m
+[94m[08:41:16]: Incantation[0m
+[92m[08:41:16]: Elevation underway[0m
+[4m[1m[92m[08:41:19]: Current level: 2[0m
+[94m[08:41:19]: Inventory[0m
+[92m[08:41:19]: 29, 0, 0, 0, 0, 1, 0[0m
+[93m[08:41:19]: Need some ressource (1, 1, 1, 0, 0, 0)[0m
+[94m[08:41:19]: Look[0m
+[92m[08:41:19]: Cell 0: player, linemate[0m
+[92m[08:41:19]: Cell 1: deraumere, phiras[0m
+[92m[08:41:19]: Cell 2: food[0m
+[92m[08:41:19]: Cell 3: mendiane[0m
+[92m[08:41:19]: Cell 4: food, linemate[0m
+[92m[08:41:19]: Cell 5: food[0m
+[92m[08:41:19]: Cell 6: food, sibur, sibur[0m
+[92m[08:41:19]: Cell 7: food[0m
+[92m[08:41:19]: Cell 8: linemate, linemate, sibur[0m
+[94m[08:41:19]: Take linemate[0m
+[92m[08:41:20]: ok[0m
+[94m[08:41:20]: Inventory[0m
+[92m[08:41:20]: 29, 1, 0, 0, 0, 1, 0[0m
+[94m[08:41:20]: Inventory[0m
+[92m[08:41:20]: 29, 1, 0, 0, 0, 1, 0[0m
+[93m[08:41:20]: Need some ressource (0, 1, 1, 0, 0, 0)[0m
+[94m[08:41:20]: Look[0m
+[92m[08:41:20]: Cell 0: player[0m
+[92m[08:41:20]: Cell 1: deraumere, phiras[0m
+[92m[08:41:20]: Cell 2: food[0m
+[92m[08:41:20]: Cell 3: mendiane[0m
+[92m[08:41:20]: Cell 4: food, linemate[0m
+[92m[08:41:20]: Cell 5: food[0m
+[92m[08:41:20]: Cell 6: food, sibur, sibur[0m
+[92m[08:41:20]: Cell 7: food[0m
+[92m[08:41:20]: Cell 8: linemate, linemate, sibur[0m
+[93m[08:41:20]: deraumere on 1[0m
+[93m[08:41:20]: Going Left to steal some deraumere[0m
+[94m[08:41:20]: Left[0m
+[92m[08:41:20]: ok[0m
+[94m[08:41:20]: Forward[0m
+[92m[08:41:20]: ok[0m
+[94m[08:41:20]: Right[0m
+[92m[08:41:20]: ok[0m
+[94m[08:41:20]: Inventory[0m
+[92m[08:41:20]: 28, 1, 0, 0, 0, 1, 0[0m
+[93m[08:41:20]: Need some ressource (0, 1, 1, 0, 0, 0)[0m
+[94m[08:41:20]: Look[0m
+[92m[08:41:20]: Cell 0: player, sibur, mendiane[0m
+[92m[08:41:20]: Cell 1: [0m
+[92m[08:41:20]: Cell 2: deraumere, phiras[0m
+[92m[08:41:20]: Cell 3: food[0m
+[92m[08:41:20]: Cell 4: food, food, sibur[0m
+[92m[08:41:20]: Cell 5: food, linemate[0m
+[92m[08:41:20]: Cell 6: food[0m
+[92m[08:41:20]: Cell 7: food, sibur, sibur[0m
+[92m[08:41:20]: Cell 8: food[0m
+[93m[08:41:20]: Found some food on cell 2[0m
+[93m[08:41:20]: Going Forward to steal some deraumere[0m
+[94m[08:41:20]: Forward[0m
+[92m[08:41:20]: ok[0m
+[94m[08:41:20]: Inventory[0m
+[92m[08:41:20]: 28, 1, 0, 0, 0, 1, 0[0m
+[93m[08:41:20]: Need some ressource (0, 1, 1, 0, 0, 0)[0m
+[94m[08:41:20]: Look[0m
+[92m[08:41:20]: Cell 0: player, deraumere, phiras[0m
+[92m[08:41:20]: Cell 1: food, linemate[0m
+[92m[08:41:20]: Cell 2: food[0m
+[92m[08:41:20]: Cell 3: food, sibur, sibur[0m
+[92m[08:41:20]: Cell 4: food, sibur, mendiane[0m
+[92m[08:41:20]: Cell 5: food, food, food[0m
+[92m[08:41:20]: Cell 6: food, food[0m
+[92m[08:41:20]: Cell 7: food, deraumere, mendiane[0m
+[92m[08:41:20]: Cell 8: food, linemate, phiras[0m
+[94m[08:41:20]: Take deraumere[0m
+[92m[08:41:20]: ok[0m
+[94m[08:41:20]: Inventory[0m
+[92m[08:41:20]: 28, 1, 1, 0, 0, 1, 0[0m
+[94m[08:41:20]: Inventory[0m
+[92m[08:41:20]: 28, 1, 1, 0, 0, 1, 0[0m
+[93m[08:41:20]: Need some ressource (0, 0, 1, 0, 0, 0)[0m
+[94m[08:41:20]: Look[0m
+[92m[08:41:20]: Cell 0: player, phiras[0m
+[92m[08:41:20]: Cell 1: food, linemate[0m
+[92m[08:41:20]: Cell 2: food[0m
+[92m[08:41:20]: Cell 3: food, sibur, sibur[0m
+[92m[08:41:20]: Cell 4: food, sibur, mendiane[0m
+[92m[08:41:20]: Cell 5: food, food, food[0m
+[92m[08:41:20]: Cell 6: food, food[0m
+[92m[08:41:20]: Cell 7: food, deraumere, mendiane[0m
+[92m[08:41:20]: Cell 8: food, linemate, phiras[0m
+[93m[08:41:20]: sibur on 3[0m
+[93m[08:41:20]: Going Right to steal some sibur[0m
+[94m[08:41:20]: Right[0m
+[92m[08:41:20]: ok[0m
+[94m[08:41:20]: Forward[0m
+[92m[08:41:20]: ok[0m
+[94m[08:41:20]: Left[0m
+[92m[08:41:20]: ok[0m
+[94m[08:41:20]: Inventory[0m
+[92m[08:41:20]: 28, 1, 1, 0, 0, 1, 0[0m
+[92m[08:41:20]: Cell 4: food[0m
+[92m[08:41:20]: Cell 5: food[0m
+[92m[08:41:20]: Cell 6: mendiane[0m
+[92m[08:41:20]: Cell 7: food, food, food[0m
+[92m[08:41:20]: Cell 8: food, linemate, deraumere[0m
+2 1 1
+[94m[08:41:20]: Inventory[0m
+[92m[08:41:20]: 19, 1, 1, 1, 0, 0, 0[0m
+[93m[08:41:20]: It's time to level up Bobby![0m
+[94m[08:41:20]: Look[0m
+[92m[08:41:20]: Cell 0: player[0m
+[92m[08:41:20]: Cell 1: sibur, mendiane[0m
+[92m[08:41:20]: Cell 2: food, food, linemate, deraumere, phiras[0m
+[92m[08:41:20]: Cell 3: food, food, food, food, deraumere, sibur, sibur, phiras[0m
+[92m[08:41:20]: Cell 4: food[0m
+[92m[08:41:20]: Cell 5: food[0m
+[92m[08:41:20]: Cell 6: mendiane[0m
+[92m[08:41:20]: Cell 7: food, food, food[0m
+[92m[08:41:20]: Cell 8: food, linemate, deraumere[0m
+2 1 1
+[93m[08:41:20]: Lem smash Bobby![0m
+[94m[08:41:20]: Fork[0m
+[92m[08:41:21]: ok[0m
+[94m[08:41:21]: Inventory[0m
+[92m[08:41:21]: 18, 1, 1, 1, 0, 0, 0[0m
+[93m[08:41:21]: It's time to level up Bobby![0m
+[94m[08:41:21]: Look[0m
+[92m[08:41:21]: Cell 0: player[0m
+[92m[08:41:21]: Cell 1: food, sibur, mendiane[0m
+[92m[08:41:21]: Cell 2: food, food, linemate, deraumere, phiras[0m
+[92m[08:41:21]: Cell 3: food, food, food, food, deraumere, sibur, sibur, phiras[0m
+[92m[08:41:21]: Cell 4: food, food[0m
+[92m[08:41:21]: Cell 5: food, food[0m
+[92m[08:41:21]: Cell 6: food, food, mendiane[0m
+[92m[08:41:21]: Cell 7: food, food, food[0m
+[92m[08:41:21]: Cell 8: food, food, linemate, deraumere[0m
+2 1 1
+[94m[08:41:21]: Inventory[0m
+[92m[08:41:21]: 18, 1, 1, 1, 0, 0, 0[0m
+[93m[08:41:21]: It's time to level up Bobby![0m
+[94m[08:41:21]: Look[0m
+[91m[08:41:21]: message 2, lem_help_plz:2[0m
+[95m[08:41:21]: <built-in function dir>   -   Forward, Left, Forward, Right[0m
+[94m[08:41:21]: Forward[0m
+[92m[08:41:21]: [ player, food sibur mendiane, food food linemate deraumere phiras, food food food food deraumere sibur sibur phiras, food food, food food, food food mendiane, food food food, food food linemate deraumere ][0m
+[94m[08:41:21]: Left[0m
+[92m[08:41:21]: ok[0m
+[94m[08:41:21]: Forward[0m
+[92m[08:41:21]: ok[0m
+[94m[08:41:21]: Right[0m
+[92m[08:41:21]: ok[0m
+[94m[08:41:21]: Broadcast I HEARD YOU BOBBY[0m
+[92m[08:41:21]: ok[0m
+[91m[08:41:21]: message 2, I HEARD YOU BOBBY[0m
+[96m[08:41:44]: Dayum, this is the end for me... :'([0m

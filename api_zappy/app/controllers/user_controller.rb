@@ -1,3 +1,9 @@
+# coding: utf-8
+
+require 'net/http'
+require 'json'
+
+
 class UserController < ApplicationController
 
   def get_logs
@@ -41,6 +47,10 @@ class UserController < ApplicationController
 
   def upload_code
     code = params[:code]
+    if can_upload(session[:user_email]) == false
+      render 'auth/error'
+      return
+    end
     unless code.nil?
       puts code
       FileUtils.rm_rf(Dir.glob('delivery/' + session[:user_email] + '/*'))
@@ -61,5 +71,33 @@ class UserController < ApplicationController
   def menu
     get_logs
     render 'ranking'
+  end
+
+  private
+  def can_upload(user_name)
+    url2 = 'https://intra.epitech.eu/auth-ded102aa843dc494f2e69873c00fc05194d95a64/user/' + user_name +'/notes/?format=json'
+    content2 = open(url2).read
+    if content2.nil?
+      return false
+    end
+    data2 = JSON.parse(content2)
+    if data2.nil?
+      return false
+    end
+     
+    if data2["modules"].nil?
+      return false
+    end
+    in_mod = false
+    data2["modules"].each do |mod|
+      if mod["codemodule"] == "B-PSU-335"
+        in_mod = true
+        break
+      end
+    end
+    if in_mod === false
+      return false
+    end
+    return true
   end
 end

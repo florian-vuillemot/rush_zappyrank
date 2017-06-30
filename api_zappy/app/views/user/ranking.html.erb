@@ -4,7 +4,6 @@
       <div class="nav-wrapper">
         <a href="menu.html.erb" class="brand-logo center">ZappyRank</a>
         <ul class="right hide-on-med-and-down">
-          <li><a href="https://www.zappyrank.eu/auth/logout">Logout</a></li>
 	  <% if @user_log %>
           <li><%= link_to 'Mes log', @user_log, download: '' %></li>
 	  <% end %>
